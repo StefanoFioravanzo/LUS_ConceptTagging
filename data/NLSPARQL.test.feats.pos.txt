@@ -1,0 +1,8201 @@
+star	NN
+of	IN
+thor	NN
+
+who	WP
+is	VBZ
+in	IN
+the	DT
+movie	NN
+the	DT
+campaign	NN
+
+list	VV
+the	DT
+cast	NN
+of	IN
+the	DT
+movie	NN
+the	DT
+campaign	NN
+
+who	WP
+was	VBD
+in	IN
+twilight	NN
+
+who	WP
+is	VBZ
+in	IN
+vulguria	NN
+
+actor	NN
+from	IN
+lost	VVN
+
+who	WP
+played	VVD
+in	IN
+the	DT
+movie	NN
+rocky	JJ
+
+who	WP
+played	VVD
+in	IN
+the	DT
+movie	NN
+captain	NN
+america	NN
+
+cast	NN
+and	CC
+crew	NN
+for	IN
+in	IN
+july	NN
+
+who	WP
+is	VBZ
+in	IN
+movie	NN
+in	IN
+july	RB
+
+who	WP
+'s	VBZ
+in	IN
+star	NN
+wars	NNS
+episode	NN
+four	CD
+
+who	WP
+was	VBD
+in	IN
+apollo	NN
+thirteen	CD
+
+who	WP
+was	VBD
+apollo	NN
+thirteen	CD
+'s	VBZ
+cast	VVN
+
+search	NN
+for	IN
+information	NN
+about	IN
+the	DT
+cast	NN
+and	CC
+crew	NN
+of	IN
+appolo	NP
+thirteen	CD
+
+i	NP
+would	MD
+like	VV
+to	TO
+know	VV
+more	JJR
+about	IN
+the	DT
+cast	NN
+and	CC
+crew	NN
+of	IN
+the	DT
+movie	NN
+apollo	NN
+thirteen	CD
+
+who	WP
+starred	VVD
+in	IN
+the	DT
+avengers	NNS
+
+cast	VVN
+for	IN
+finding	VVG
+nemo	NN
+
+actor	NN
+from	IN
+lassie	NN
+
+list	NN
+actors	NNS
+in	IN
+the	DT
+movie	NN
+midnight	NN
+cowboy	NN
+
+dirty	JJ
+dancing	NN
+actors	NNS
+
+who	WP
+are	VBP
+cast	VVN
+and	CC
+crew	NN
+of	IN
+dirty	JJ
+dancing	NN
+
+who	WP
+was	VBD
+in	IN
+hitch	NN
+
+who	WP
+is	VBZ
+in	IN
+the	DT
+cast	NN
+of	IN
+hitch	NN
+
+star	NN
+of	IN
+facts	NNS
+of	IN
+life	NN
+
+show	VV
+me	PP
+movie	NN
+credits	NNS
+
+who	WP
+does	VVZ
+the	DT
+voices	NNS
+for	IN
+the	DT
+movie	NN
+
+find	VV
+movie	NN
+actors	NNS
+
+show	NN
+credits	NNS
+-	:
+forager	NN
+
+star	NN
+of	IN
+modern	JJ
+family	NN
+
+look	VV
+up	RP
+information	NN
+about	IN
+the	DT
+cast	NN
+crew	NN
+of	IN
+go	NN
+
+find	VV
+information	NN
+about	IN
+the	DT
+cast	NN
+and	CC
+crew	NN
+of	IN
+go	NN
+
+who	WP
+was	VBD
+in	IN
+the	DT
+cast	NN
+of	IN
+go	NN
+
+can	MD
+you	PP
+find	VV
+the	DT
+lead	JJ
+actor	NN
+in	IN
+pretty	JJ
+women	NNS
+
+what	WP
+are	VBP
+the	DT
+actors	NNS
+names	NNS
+and	CC
+parts	NNS
+in	IN
+finding	VVG
+nemo	NN
+
+searching	VVG
+for	IN
+names	NNS
+of	IN
+crew	NN
+members	NNS
+of	IN
+appollo	NP
+thirteen	CD
+
+budget	NN
+for	IN
+dark	JJ
+knight	NN
+
+what	WP
+was	VBD
+the	DT
+budget	NN
+for	IN
+the	DT
+godfather	NN
+
+budget	NN
+for	IN
+twilight	NN
+
+please	UH
+look	VV
+up	RP
+the	DT
+budget	NN
+of	IN
+step	NN
+up	RB
+
+budget	NN
+for	IN
+titanic	JJ
+the	DT
+movie	NN
+
+what	WP
+was	VBD
+the	DT
+budget	NN
+for	IN
+the	DT
+movie	NN
+titanic	JJ
+
+budget	NN
+for	IN
+iron	NN
+man	NN
+2	CD
+
+please	VV
+tell	VV
+me	PP
+how	WRB
+much	JJ
+was	VBD
+the	DT
+budget	NN
+for	IN
+avatar	NN
+
+how	WRB
+much	JJ
+money	NN
+did	VVD
+they	PP
+spend	VVP
+to	TO
+make	VV
+avatar	NN
+
+avatar	NN
+'s	POS
+budget	NN
+
+how	WRB
+much	RB
+did	VVD
+avatar	NN
+take	VV
+in	IN
+
+please	UH
+show	VV
+me	PP
+what	WP
+the	DT
+budget	NN
+was	VBD
+for	IN
+avatar	NN
+
+what	WP
+was	VBD
+the	DT
+budget	NN
+for	IN
+the	DT
+avatar	NN
+movie	NN
+
+can	MD
+you	PP
+tell	VV
+me	PP
+the	DT
+budget	NN
+of	IN
+the	DT
+movie	NN
+avatar	NN
+
+total	JJ
+budget	NN
+for	IN
+the	DT
+movie	NN
+avatar	NN
+
+what	WP
+was	VBD
+the	DT
+budget	NN
+for	IN
+batman	NN
+begins	VVZ
+
+what	WP
+was	VBD
+the	DT
+budget	NN
+for	IN
+the	DT
+avengers	NNS
+
+what	WP
+was	VBD
+the	DT
+budget	NN
+for	IN
+gone	VVN
+with	IN
+the	DT
+wind	NN
+
+what	WP
+was	VBD
+spent	VVN
+on	IN
+my	PP$
+big	JJ
+fat	JJ
+greek	NN
+wedding	NN
+
+what	WP
+was	VBD
+pretty	RB
+woman	NN
+'s	POS
+budget	NN
+
+what	WP
+was	VBD
+the	DT
+budget	NN
+for	IN
+spaceballs	NNS
+
+how	WRB
+many	JJ
+movies	NNS
+has	VHZ
+kevin	NN
+bacon	NN
+been	VBN
+the	DT
+lead	JJ
+actor	NN
+in	IN
+
+how	WRB
+many	JJ
+star	NN
+wars	NNS
+movies	NNS
+are	VBP
+there	RB
+
+how	WRB
+many	JJ
+movies	NNS
+are	VBP
+rated	VVN
+g	NN
+
+spain	NN
+has	VHZ
+how	WRB
+many	JJ
+movies	NNS
+
+how	WRB
+many	JJ
+movies	NNS
+has	VHZ
+kristen	NN
+stewart	NN
+starred	VVN
+in	IN
+
+how	WRB
+many	JJ
+movies	NNS
+has	VHZ
+robert	JJ
+wise	NN
+directed	VVD
+
+how	WRB
+many	JJ
+movies	NNS
+did	VVD
+alfred	NN
+hitchcock	NN
+direct	JJ
+
+how	WRB
+many	JJ
+movies	NNS
+has	VHZ
+paramount	JJ
+done	VVN
+
+i	NP
+would	MD
+like	VV
+to	TO
+know	VV
+the	DT
+name	NN
+of	IN
+the	DT
+country	NN
+from	IN
+where	WRB
+the	DT
+movie	NN
+kati	NN
+patang	NN
+comes	VVZ
+
+what	WP
+country	NN
+is	VBZ
+bullhead	NN
+
+what	WP
+country	NN
+made	VVD
+black	JJ
+swan	NN
+
+what	WP
+country	NN
+was	VBD
+black	JJ
+swan	NN
+from	IN
+
+what	WP
+country	NN
+was	VBD
+the	DT
+movie	NN
+made	VVD
+
+what	WP
+country	NN
+did	VVD
+deep	JJ
+blue	JJ
+sea	NN
+come	VVN
+from	IN
+
+origin	NN
+of	IN
+titanic	JJ
+
+origin	NN
+of	IN
+king	NN
+lear	NN
+
+when	WRB
+will	MD
+top	JJ
+gun	NN
+be	VB
+released	VVN
+
+release	NN
+year	NN
+and	CC
+date	NN
+for	IN
+casino	NN
+
+when	WRB
+did	VVD
+will	MD
+ferrell	RB
+begin	VV
+acting	VVG
+
+show	VV
+me	PP
+when	WRB
+24	CD
+will	MD
+be	VB
+released	VVN
+
+can	MD
+i	NP
+have	VHP
+release	NN
+date	NN
+of	IN
+movie	NN
+
+movie	NN
+'s	POS
+release	NN
+date	NN
+
+show	VV
+me	PP
+when	WRB
+the	DT
+movie	NN
+was	VBD
+made	VVN
+
+when	WRB
+the	DT
+movie	NN
+titanic	JJ
+was	VBD
+released	VVN
+
+what	WP
+year	NN
+did	VVD
+the	DT
+italian	JJ
+movie	NN
+roman	NN
+holiday	NN
+come	VVN
+out	RP
+
+can	MD
+you	PP
+please	VV
+search	NN
+for	IN
+release	NN
+date	NN
+for	IN
+karate	NN
+kid	NN
+
+karate	NN
+kid	NN
+release	NN
+date	NN
+please	RB
+
+when	WRB
+was	VBD
+dirty	JJ
+dancing	NN
+released	VVN
+
+when	WRB
+was	VBD
+spaceballs	NNS
+released	VVN
+
+when	WRB
+was	VBD
+batman	NN
+released	VVN
+
+when	WRB
+was	VBD
+pretty	RB
+woman	NN
+released	VVN
+
+when	WRB
+was	VBD
+men	NNS
+in	IN
+black	JJ
+released	VVN
+
+when	WRB
+did	VVD
+kristen	NP
+stewart	NP
+start	NN
+acting	NN
+
+when	WRB
+is	VBZ
+possessed	VVN
+going	VVG
+to	TO
+be	VB
+released	VVN
+
+when	WRB
+was	VBD
+resident	JJ
+evil	NN
+released	VVN
+
+release	NN
+date	NN
+for	IN
+finding	VVG
+nemo	NN
+
+when	WRB
+was	VBD
+finding	VVG
+nemo	NN
+released	VVN
+
+release	NN
+date	NN
+of	IN
+hum	NN
+tum	NN
+
+when	WRB
+was	VBD
+freedom	NN
+writers	NNS
+released	VVD
+
+when	WRB
+was	VBD
+avatar	NN
+released	VVN
+
+when	WRB
+did	VVD
+avatar	NN
+released	VVD
+
+i	NP
+would	MD
+like	VV
+to	TO
+know	VV
+the	DT
+release	NN
+date	NN
+of	IN
+the	DT
+movie	NN
+avatar	NN
+
+can	MD
+you	PP
+tell	VV
+me	PP
+when	WRB
+was	VBD
+the	DT
+movie	NN
+avatar	NN
+released	VVD
+
+when	WRB
+was	VBD
+date	NN
+night	NN
+released	VVD
+
+when	WRB
+did	VVD
+black	JJ
+swan	NN
+come	VVN
+out	RP
+
+when	WRB
+did	VVD
+avergers	NNS
+come	VV
+out	RP
+
+what	WP
+date	NN
+did	VVD
+the	DT
+amazing	JJ
+spiderman	NN
+show	NN
+for	IN
+the	DT
+1st	JJ
+time	NN
+
+what	WP
+is	VBZ
+the	DT
+release	NN
+date	NN
+of	IN
+vulgaria	NN
+
+when	WRB
+the	DT
+movie	NN
+the	DT
+godfather	NN
+was	VBD
+released	VVN
+
+when	WRB
+does	VVZ
+looper	NN
+come	VV
+out	RP
+
+can	MD
+you	PP
+tell	VV
+me	PP
+the	DT
+release	NN
+date	NN
+of	IN
+the	DT
+movie	NN
+barfi	NN
+
+what	WP
+date	NN
+did	VVD
+the	DT
+movie	NN
+heroine	NN
+come	VVN
+out	RP
+
+when	WRB
+did	VVD
+the	DT
+house	NN
+at	IN
+the	DT
+end	NN
+of	IN
+the	DT
+street	NN
+hit	NN
+theaters	NNS
+
+what	WP
+day	NN
+is	VBZ
+fun	NN
+size	NN
+coming	VVG
+out	RP
+
+what	WP
+day	NN
+will	NN
+django	NN
+unchained	VVD
+come	VV
+out	RP
+
+when	WRB
+will	MD
+i	NP
+be	VB
+able	JJ
+to	TO
+view	VV
+iron	NN
+man	NN
+3	CD
+
+on	IN
+what	WP
+date	NN
+will	MD
+iron	VV
+man	NN
+3	LS
+be	VB
+released	VVN
+
+who	WP
+directed	VVD
+gone	VVN
+with	IN
+the	DT
+wind	NN
+
+who	WP
+was	VBD
+the	DT
+director	NN
+for	IN
+black	JJ
+swan	NN
+
+tell	VV
+me	PP
+the	DT
+directed	VVD
+of	IN
+black	JJ
+swan	NN
+
+who	WP
+is	VBZ
+the	DT
+director	NN
+of	IN
+sleepless	JJ
+in	IN
+seattle	NN
+
+find	VV
+who	WP
+the	DT
+director	NN
+was	VBD
+in	IN
+men	NNS
+in	IN
+black	JJ
+3	CD
+
+locate	VV
+the	DT
+director	NN
+who	WP
+created	VVD
+the	DT
+movie	NN
+men	NNS
+in	IN
+black	JJ
+3	CD
+
+director	NN
+of	IN
+titanic	JJ
+
+titanic	JJ
+director	NN
+
+avengers	NNS
+movie	NN
+director	NN
+
+dirctor	NN
+of	IN
+movie	NN
+avengers	NNS
+
+who	WP
+was	VBD
+the	DT
+director	NN
+for	IN
+nacho	NN
+libre	NN
+
+director	NN
+for	IN
+big	JJ
+
+who	WP
+was	VBD
+the	DT
+director	NN
+of	IN
+welcome	NN
+to	TO
+the	DT
+dollhouse	NN
+
+who	WP
+directed	VVD
+the	DT
+movie	NN
+house	NN
+at	IN
+the	DT
+end	NN
+of	IN
+the	DT
+at	IN
+the	DT
+street	NN
+
+who	WP
+was	VBD
+the	DT
+director	NN
+of	IN
+the	DT
+movie	NN
+toy	NN
+story	NN
+
+list	NN
+director	NN
+gilda	NN
+
+who	WP
+directed	VVD
+field	NN
+of	IN
+dreams	NNS
+
+who	WP
+is	VBZ
+the	DT
+second	JJ
+director	NN
+on	IN
+finding	VVG
+nemo	NN
+
+find	VV
+director	NN
+of	IN
+finding	VVG
+nemo	NN
+
+who	WP
+directed	VVD
+finding	VVG
+nemo	NN
+
+finding	VVG
+nemo	NN
+directed	VVN
+by	IN
+who	WP
+
+director	NN
+of	IN
+finding	VVG
+nemo	NN
+
+who	WP
+directed	VVD
+hitch	NN
+
+i	NNS
+want	VVP
+to	TO
+know	VV
+who	WP
+is	VBZ
+the	DT
+director	NN
+of	IN
+the	DT
+movie	NN
+batman	NN
+
+who	WP
+is	VBZ
+director	NN
+of	IN
+the	DT
+words	NNS
+
+who	WP
+directed	VVD
+million	CD
+dollar	NN
+baby	NN
+
+who	WP
+was	VBD
+the	DT
+guy	NN
+that	WDT
+directed	VVD
+moneyball	NN
+
+who	WP
+did	VVD
+twilight	NN
+
+twilight	NN
+director	NN
+
+who	WP
+directed	VVD
+twilight	NN
+
+who	WP
+directed	VVD
+twilight	NN
+
+who	WP
+is	VBZ
+the	DT
+director	NN
+of	IN
+hum	NN
+tum	NN
+
+look	VV
+for	IN
+the	DT
+director	NN
+of	IN
+step	NN
+up	RB
+
+please	UH
+find	VV
+the	DT
+director	NN
+of	IN
+freedom	NN
+writers	NNS
+
+find	VV
+the	DT
+director	NN
+of	IN
+freedom	NN
+writers	NNS
+
+look	VV
+up	RP
+the	DT
+director	NN
+of	IN
+freedom	NN
+writers	NNS
+
+find	VV
+the	DT
+director	NN
+of	IN
+freedom	NN
+writers	NNS
+
+who	WP
+directed	VVD
+baby	NN
+mama	NN
+
+godfather	NN
+director	NN
+
+show	VV
+me	PP
+who	WP
+directed	VVD
+the	DT
+sound	NN
+of	IN
+music	NN
+
+who	WP
+directed	VVD
+the	DT
+sound	NN
+of	IN
+music	NN
+
+who	WP
+directed	VVD
+the	DT
+sound	NN
+of	IN
+music	NN
+
+find	VV
+the	DT
+name	NN
+of	IN
+the	DT
+director	NN
+of	IN
+return	NN
+
+show	NN
+movie	NN
+avengers	NNS
+director	NN
+name	NN
+
+name	VV
+the	DT
+director	NN
+in	IN
+sleepless	JJ
+in	IN
+seattle	NN
+
+what	WP
+'s	VBZ
+the	DT
+genre	NN
+for	IN
+black	JJ
+swan	NN
+
+what	WP
+is	VBZ
+black	JJ
+swan	NN
+'s	POS
+genre	NN
+
+what	WP
+genre	NN
+is	VBZ
+parenthood	NN
+
+what	WP
+kind	NN
+of	IN
+movie	NN
+is	VBZ
+parenthood	NN
+
+genre	NN
+for	IN
+pride	NN
+and	CC
+prejudice	NN
+
+can	MD
+you	PP
+tell	VV
+me	PP
+the	DT
+genre	NN
+of	IN
+the	DT
+movie	NN
+lawless	JJ
+
+show	VV
+me	PP
+what	WP
+genre	NN
+does	VVZ
+movie	NN
+lawless	JJ
+belongs	VVZ
+to	TO
+
+genre	NN
+for	IN
+snow	NN
+white	NN
+and	CC
+the	DT
+huntsman	NN
+
+what	WP
+is	VBZ
+the	DT
+movie	NN
+type	NN
+
+what	WP
+'s	VBZ
+the	DT
+genre	NN
+of	IN
+rushmore	NN
+
+get	VV
+the	DT
+genre	NN
+of	IN
+welcome	NN
+to	TO
+the	DT
+dollhouse	NN
+
+i	NNS
+want	VVP
+to	TO
+find	VV
+the	DT
+genre	NN
+freedom	NN
+writers	NNS
+is	VBZ
+in	IN
+
+what	WP
+genre	NN
+is	VBZ
+freedom	NN
+writers	NNS
+in	IN
+
+genre	NN
+for	IN
+batman	NN
+
+give	VV
+me	PP
+the	DT
+genre	NN
+of	IN
+the	DT
+movie	NN
+avatar	NN
+
+i	NP
+would	MD
+like	VV
+to	TO
+know	VV
+the	DT
+genre	NN
+of	IN
+the	DT
+movie	NN
+avatar	NN
+
+genre	NN
+for	IN
+bad	JJ
+teacher	NN
+
+can	MD
+you	PP
+tell	VV
+me	PP
+pretty	JJ
+girl	NN
+the	DT
+movie	NN
+'s	POS
+genre	NN
+
+what	WP
+genre	NN
+is	VBZ
+the	DT
+movie	NN
+pitch	NN
+perfect	JJ
+
+in	IN
+what	WP
+language	NN
+is	VBZ
+this	DT
+movie	NN
+
+what	WP
+language	NN
+is	VBZ
+this	DT
+movie	NN
+
+what	WP
+language	NN
+is	VBZ
+the	DT
+movie	NN
+hero	NN
+in	IN
+
+language	NN
+of	IN
+king	NN
+lear	NN
+
+language	NN
+of	IN
+casa	NN
+blanca	NN
+
+what	WP
+language	NN
+is	VBZ
+head	NN
+on	IN
+in	IN
+
+language	NN
+of	IN
+spanglish	NN
+
+find	VV
+out	RP
+what	WP
+language	NN
+the	DT
+father	NN
+of	IN
+my	PP$
+children	NNS
+is	VBZ
+in	IN
+
+i	NNS
+am	VBP
+intersted	VVN
+in	IN
+viewing	VVG
+belle	NN
+what	WP
+foreign	JJ
+language	NN
+is	VBZ
+the	DT
+movie	NN
+available	JJ
+in	IN
+
+i	NNS
+need	VVP
+to	TO
+find	VV
+out	RP
+about	IN
+names	NNS
+of	IN
+some	DT
+japanese	JJ
+movies	NNS
+
+can	MD
+you	PP
+tell	VV
+me	PP
+names	NNS
+of	IN
+some	DT
+japanese	JJ
+movies	NNS
+
+ron	NNS
+howard	RB
+name	VVP
+some	DT
+of	IN
+the	DT
+movies	NNS
+he	PP
+produce	VVP
+
+tell	VV
+me	PP
+the	DT
+names	NNS
+of	IN
+the	DT
+movies	NNS
+produced	VVN
+by	IN
+william	NP
+packer	NN
+
+about	IN
+life	NN
+is	VBZ
+beautiful	JJ
+
+show	VV
+me	PP
+info	NN
+on	IN
+life	NN
+is	VBZ
+beautiful	JJ
+
+find	VV
+old	JJ
+movies	NNS
+
+find	VV
+movie	NN
+ratings	NNS
+
+find	VV
+newly	RB
+released	VVN
+movies	NNS
+in	IN
+spanish	NN
+
+was	VBD
+bill	NN
+paxton	NN
+in	IN
+the	DT
+movie	NN
+apollo	NN
+thirteen	CD
+
+was	VBD
+kevin	NN
+bacon	NN
+in	IN
+the	DT
+movie	NN
+apollo	NN
+thirteen	CD
+
+find	VV
+movies	NNS
+about	IN
+dancing	NN
+
+search	NN
+for	IN
+movies	NNS
+about	IN
+dancing	NN
+
+show	NN
+will	MD
+ferrell	VV
+films	NNS
+
+will	MD
+ferrell	NP
+movies	NNS
+
+what	WP
+movies	NNS
+has	VHZ
+will	NN
+ferrell	NN
+appeared	VVD
+in	IN
+
+find	VV
+russian	JJ
+movies	NNS
+
+show	VV
+me	PP
+the	DT
+movie	NN
+pretty	JJ
+women	NNS
+so	IN
+i	NP
+can	MD
+see	VV
+who	WP
+starred	VVD
+in	IN
+the	DT
+movie	NN
+
+feral	JJ
+
+the	DT
+movie	NN
+is	VBZ
+called	VVN
+big	JJ
+
+will	MD
+smith	NN
+acting	VVG
+carrer	NN
+
+how	WRB
+many	JJ
+movies	NNS
+did	VVD
+peter	NN
+jackson	NNS
+do	VVP
+
+movies	NNS
+and	CC
+gross	JJ
+payment	NN
+
+search	NN
+for	IN
+tim	NN
+burton	NN
+movies	NNS
+in	IN
+french	NNS
+
+exhibit	VV
+all	DT
+details	NNS
+of	IN
+original	JJ
+finding	VVG
+nemo	NN
+movie	NN
+
+finding	VVG
+nemo	NN
+movie	NN
+
+find	VV
+the	DT
+movie	NN
+finding	VVG
+nemo	NN
+
+i	NNS
+am	VBP
+looking	VVG
+for	IN
+information	NN
+on	IN
+the	DT
+movie	NN
+finding	VVG
+nemo	NN
+
+show	VV
+me	PP
+details	NNS
+for	IN
+the	DT
+movie	NN
+finding	VVG
+nemo	NN
+
+what	WP
+did	VVD
+andrew	NN
+stanton	NN
+direct	JJ
+
+show	VV
+me	PP
+some	DT
+other	JJ
+movies	NNS
+directed	VVN
+by	IN
+andrew	JJ
+stanton	NN
+
+display	NN
+albert	NN
+brooks	VVZ
+movie	NN
+
+show	VV
+a	DT
+movie	NN
+with	IN
+albert	NN
+brooks	NNS
+in	IN
+the	DT
+cast	NN
+
+what	WP
+other	JJ
+films	NNS
+has	VHZ
+sergio	NN
+leone	NN
+directed	VVD
+
+what	WP
+movies	NNS
+has	VHZ
+george	NN
+harrison	NN
+produced	VVD
+
+what	WP
+has	VHZ
+charlie	NN
+sheen	NN
+starred	VVN
+in	IN
+
+please	UH
+find	VV
+the	DT
+movies	NNS
+in	IN
+which	WDT
+clive	JJ
+owen	NN
+has	VHZ
+appeared	VVN
+
+in	IN
+which	WDT
+movies	NNS
+has	VHZ
+clive	JJ
+owen	NNS
+appear	VVP
+
+spike	NN
+lee	NN
+directed	VVD
+what	WP
+movie	NN
+
+search	NN
+for	IN
+movies	NNS
+directed	VVN
+by	IN
+spike	NN
+lee	NN
+
+movie	NN
+release	NN
+dates	NNS
+
+director	NN
+information	NN
+for	IN
+movies	NNS
+
+movies	NNS
+by	IN
+director	NN
+
+please	UH
+list	VV
+all	DT
+movies	NNS
+not	RB
+rated	VVN
+pg	NN
+
+find	VV
+movies	NNS
+
+i	NNS
+want	VVP
+a	DT
+list	NN
+of	IN
+english	JJ
+speaking	NN
+movies	NNS
+
+a	DT
+list	NN
+of	IN
+movies	NNS
+made	VVN
+in	IN
+america	NN
+
+are	VBP
+there	RB
+any	DT
+movies	NNS
+produced	VVN
+in	IN
+the	DT
+united	VVN
+states	NNS
+
+show	VV
+english	JJ
+movies	NNS
+
+search	NN
+english	NN
+movies	NNS
+
+comedy	NN
+
+find	VV
+a	DT
+comedy	NN
+
+watch	VV
+comedy	NN
+movies	NNS
+
+get	VV
+horror	NN
+films	NNS
+
+show	VV
+me	PP
+horror	NN
+movies	NNS
+
+i	NNS
+want	VVP
+to	TO
+see	VV
+a	DT
+listing	NN
+of	IN
+horror	NN
+movies	NNS
+
+show	NN
+actor	NN
+bruce	NN
+willis	NN
+movies	NNS
+
+which	WDT
+movies	NNS
+did	VVD
+bruce	NN
+willis	NNS
+star	JJ
+in	IN
+
+list	NN
+movies	NNS
+with	IN
+bruce	NN
+willis	NNS
+
+show	VV
+me	PP
+movies	NNS
+made	VVN
+in	IN
+canada	NP
+
+can	MD
+i	NNS
+watch	VV
+a	DT
+canadian	JJ
+film	NN
+
+see	VV
+canadian	JJ
+movies	NNS
+
+search	NN
+for	IN
+information	NN
+about	IN
+canadian	JJ
+movies	NNS
+
+I	PP
+'d	MD
+like	VV
+to	TO
+see	VV
+some	DT
+italian	JJ
+films	NNS
+
+show	VV
+me	PP
+something	NN
+italian	NN
+-	:
+made	VVN
+
+i	NNS
+want	VVP
+to	TO
+see	VV
+a	DT
+movie	NN
+from	IN
+spain	NN
+
+find	VV
+movies	NNS
+from	IN
+spain	NN
+
+spain	NN
+country	NN
+movies	NNS
+
+display	VV
+a	DT
+list	NN
+of	IN
+spanish	JJ
+films	NNS
+
+spanish	JJ
+movie	NN
+listing	NN
+
+spanish	JJ
+movies	NNS
+
+find	VV
+actors	NNS
+in	IN
+movies	NNS
+
+search	NN
+by	IN
+actors	NNS
+
+find	VV
+some	DT
+romantic	JJ
+movies	NNS
+
+i	NNS
+want	VVP
+to	TO
+see	VV
+a	DT
+movie	NN
+in	IN
+french	NNS
+
+gwyneth	NP
+paltrow	NP
+movies	NNS
+
+find	VV
+movies	NNS
+with	IN
+quentin	NN
+tarantino	NN
+as	IN
+director	NN
+
+england	NN
+movies	NNS
+
+england	NN
+movies	NNS
+please	VVP
+
+find	VV
+david	JJ
+tennant	NN
+movies	NNS
+
+show	VV
+me	PP
+what	WP
+richard	NN
+lester	NN
+directed	VVD
+
+get	VV
+films	NNS
+in	IN
+hindi	NNS
+
+show	VV
+me	PP
+movies	NNS
+from	IN
+india	NN
+
+what	WP
+is	VBZ
+a	DT
+british	JJ
+horror	NN
+movie	NN
+
+i	NNS
+want	VVP
+to	TO
+watch	VV
+an	DT
+r	NN
+rated	VVN
+comedy	NN
+
+list	NN
+of	IN
+french	JJ
+language	NN
+comedies	NNS
+
+look	NN
+for	IN
+dirty	JJ
+dancing	NN
+movie	NN
+with	IN
+jennifer	NN
+grey	NN
+
+tell	VV
+me	PP
+in	IN
+detail	NN
+about	IN
+the	DT
+movie	NN
+dirty	JJ
+dancing	NN
+
+tell	VV
+about	IN
+movie	NN
+dirty	JJ
+dancing	NN
+
+can	MD
+i	NNS
+see	VV
+a	DT
+list	NN
+of	IN
+bette	NN
+midler	NN
+movies	NNS
+
+list	NN
+of	IN
+movies	NNS
+starring	VVG
+bette	NN
+midler	NN
+
+show	VV
+me	PP
+all	RB
+of	IN
+anne	NN
+hathaway	NN
+'s	POS
+movies	NNS
+
+what	WP
+movies	NNS
+has	VHZ
+sandra	NN
+bullock	NN
+produced	VVD
+
+find	VV
+me	PP
+movies	NNS
+from	IN
+portugal	NN
+
+what	WP
+movies	NNS
+has	VHZ
+robert	VVN
+redford	NNS
+been	VBN
+in	IN
+
+dirty	JJ
+dancing	NN
+info	NN
+
+dirty	JJ
+dancing	NN
+
+give	VV
+a	DT
+short	JJ
+bio	NN
+for	IN
+dirty	JJ
+dancing	NN
+
+about	IN
+dirty	JJ
+dancing	NN
+
+movies	NNS
+from	IN
+japan	NN
+
+show	NN
+movies	NNS
+from	IN
+japan	NN
+
+list	NN
+japanese	NN
+movies	NNS
+
+show	VV
+me	PP
+japanese	JJ
+movies	NNS
+
+give	VV
+me	PP
+a	DT
+list	NN
+of	IN
+some	DT
+japanese	JJ
+movies	NNS
+
+give	VV
+me	PP
+a	DT
+list	NN
+of	IN
+japanese	JJ
+movies	NNS
+
+japanese	JJ
+movies	NNS
+
+show	VV
+me	PP
+japanese	JJ
+language	NN
+movies	NNS
+
+which	WDT
+films	NNS
+are	VBP
+spoken	VVN
+in	IN
+japanese	NN
+
+miramax	NN
+films	NNS
+only	RB
+
+show	NN
+movies	NNS
+by	IN
+miramax	NN
+
+search	NN
+sandra	NN
+bullock	NN
+movies	NNS
+
+watch	NN
+sandra	NN
+bullock	NN
+movies	NNS
+
+find	VV
+movies	NNS
+about	IN
+vampires	NNS
+
+find	VV
+movies	NNS
+having	VHG
+vampires	NNS
+
+will	MD
+smith	NN
+movies	NNS
+
+cars	NNS
+movie	NN
+
+what	WP
+movies	NNS
+did	VVD
+darla	NN
+anderson	NN
+produce	NN
+
+what	WP
+films	NNS
+are	VBP
+made	VVN
+by	IN
+paramount	NN
+
+show	VV
+me	PP
+movies	NNS
+by	IN
+paramount	NN
+
+what	WP
+movies	NNS
+has	VHZ
+paramount	JJ
+released	VVN
+
+show	VV
+all	DT
+movies	NNS
+from	IN
+turkey	NN
+
+show	VV
+me	PP
+movies	NNS
+produced	VVN
+by	IN
+bruce	NN
+lee	NN
+
+is	VBZ
+parenthood	NN
+a	DT
+drama	NN
+
+i	NNS
+want	VVP
+to	TO
+see	VV
+an	DT
+kevin	NN
+james	VVZ
+film	NN
+tonight	NN
+
+find	VV
+films	NNS
+from	IN
+china	NN
+
+get	VV
+films	NNS
+from	IN
+china	NN
+
+i	NP
+'d	MD
+like	VV
+to	TO
+watch	VV
+a	DT
+movie	NN
+made	VVN
+in	IN
+china	NN
+
+list	VV
+some	DT
+movies	NNS
+from	IN
+china	NN
+
+chinese	JJ
+films	NNS
+
+show	VV
+me	PP
+other	JJ
+chinese	JJ
+movies	NNS
+
+show	VV
+me	PP
+chinese	JJ
+movies	NNS
+
+what	WP
+movies	NNS
+have	VHP
+a	DT
+pg-13	JJ
+rating	NN
+
+please	VV
+list	NN
+movies	NNS
+that	WDT
+are	VBP
+rated	VVN
+pg-13	NN
+
+i	NNS
+need	VVP
+a	DT
+g	NN
+rating	NN
+so	IN
+i	NP
+can	MD
+take	VV
+the	DT
+kids	NNS
+
+find	VV
+a	DT
+g	NN
+rated	VVN
+movie	NN
+
+find	VV
+g	NN
+movies	NNS
+
+find	VV
+g	NN
+movies	NNS
+
+i	NNS
+want	VVP
+rated	VVN
+g	NN
+movies	NNS
+
+look	VV
+up	RP
+g	NN
+rated	VVN
+movies	NNS
+
+i	NNS
+am	VBP
+searching	VVG
+for	IN
+any	DT
+g	NN
+rated	VVN
+movies	NNS
+for	IN
+my	PP$
+children	NNS
+to	TO
+view	VV
+
+rated	VVN
+g	NN
+movies	NNS
+for	IN
+family	NN
+watching	NN
+
+find	VV
+g	NN
+rated	VVN
+movies	NNS
+
+are	VBP
+there	RB
+any	DT
+movies	NNS
+rated	VVD
+g	NN
+playing	NN
+
+i	NNS
+want	VVP
+to	TO
+see	VV
+movies	NNS
+rated	VVN
+g	NN
+
+find	VV
+movies	NNS
+rated	VVN
+g	NN
+
+show	VV
+me	PP
+movies	NNS
+with	IN
+g	NN
+rating	NN
+
+did	VVD
+robert	JJ
+wise	NN
+direct	VV
+any	DT
+other	JJ
+musicals	NNS
+
+bruce	NN
+lee	NN
+produced	VVD
+movie	NN
+listing	NN
+
+what	WP
+was	VBD
+the	DT
+last	JJ
+movie	NN
+made	VVN
+by	IN
+robert	NN
+wise	NN
+
+find	VV
+movies	NNS
+produced	VVN
+by	IN
+mgm	NN
+
+show	VV
+me	PP
+british	RB
+made	VVD
+movies	NNS
+
+movies	NNS
+from	IN
+the	DT
+uk	NN
+
+find	VV
+me	PP
+movies	NNS
+from	IN
+the	DT
+uk	NN
+
+can	MD
+you	PP
+list	VV
+ron	JJ
+howard	JJ
+movie	NN
+production	NN
+
+i	NNS
+need	VVP
+to	TO
+know	VV
+the	DT
+movies	NNS
+produce	VVP
+by	IN
+ron	NN
+howard	NN
+
+did	VVD
+clint	NN
+eastwood	NN
+direct	VV
+any	DT
+other	JJ
+movies	NNS
+besides	IN
+million	CD
+dollar	NN
+baby	NN
+
+find	VV
+movies	NNS
+directed	VVN
+by	IN
+clint	NN
+eastwood	NN
+
+what	WP
+movies	NNS
+have	VHP
+been	VBN
+directed	VVN
+by	IN
+clint	NN
+eastwood	NN
+
+list	VV
+all	DT
+movies	NNS
+that	WDT
+were	VBD
+directed	VVN
+by	IN
+clint	NN
+eastwood	NN
+
+what	WP
+movies	NNS
+has	VHZ
+clint	JJ
+eastwood	NN
+directed	VVD
+
+show	NN
+movies	NNS
+directed	VVN
+by	IN
+clint	NN
+eastwood	NN
+
+find	VV
+all	DT
+films	NNS
+by	IN
+stanley	NN
+kubrick	NN
+
+i	NNS
+want	VVP
+to	TO
+select	VV
+the	DT
+option	NN
+to	TO
+search	VV
+for	IN
+movies	NNS
+produced	VVN
+by	IN
+stephen	NN
+spielberg	NN
+
+i	NP
+would	MD
+like	VV
+to	TO
+search	VV
+for	IN
+movies	NNS
+produced	VVN
+by	IN
+stephen	NN
+speilberg	NN
+
+show	VV
+me	PP
+japanese	JJ
+horror	NN
+movies	NNS
+
+i	NP
+would	MD
+like	VV
+to	TO
+see	VV
+movies	NNS
+ron	NNS
+howard	RB
+directed	VVN
+
+movies	NNS
+by	IN
+stephen	NN
+spielberg	NN
+
+movies	NNS
+by	IN
+stephen	NN
+spielberg	NN
+
+what	WP
+movies	NNS
+did	VVD
+stephen	NN
+spielberg	NNS
+direct	JJ
+
+list	NN
+steven	JJ
+spielberg	NN
+movies	NNS
+
+steven	JJ
+spielberg	NN
+movie	NN
+
+steven	JJ
+spielberg	NN
+movies	NNS
+please	VVP
+
+directed	VVN
+by	IN
+steven	JJ
+spielberg	NN
+
+find	VV
+the	DT
+steven	JJ
+spielberg	NN
+movies	NNS
+
+find	VV
+movies	NNS
+from	IN
+steven	JJ
+spielberg	NN
+
+i	NP
+would	MD
+like	VV
+to	TO
+watch	VV
+a	DT
+movie	NN
+directed	VVN
+by	IN
+eddie	NN
+murphy	NN
+
+the	DT
+camp	NN
+
+watch	NN
+sandra	NN
+bullock	NN
+the	DT
+blind	JJ
+side	NN
+
+i	NNS
+want	VVP
+to	TO
+see	VV
+movies	NNS
+with	IN
+hugh	NN
+jackman	NN
+
+list	NN
+movies	NNS
+with	IN
+kevin	NP
+spacey	NP
+
+look	NN
+for	IN
+movies	NNS
+from	IN
+france	NN
+
+can	MD
+you	PP
+show	VV
+me	PP
+movies	NNS
+that	WDT
+were	VBD
+made	VVN
+in	IN
+france	NN
+
+find	VV
+me	PP
+any	DT
+movies	NNS
+that	WDT
+were	VBD
+made	VVN
+in	IN
+france	NN
+
+french	NN
+movies	NNS
+please	VVP
+
+french	NN
+movies	NNS
+
+find	VV
+movies	NNS
+produced	VVN
+by	IN
+
+movies	NNS
+by	IN
+producers	NNS
+
+display	NN
+movies	NNS
+produced	VVN
+by	IN
+
+find	VV
+movies	NNS
+produced	VVN
+by	IN
+mosfilm	NN
+
+what	WP
+was	VBD
+kristen	NP
+stewart	NP
+'s	POS
+first	JJ
+movie	NN
+
+get	VV
+me	PP
+movies	NNS
+directed	VVN
+by	IN
+miranda	NN
+july	RB
+
+tom	NN
+hanks	NNS
+movies	NNS
+
+show	VV
+me	PP
+movies	NNS
+with	IN
+tom	NN
+hanks	NNS
+
+i	NNS
+am	VBP
+trying	VVG
+to	TO
+find	VV
+a	DT
+list	NN
+of	IN
+movies	NNS
+with	IN
+tom	NN
+hanks	NNS
+
+provide	VV
+movies	NNS
+directed	VVN
+by	IN
+oliver	JJR
+stone	NN
+please	VV
+
+i	NNS
+want	VVP
+to	TO
+look	VV
+for	IN
+movies	NNS
+produced	VVN
+by	IN
+albert	NN
+ruddy	JJ
+
+what	WP
+are	VBP
+all	RB
+of	IN
+the	DT
+movies	NNS
+produced	VVN
+by	IN
+albert	NN
+ruddy	JJ
+
+movies	NNS
+produced	VVN
+by	IN
+yash	NN
+chopra	NN
+
+what	WP
+did	VVD
+brad	NN
+pitt	NN
+porduce	NN
+
+bring	VV
+up	RP
+all	DT
+brad	NN
+pitt	NN
+produced	VVD
+movies	NNS
+
+show	VV
+all	DT
+movies	NNS
+that	IN/that
+penny	NN
+marshall	NN
+directed	VVD
+
+i	NNS
+need	VVP
+a	DT
+list	NN
+of	IN
+all	PDT
+the	DT
+movies	NNS
+directed	VVN
+by	IN
+james	NNS
+cameron	NN
+
+give	VV
+me	PP
+a	DT
+list	NN
+of	IN
+all	PDT
+the	DT
+movies	NNS
+directed	VVN
+by	IN
+james	NNS
+cameron	NN
+
+james	NNS
+cameron	NN
+movies	NNS
+produced	VVD
+
+movies	NNS
+produced	VVN
+by	IN
+james	NNS
+cameron	NN
+
+what	WP
+films	NNS
+have	VHP
+been	VBN
+produced	VVN
+by	IN
+warner	NN
+bros.	NN
+
+find	VV
+movies	NNS
+produced	VVN
+by	IN
+warner	NN
+bros.	NN
+
+what	WP
+movies	NNS
+have	VHP
+been	VBN
+produced	VVN
+by	IN
+warner	NN
+bros.	NN
+
+show	VV
+me	PP
+movies	NNS
+by	IN
+wb	NN
+
+give	VV
+me	PP
+information	NN
+about	IN
+finding	VVG
+nemo	NN
+
+i	NNS
+want	VVP
+information	NN
+about	IN
+finding	VVG
+nemo	NN
+
+show	VV
+me	PP
+finding	VVG
+nemo	NN
+
+finding	VVG
+nemo	NN
+bing	NNS
+
+search	NN
+finding	NN
+nemo	NN
+
+show	NN
+information	NN
+page	NN
+for	IN
+finding	VVG
+nemo	NN
+
+the	DT
+campaign	NN
+information	NN
+
+more	JJR
+information	NN
+on	IN
+apallo	NP
+thirteen	CD
+
+research	NN
+apollo	NN
+thirteen	CD
+
+has	VHZ
+kristen	NN
+stewart	NN
+starred	VVN
+in	IN
+movies	NNS
+other	JJ
+than	IN
+twilight	NN
+
+show	VV
+me	PP
+kristen	NN
+stewart	NN
+movies	NNS
+
+what	WP
+movies	NNS
+has	VHZ
+kristen	NN
+stewarted	NN
+starred	VVN
+in	IN
+
+lionsgate	NN
+movies	NNS
+
+show	NN
+lionsgate	NN
+movies	NNS
+
+show	NN
+movies	NNS
+made	VVN
+by	IN
+production	NN
+lionsgate	NNS
+
+give	VV
+me	PP
+something	NN
+by	IN
+charles	NNS
+vidor	NN
+
+show	NN
+charles	NNS
+vidor	NN
+movie	NN
+
+what	WP
+film	NN
+did	VVD
+charles	NNS
+vidor	NN
+direct	JJ
+
+which	WDT
+movies	NNS
+have	VHP
+been	VBN
+made	VVN
+outside	IN
+the	DT
+united	VVN
+states	NNS
+
+find	VV
+me	PP
+nigeria	NN
+movies	NNS
+
+display	NN
+7	CD
+arts	NNS
+movies	NNS
+
+korean	JJ
+movie	NN
+
+what	WP
+other	JJ
+movies	NNS
+did	VVD
+roberto	NN
+benigni	NNS
+star	JJ
+in	IN
+
+i	NNS
+want	VVP
+to	TO
+see	VV
+movies	NNS
+starring	VVG
+denzel	NN
+washington	NNS
+please	VVP
+
+list	VV
+the	DT
+kareena	NN
+'s	POS
+movie	NN
+
+i	NNS
+want	VVP
+to	TO
+watch	VV
+a	DT
+drama	NN
+made	VVN
+in	IN
+turkey	NN
+
+jennifer	NP
+lopez	NP
+played	VVD
+in	IN
+what	WP
+movies	NNS
+
+show	VV
+me	PP
+all	RB
+of	IN
+the	DT
+movies	NNS
+directed	VVN
+by	IN
+woody	JJ
+allen	NN
+
+show	NN
+robert	NN
+wise	JJ
+movies	NNS
+
+want	VVP
+to	TO
+see	VV
+robert	JJ
+wise	JJ
+movies	NNS
+
+what	WP
+movies	NNS
+has	VHZ
+robert	JJ
+wise	NN
+directed	VVD
+
+what	WP
+movies	NNS
+have	VHP
+robert	JJ
+wise	NN
+directed	VVD
+
+where	WRB
+can	MD
+i	NNS
+find	VV
+a	DT
+list	NN
+of	IN
+movies	NNS
+produced	VVN
+by	IN
+chris	NN
+nolan	NN
+
+what	WP
+movies	NNS
+has	VHZ
+brad	NN
+pitt	NN
+been	VBN
+in	IN
+
+what	WP
+are	VBP
+the	DT
+movies	NNS
+brad	NN
+pitt	NN
+had	VHD
+been	VBN
+in	IN
+
+what	WP
+are	VBP
+some	DT
+movies	NNS
+with	IN
+brad	NN
+pitt	NN
+
+find	VV
+an	DT
+r	NN
+rated	VVN
+movie	NN
+
+show	VV
+me	PP
+r	NN
+rated	VVN
+movies	NNS
+
+give	VV
+me	PP
+a	DT
+list	NN
+of	IN
+r	NN
+rated	VVN
+movies	NNS
+
+look	VV
+up	RB
+r	SYM
+rated	VVN
+movies	NNS
+
+i	NNS
+want	VVP
+only	RB
+r	SYM
+rated	VVN
+movies	NNS
+
+i	NNS
+want	VVP
+to	TO
+see	VV
+a	DT
+list	NN
+of	IN
+rated	VVN
+r	NN
+movies	NNS
+
+show	VV
+me	PP
+only	JJ
+movies	NNS
+with	IN
+a	DT
+rating	NN
+of	IN
+r	NN
+
+please	UH
+look	VV
+for	IN
+movies	NNS
+with	IN
+an	DT
+r	NN
+rating	NN
+
+show	VV
+me	PP
+movies	NNS
+rated	VVN
+r	NN
+
+look	NN
+for	IN
+movies	NNS
+with	IN
+an	DT
+r	NN
+rating	NN
+
+give	VV
+me	PP
+a	DT
+list	NN
+of	IN
+all	DT
+movies	NNS
+that	WDT
+are	VBP
+rated	VVN
+r	NN
+
+i	NNS
+want	VVP
+to	TO
+watch	VV
+movies	NNS
+from	IN
+norway	NN
+
+can	MD
+i	NP
+have	VHP
+a	DT
+list	NN
+of	IN
+spanish	JJ
+speaking	NN
+movies	NNS
+
+show	VV
+me	PP
+movies	NNS
+made	VVN
+in	IN
+mexico	NN
+
+show	VV
+me	PP
+the	DT
+movie	NN
+pot	NN
+zombies	NNS
+
+what	WP
+movies	NNS
+have	VHP
+zombies	NNS
+in	IN
+them	PP
+
+show	VV
+me	PP
+movies	NNS
+about	IN
+zombies	NNS
+
+show	VV
+me	PP
+movies	NNS
+about	IN
+zombies	NNS
+
+show	VV
+me	PP
+ones	NNS
+by	IN
+david	JJ
+fincher	NN
+
+show	VV
+ridley	NP
+scott	NP
+'s	POS
+filmography	NN
+
+find	VV
+ridley	NP
+scott	NP
+movies	NNS
+
+can	MD
+you	PP
+show	VV
+me	PP
+movies	NNS
+directed	VVN
+by	IN
+ridley	NP
+scott	NP
+
+list	NN
+german	NN
+movies	NNS
+
+german	JJ
+movies	NNS
+
+find	VV
+action	NN
+films	NNS
+
+find	VV
+some	DT
+action	NN
+movies	NNS
+
+list	NN
+dredd	NN
+movie	NN
+
+show	VV
+me	PP
+george	VV
+lucas	NNS
+movies	NNS
+
+find	VV
+movies	NNS
+directed	VVN
+by	IN
+george	NN
+lucas	NNS
+
+produced	VVN
+by	IN
+
+please	UH
+find	VV
+movies	NNS
+produced	VVN
+by	IN
+morgan	NN
+freeman	NN
+
+please	UH
+look	VV
+up	RP
+movies	NNS
+produced	VVN
+by	IN
+morgan	NN
+freeman	NN
+
+search	NN
+for	IN
+movies	NNS
+produced	VVN
+by	IN
+morgan	NN
+freeman	NN
+
+find	VV
+movies	NNS
+produced	VVN
+by	IN
+morgan	NN
+freeman	NN
+
+look	VV
+up	RP
+movies	NNS
+produced	VVN
+by	IN
+morgan	NN
+freeman	NN
+
+what	WP
+movies	NNS
+has	VHZ
+meryl	NN
+streep	NNS
+starred	VVN
+in	IN
+
+show	VV
+me	PP
+the	DT
+movies	NNS
+directed	VVN
+by	IN
+the	DT
+director	NN
+of	IN
+this	DT
+movie	NN
+
+i	NNS
+want	VVP
+to	TO
+see	VV
+movies	NNS
+made	VVN
+in	IN
+russia	NN
+
+look	VVP
+up	RB
+star	VV
+wars	NNS
+four	CD
+movie	NN
+
+display	VV
+all	DT
+details	NNS
+about	IN
+star	NN
+wars	NNS
+-	:
+a	DT
+new	JJ
+hope	NN
+movie	NN
+
+get	VV
+all	DT
+details	NNS
+about	IN
+star	NN
+wars	NNS
+-	:
+a	DT
+new	JJ
+hope	NN
+movie	NN
+
+star	NN
+wars	NNS
+episode	NN
+four	CD
+
+i	NNS
+want	VVP
+star	NN
+wars	NNS
+four	CD
+main	JJ
+page	NN
+
+search	NN
+star	NN
+wars	NNS
+four	CD
+
+find	VV
+me	PP
+tons	NNS
+of	IN
+info	NN
+related	VVN
+to	TO
+star	VV
+wars	NNS
+four	CD
+
+get	VV
+details	NNS
+of	IN
+in	IN
+july	JJ
+movie	NN
+
+find	VV
+details	NNS
+of	IN
+in	IN
+july	JJ
+movie	NN
+
+show	NN
+details	NNS
+of	IN
+in	IN
+july	JJ
+movie	NN
+
+tell	VV
+me	PP
+about	RB
+in	IN
+july	JJ
+movie	NN
+
+look	VV
+up	RP
+the	DT
+movie	NN
+in	IN
+july	RB
+
+display	NN
+information	NN
+for	IN
+the	DT
+movie	NN
+title	NN
+in	IN
+july	RB
+
+movie	NN
+in	IN
+july	JJ
+data	NNS
+
+where	WRB
+can	MD
+i	NNS
+find	VV
+the	DT
+movie	NN
+aankhen	NN
+in	IN
+hindi	NN
+
+display	NN
+julia	NN
+roberts	NNS
+films	NNS
+
+list	VV
+the	DT
+movies	NNS
+that	WDT
+have	VHP
+the	DT
+actress	NN
+angelina	NN
+jolie	NN
+
+dustin	NN
+hoffman	NN
+movies	NNS
+
+what	WP
+movies	NNS
+did	VVD
+david	JJ
+ayer	NN
+direct	JJ
+
+i	NP
+would	MD
+like	VV
+to	TO
+view	VV
+movies	NNS
+produced	VVN
+by	IN
+clint	NN
+eastwood	NN
+
+list	VV
+all	DT
+movies	NNS
+about	IN
+horses	NNS
+
+find	VV
+all	DT
+johnny	NN
+depp	NN
+movies	NNS
+
+search	NN
+by	IN
+director	NN
+
+search	NN
+by	IN
+director	NN
+
+is	VBZ
+there	RB
+any	DT
+upcoming	JJ
+movies	NNS
+from	IN
+warner	NN
+brothers	NNS
+
+bring	VV
+up	RP
+movies	NNS
+with	IN
+ice	NN
+skating	VVG
+in	IN
+it	PP
+
+find	VV
+newly	RB
+released	VVN
+comedies	NNS
+from	IN
+england	NN
+
+i	NP
+need	NN
+info	NN
+on	IN
+house	NN
+at	IN
+the	DT
+end	NN
+of	IN
+the	DT
+street	NN
+
+what	WP
+is	VBZ
+the	DT
+houses	NNS
+at	IN
+the	DT
+end	NN
+of	IN
+the	DT
+street	NN
+about	RB
+
+give	VV
+me	PP
+more	JJR
+facts	NNS
+about	IN
+the	DT
+movie	NN
+house	NN
+at	IN
+the	DT
+end	NN
+of	IN
+the	DT
+street	NN
+in	IN
+detail	NN
+
+i	NP
+would	MD
+like	VV
+to	TO
+know	VV
+in	IN
+detail	NN
+about	IN
+the	DT
+movie	NN
+house	NN
+at	IN
+the	DT
+end	NN
+of	IN
+the	DT
+street	NN
+
+display	NN
+movie	NN
+information	NN
+for	IN
+the	DT
+film	NN
+house	NN
+at	IN
+the	DT
+end	NN
+of	IN
+the	DT
+street	NN
+
+films	NNS
+with	IN
+chinese	NN
+
+i	NNS
+want	VVP
+to	TO
+watch	VV
+a	DT
+movie	NN
+in	IN
+chinese	NN
+
+find	VV
+movies	NNS
+produced	VVN
+and	CC
+directed	VVN
+by	IN
+tyler	NN
+perry	NN
+
+tom	NN
+cruise	NN
+movies	NNS
+please	VVP
+
+i	NNS
+want	VVP
+tom	NN
+cruise	NN
+movies	NNS
+please	VVP
+
+which	WDT
+movies	NNS
+star	VVP
+tom	NN
+cruise	NN
+
+which	WDT
+movies	NNS
+do	VVP
+tom	NN
+cruise	NN
+play	VVP
+in	IN
+
+find	VV
+end	NN
+of	IN
+watch	NN
+
+search	NN
+by	IN
+genre	NN
+
+looking	VVG
+for	IN
+movies	NNS
+of	IN
+yash	NN
+chopra	NN
+
+find	VV
+me	PP
+information	NN
+about	IN
+the	DT
+campaign	NN
+movie	NN
+
+information	NN
+for	IN
+movie	NN
+the	DT
+campaign	NN
+
+show	VV
+me	PP
+info	NN
+on	IN
+the	DT
+movie	NN
+the	DT
+campaign	NN
+please	RB
+
+i	NNS
+need	VVP
+to	TO
+see	VV
+all	PDT
+the	DT
+details	NNS
+about	IN
+the	DT
+movie	NN
+the	DT
+campaign	NN
+
+sort	VV
+all	DT
+pg	NN
+movies	NNS
+
+pg	NN
+rated	VVD
+movies	NNS
+
+access	VV
+a	DT
+list	NN
+of	IN
+pg	NN
+movies	NNS
+please	VVP
+
+give	VV
+me	PP
+a	DT
+list	NN
+of	IN
+pg	NN
+movies	NNS
+
+can	MD
+you	PP
+find	VV
+me	PP
+a	DT
+list	NN
+of	IN
+pg	NN
+rated	VVN
+movies	NNS
+to	TO
+watch	VV
+
+show	VV
+me	PP
+a	DT
+list	NN
+of	IN
+pg	NN
+rated	VVN
+movies	NNS
+
+find	VV
+movies	NNS
+with	IN
+a	DT
+pg	NN
+rating	NN
+
+what	WP
+movies	NNS
+are	VBP
+pg	JJ
+
+movies	NNS
+by	IN
+alfred	NN
+hitchcock	NN
+
+what	WP
+movies	NNS
+did	VVD
+alfred	NN
+hitchcock	NN
+make	VV
+
+watch	VV
+hitchcook	NN
+movies	NNS
+
+i	NNS
+want	VVP
+to	TO
+see	VV
+any	DT
+current	JJ
+movies	NNS
+starring	VVG
+tom	NN
+hanks	NNS
+
+i	NNS
+want	VVP
+a	DT
+list	NN
+of	IN
+recent	JJ
+movies	NNS
+rated	VVN
+pg	NN
+
+give	VV
+me	PP
+a	DT
+list	NN
+of	IN
+recent	JJ
+movies	NNS
+rated	VVN
+pg	NN
+
+ray	NN
+stark	RB
+produced	VVD
+what	WP
+other	JJ
+movies	NNS
+
+what	WP
+is	VBZ
+spielberg	NP
+'s	POS
+latest	JJS
+movie	NN
+
+please	UH
+find	VV
+movies	NNS
+directed	VVN
+by	IN
+tom	NN
+hanks	NNS
+
+are	VBP
+there	RB
+any	DT
+recent	JJ
+movies	NNS
+that	WDT
+are	VBP
+polish	NN
+speaking	NN
+
+what	WP
+movies	NNS
+has	VHZ
+tom	NN
+cruise	NN
+been	VBN
+in	IN
+recently	RB
+
+search	NN
+for	IN
+new	JJ
+movies	NNS
+
+search	NN
+for	IN
+in	IN
+july	NN
+
+watch	VV
+in	IN
+july	RB
+online	JJ
+
+search	NN
+for	IN
+information	NN
+about	IN
+lionsgate	NNS
+
+lionsgate	JJ
+info	NN
+
+find	VV
+information	NN
+about	IN
+paramount	JJ
+studios	NNS
+
+who	WP
+is	VBZ
+ray	NN
+stark	JJ
+
+find	VV
+information	NN
+on	IN
+charles	NNS
+vidor	NN
+
+i	NNS
+want	VVP
+to	TO
+look	VV
+up	RP
+information	NN
+about	IN
+tom	NN
+cruise	NN
+
+can	MD
+you	PP
+please	VV
+search	NN
+details	NNS
+about	RB
+will	MD
+ferrell	VV
+
+will	MD
+ferrell	NP
+biography	NN
+
+show	NN
+will	MD
+ferrell	VV
+biography	NN
+
+show	VV
+me	PP
+a	DT
+complete	JJ
+biography	NN
+of	IN
+will	NN
+ferrell	NN
+
+show	VV
+me	PP
+information	NN
+on	IN
+will	NN
+ferrell	NN
+
+show	VV
+me	PP
+will	MD
+ferrell	NN
+'s	POS
+bio	NN
+
+get	VV
+info	NN
+on	IN
+kristen	NP
+stewart	NN
+
+does	VVZ
+kristen	NP
+stewart	NP
+have	VHP
+a	DT
+personal	JJ
+page	NN
+
+where	WRB
+can	MD
+i	NNS
+find	VV
+information	NN
+about	IN
+kristen	NP
+stewart	NN
+
+jennifer	NN
+aniston	NN
+bio	NN
+
+i	NNS
+want	VVP
+to	TO
+see	VV
+spielberg	NP
+'s	POS
+main	JJ
+page	NN
+
+steven	JJ
+spielberg	NN
+summary	NN
+
+about	IN
+steven	JJ
+spielberg	NN
+
+find	VV
+me	PP
+bio	NN
+details	NNS
+for	IN
+steven	JJ
+spielberg	NN
+
+bio	NN
+for	IN
+steven	JJ
+spielberg	NN
+
+show	VV
+me	PP
+alfred	NN
+hitchcock	NN
+
+i	NNS
+want	VVP
+more	JJR
+information	NN
+about	IN
+alfred	NP
+hitchock	NP
+'s	POS
+biography	NN
+
+all	DT
+info	NN
+hitchcock	NN
+
+find	VV
+the	DT
+name	NN
+of	IN
+the	DT
+producer	NN
+of	IN
+avatar	NN
+
+producer	NN
+hitch	NN
+
+who	WP
+produces	VVZ
+hitch	NN
+
+production	NN
+company	NN
+for	IN
+transformers	NNS
+
+what	WP
+company	NN
+made	VVD
+et	FW
+
+what	WP
+was	VBD
+the	DT
+production	NN
+company	NN
+for	IN
+et	FW
+
+who	WP
+produces	VVZ
+cars	NNS
+
+can	MD
+you	PP
+find	VV
+who	WP
+produced	VVD
+cars	NNS
+
+production	NN
+company	NN
+for	IN
+devil	NN
+
+who	WP
+produced	VVD
+the	DT
+movie	NN
+steel	NN
+magnolias	NNS
+
+who	WP
+produced	VVD
+avatar	NN
+
+i	NNS
+want	VVP
+to	TO
+know	VV
+the	DT
+producer	NN
+of	IN
+avatar	NN
+
+who	WP
+produced	VVD
+avatar	NN
+
+who	WP
+produced	VVD
+avatar	NN
+
+avatar	NN
+producer	NN
+
+i	NP
+would	MD
+like	VV
+to	TO
+know	VV
+who	WP
+produced	VVD
+the	DT
+movie	NN
+avatar	NN
+
+who	WP
+produced	VVD
+the	DT
+movie	NN
+avatar	NN
+
+who	WP
+are	VBP
+the	DT
+producers	NNS
+for	IN
+the	DT
+movie	NN
+avatar	NN
+
+what	WP
+is	VBZ
+grease	NN
+'s	POS
+producer	NN
+
+who	WP
+produced	VVD
+grease	NN
+
+who	WP
+produced	VVD
+the	DT
+movie	NN
+my	PP$
+big	JJ
+fat	JJ
+greek	NN
+wedding	NN
+
+who	WP
+produced	VVD
+pretty	JJ
+woman	NN
+
+tell	VV
+me	PP
+the	DT
+producer	NN
+for	IN
+the	DT
+godfather	NN
+
+the	DT
+godfather	NN
+was	VBD
+produced	VVN
+by	IN
+
+who	WP
+produced	VVD
+the	DT
+movie	NN
+clue	NN
+
+who	WP
+produced	VVD
+hotel	NN
+rwanda	NN
+
+who	WP
+produced	VVD
+marley	NN
+and	CC
+me	PP
+
+who	WP
+produced	VVD
+despicable	JJ
+me	PP
+
+who	WP
+is	VBZ
+the	DT
+company	NN
+that	WDT
+produced	VVD
+the	DT
+movie	NN
+inception	NN
+
+what	WP
+company	NN
+developed	VVD
+the	DT
+movie	NN
+inception	NN
+
+find	VV
+producer	NN
+of	IN
+the	DT
+great	JJ
+debaters	NNS
+
+who	WP
+produced	VVD
+inception	NN
+
+provide	VV
+the	DT
+name	NN
+of	IN
+the	DT
+company	NN
+that	WDT
+produced	VVD
+sparkle	NN
+
+i	NNS
+need	VVP
+to	TO
+know	VV
+the	DT
+company	NN
+that	WDT
+produced	VVD
+sparkle	NN
+
+find	VV
+the	DT
+producer	NN
+of	IN
+look	NN
+who	WP
+'s	VBZ
+talking	VVG
+
+who	WP
+produced	VVD
+harlem	NN
+nights	NNS
+
+find	VV
+the	DT
+producer	NN
+of	IN
+step	NN
+up	RB
+
+please	UH
+find	VV
+the	DT
+producer	NN
+of	IN
+freedom	NN
+writers	NNS
+
+look	VV
+for	IN
+the	DT
+producer	NN
+of	IN
+freedom	NN
+writers	NNS
+
+show	VV
+me	PP
+movie	NN
+rating	NN
+
+how	WRB
+much	JJ
+revenue	NN
+did	VVD
+pretty	RB
+woman	NN
+make	VV
+
+earnings	NNS
+for	IN
+pretty	JJ
+woman	NN
+
+what	WP
+was	VBD
+the	DT
+revenue	NN
+of	IN
+pretty	JJ
+woman	NN
+
+how	WRB
+much	RB
+did	VVD
+pretty	RB
+woman	NN
+make	VV
+
+what	WP
+was	VBD
+the	DT
+gross	JJ
+revenue	NN
+for	IN
+the	DT
+avengers	NNS
+
+how	WRB
+much	RB
+did	VVD
+the	DT
+avengers	NNS
+make	VVP
+
+revenue	NN
+for	IN
+the	DT
+avengers	NNS
+
+how	WRB
+much	RB
+did	VVD
+the	DT
+dark	JJ
+night	NN
+generate	VV
+in	IN
+revenues	NNS
+
+find	VV
+revenue	NN
+totals	NNS
+for	IN
+jurassic	JJ
+park	NN
+
+revenue	NN
+for	IN
+independence	NN
+day	NN
+
+what	WP
+is	VBZ
+the	DT
+new	JJ
+will	NN
+ferrell	NN
+movie	NN
+about	RB
+
+who	WP
+played	VVD
+the	DT
+voice	NN
+of	IN
+nemo	NN
+in	IN
+finding	VVG
+nemo	NN
+
+who	WP
+played	VVD
+richie	NN
+cunningham	NN
+in	IN
+happy	JJ
+days	NNS
+
+who	WP
+stars	VVZ
+in	IN
+house	NN
+at	IN
+the	DT
+end	NN
+of	IN
+the	DT
+street	NN
+
+show	VV
+me	PP
+the	DT
+cast	NN
+for	IN
+the	DT
+house	NN
+at	IN
+the	DT
+end	NN
+of	IN
+the	DT
+street	NN
+
+cast	NN
+and	CC
+crew	NN
+of	IN
+house	NN
+at	IN
+the	DT
+end	NN
+of	IN
+the	DT
+street	NN
+
+ethel	NN
+actress	NN
+from	IN
+i	NP
+love	NN
+lucy	NN
+
+actress	NN
+who	WP
+played	VVD
+ethel	NN
+on	IN
+i	NP
+love	NN
+lucy	NN
+
+who	WP
+are	VBP
+the	DT
+cast	NN
+members	NNS
+in	IN
+lord	NN
+of	IN
+the	DT
+rings	VVZ
+the	DT
+two	CD
+towers	NNS
+
+who	WP
+played	VVD
+hawkeye	NN
+in	IN
+mash	NN
+
+who	WP
+played	VVD
+mother	NN
+in	IN
+tarkovsky	NP
+'s	POS
+mirror	NN
+
+show	VV
+me	PP
+the	DT
+actor	NN
+of	IN
+the	DT
+movie	NN
+muthyala	NN
+muggu	NN
+
+who	WP
+are	VBP
+the	DT
+droids	NNS
+in	IN
+star	NN
+wars	NNS
+episode	NN
+four	CD
+
+who	WP
+was	VBD
+that	DT
+guy	NN
+again	RB
+who	WP
+was	VBD
+in	IN
+the	DT
+avengers	NNS
+
+which	WDT
+actor	NN
+played	VVD
+frodo	NN
+in	IN
+lord	NN
+of	IN
+the	DT
+rings	NNS
+
+find	VV
+the	DT
+name	NN
+of	IN
+the	DT
+actress	NN
+who	WP
+played	VVD
+mother	NN
+in	IN
+mirror	NN
+by	IN
+andrey	NN
+tarkovsky	NN
+
+what	WP
+is	VBZ
+the	DT
+name	NN
+of	IN
+the	DT
+actress	NN
+who	WP
+played	VVD
+mother	NN
+in	IN
+tarkovsky	NP
+'s	POS
+mirror	NN
+
+what	WP
+is	VBZ
+the	DT
+name	NN
+of	IN
+the	DT
+actor	NN
+who	WP
+played	VVD
+todd	NNS
+in	IN
+the	DT
+tv	NN
+show	VVP
+one	CD
+life	NN
+to	TO
+live	VV
+
+give	VV
+me	PP
+the	DT
+name	NN
+of	IN
+the	DT
+main	JJ
+actress	NN
+in	IN
+platoon	NN
+
+what	WP
+'s	VBZ
+the	DT
+name	NN
+of	IN
+the	DT
+mom	NN
+on	IN
+seinfeld	NP
+
+name	VV
+the	DT
+co-star	NN
+in	IN
+shoot	NN
+to	TO
+kill	VV
+
+what	WP
+is	VBZ
+the	DT
+name	NN
+of	IN
+the	DT
+actor	NN
+who	WP
+played	VVD
+atticus	NN
+finch	NN
+in	IN
+to	TO
+kill	VV
+a	DT
+mockingbird	NN
+
+show	VV
+me	PP
+the	DT
+name	NN
+of	IN
+the	DT
+guy	NN
+who	WP
+was	VBD
+the	DT
+father	NN
+and	CC
+a	DT
+lawyer	NN
+in	IN
+to	TO
+kill	VV
+a	DT
+mockingbird	NN
+
+please	UH
+provide	VV
+the	DT
+cost	NN
+for	IN
+producing	VVG
+the	DT
+deer	NN
+hunter	NN
+
+what	WP
+is	VBZ
+the	DT
+budget	NN
+for	IN
+epic	NN
+
+search	NN
+budget	NN
+for	IN
+the	DT
+movie	NN
+epic	NN
+
+what	WP
+was	VBD
+the	DT
+budget	NN
+for	IN
+fire	NN
+proof	NN
+
+what	WP
+was	VBD
+the	DT
+budget	NN
+for	IN
+fly	NN
+whele	NN
+
+what	WP
+was	VBD
+the	DT
+budget	NN
+for	IN
+1st	JJ
+harry	VVP
+potter	NN
+movie	NN
+
+how	WRB
+much	RB
+was	VBD
+spent	VVN
+on	IN
+shooting	VVG
+the	DT
+last	JJ
+harry	VV
+potter	NN
+film	NN
+
+how	WRB
+much	RB
+does	VVZ
+it	PP
+cost	VVD
+to	TO
+produce	VV
+looper	NN
+
+how	WRB
+much	RB
+did	VVD
+it	PP
+cost	VVD
+to	TO
+produce	VV
+looper	NN
+
+how	WRB
+much	JJ
+money	NN
+was	VBD
+spent	VVN
+to	TO
+produce	VV
+looper	NN
+
+how	WRB
+much	RB
+did	VVD
+men	NNS
+in	IN
+black	JJ
+3	CD
+cost	NN
+
+how	WRB
+much	RB
+was	VBD
+it	PP
+to	TO
+make	VV
+paranorman	NN
+
+show	VV
+me	PP
+the	DT
+budget	NN
+to	TO
+rebel	JJ
+movie	NN
+
+show	VV
+me	PP
+the	DT
+budget	NN
+for	IN
+star	NN
+wars	NNS
+2	CD
+
+how	WRB
+much	RB
+did	VVD
+it	PP
+cost	VVD
+to	TO
+create	VV
+the	DT
+boardwalk	NN
+empire	NN
+
+show	VV
+me	PP
+the	DT
+budget	NN
+for	IN
+expendables	NNS
+1	CD
+
+what	WP
+was	VBD
+the	DT
+budget	NN
+for	IN
+finding	VVG
+nemo	NN
+in	IN
+3d	JJ
+
+liongate	NNS
+
+which	WDT
+country	NN
+made	VVD
+inchochine	NN
+
+what	WP
+country	NN
+filed	VVD
+les	FW
+mes	FW
+
+what	WP
+country	NN
+is	VBZ
+les	FW
+mes	FW
+from	IN
+
+where	WRB
+was	VBD
+the	DT
+milk	NN
+of	IN
+sorrow	NN
+made	VVD
+
+what	WP
+country	NN
+is	VBZ
+shawshank	NN
+redemption	NN
+
+what	WP
+country	NN
+does	VVZ
+the	DT
+movie	NN
+thoda	NN
+pyaar	NN
+thoda	NN
+magic	NN
+comes	VVZ
+from	IN
+
+tell	VV
+me	PP
+where	WRB
+the	DT
+white	JJ
+ribbon	NN
+came	VVD
+from	IN
+
+when	WRB
+was	VBD
+the	DT
+movie	NN
+barfi	NN
+!	SENT
+released	VVN
+
+what	WP
+are	VBP
+the	DT
+dates	NNS
+for	IN
+the	DT
+movie	NN
+barfi	NN
+!	SENT
+
+release	NN
+date	NN
+of	IN
+the	DT
+new	JJ
+bugs	NNS
+bunny	NN
+film	NN
+
+what	WP
+is	VBZ
+the	DT
+release	NN
+date	NN
+of	IN
+evil	NN
+goes	VVZ
+global	JJ
+
+what	WP
+is	VBZ
+the	DT
+release	NN
+date	NN
+for	IN
+jaws	NNS
+17	CD
+in	IN
+the	DT
+theaters	NNS
+
+what	WP
+is	VBZ
+the	DT
+release	NN
+date	NN
+for	IN
+jurassic	JJ
+park	NN
+4	CD
+
+list	NN
+release	NN
+dates	NNS
+for	IN
+the	DT
+jurassic	JJ
+park	NN
+movies	NNS
+
+when	WRB
+will	MD
+the	DT
+movie	NN
+omg	JJ
+oh	UH
+my	PP$
+god	NN
+be	VB
+released	VVN
+
+when	WRB
+was	VBD
+the	DT
+lord	NN
+of	IN
+the	DT
+rings	NNS
+movie	NN
+released	VVD
+
+whats	NNS
+paranormal	JJ
+activities	NNS
+release	NN
+date	NN
+
+when	WRB
+will	MD
+robocop	RB
+come	VV
+out	RP
+
+when	WRB
+was	VBD
+suckerpunch	NN
+be	VB
+released	VVN
+
+when	WRB
+was	VBD
+the	DT
+sound	NN
+of	IN
+music	NN
+released	VVN
+
+when	WRB
+will	MD
+twilight	NN
+breaking	VVG
+dawn	NN
+part	NN
+2	CD
+be	VB
+released	VVN
+
+who	WP
+directed	VVD
+ai	VVP
+
+find	VV
+the	DT
+director	NN
+of	IN
+downton	NN
+abbey	NN
+
+who	WP
+directed	VVD
+good	JJ
+bad	JJ
+and	CC
+ugly	JJ
+
+i	NP
+can	MD
+'t	NP
+remember	VV
+who	WP
+directed	VVD
+star	NN
+wars	NNS
+
+find	VV
+the	DT
+director	NN
+of	IN
+to	TO
+kill	VV
+a	DT
+mockingbird	NN
+
+is	VBZ
+amelie	NN
+in	IN
+a	DT
+different	JJ
+language	NN
+
+what	WP
+language	NN
+was	VBD
+amelie	NN
+filmed	VVN
+in	IN
+
+what	WP
+language	NN
+is	VBZ
+the	DT
+full	JJ
+monty	NN
+in	IN
+
+what	WP
+is	VBZ
+ju	NN
+on	RB
+'s	POS
+original	JJ
+language	NN
+
+what	WP
+language	NN
+is	VBZ
+secrets	NNS
+and	CC
+lies	VVZ
+in	IN
+
+give	VV
+me	PP
+names	NNS
+of	IN
+some	DT
+action	NN
+movies	NNS
+with	IN
+a	DT
+pg	NN
+thirteen	CD
+rating	NN
+
+show	VV
+all	DT
+comedy	NN
+musicals	NNS
+for	IN
+twenty	CD
+twelve	NN
+
+are	VBP
+there	RB
+any	DT
+documentaries	NNS
+on	IN
+classic	JJ
+cars	NNS
+
+show	VV
+all	DT
+dramas	NN
+produced	VVN
+in	IN
+2010	CD
+
+find	VV
+some	DT
+mysteries	NNS
+
+search	NN
+romantic	JJ
+commedies	NNS
+
+sci-fi	NN
+
+show	VV
+me	PP
+westerns	NNS
+
+show	NN
+car	NN
+documentaries	NNS
+
+show	VV
+me	PP
+a	DT
+katie	NP
+holmes	NP
+flick	NN
+
+i	NNS
+want	VVP
+to	TO
+see	VV
+videos	NNS
+of	IN
+steven	JJ
+spielberg	NN
+
+videos	NNS
+related	VVN
+to	TO
+steven	JJ
+spielberg	NN
+
+new	JJ
+released	VVN
+videos	NNS
+
+i	NNS
+want	VVP
+to	TO
+see	VV
+brazilian	NN
+movies	NNS
+
+show	VV
+all	DT
+canandian	JJ
+movies	NNS
+for	IN
+nineteen	CD
+eighty	CD
+
+what	WP
+movies	NNS
+were	VBD
+made	VVN
+in	IN
+ireland	NN
+this	DT
+year	NN
+
+find	VV
+philipino	NN
+movies	NNS
+in	IN
+english	NN
+
+show	VV
+me	PP
+the	DT
+highest-grossing	JJ
+movies	NNS
+from	IN
+portugal	NN
+
+find	VV
+movies	NNS
+in	IN
+america	NN
+about	IN
+obama	NN
+
+i	NP
+'d	MD
+love	VV
+to	TO
+watch	VV
+an	DT
+albert	NN
+ruddy	JJ
+movie	NN
+
+what	WP
+other	JJ
+films	NNS
+has	VHZ
+arthur	NN
+ruddy	JJ
+done	VVN
+
+bring	VV
+up	RP
+all	DT
+movies	NNS
+brad	NN
+pitt	NN
+directed	VVD
+
+what	WP
+movies	NNS
+has	VHZ
+brad	NN
+pitt	NN
+directed	VVD
+
+movies	NNS
+by	IN
+david	JJ
+selsnic	NN
+
+did	VVD
+holly	NN
+hunter	NN
+direct	VV
+any	DT
+movies	NNS
+
+what	WP
+movies	NNS
+did	VVD
+joe	NN
+coen	NNS
+do	VVP
+
+movies	NNS
+by	IN
+john	NN
+paul	NNS
+as	IN
+a	DT
+director	NN
+
+show	VV
+me	PP
+movies	NNS
+directed	VVN
+by	IN
+john	NN
+paul	NNS
+
+tom	NN
+cruise	NN
+has	VHZ
+directed	VVN
+what	WP
+movies	NNS
+
+please	UH
+list	VV
+all	DT
+movies	NNS
+directed	VVN
+by	IN
+tom	NN
+cruise	NN
+
+wesley	NN
+snipes	NNS
+directed	VVD
+what	WP
+movie	NN
+
+find	VV
+action	NN
+movies	NNS
+with	IN
+john	NN
+travolta	NN
+
+show	VV
+all	DT
+animation	NN
+films	NNS
+for	IN
+twenty	CD
+twelve	NN
+
+animated	JJ
+pg	NN
+thirteen	CD
+movies	NNS
+
+physfi	NN
+movies	NNS
+
+i	NP
+like	IN
+sci-fi	NN
+movies	NNS
+
+show	VV
+me	PP
+films	NNS
+released	VVN
+in	IN
+september	NN
+
+show	VV
+all	DT
+movies	NNS
+released	VVN
+in	IN
+september	NN
+
+look	VV
+up	RP
+all	DT
+movies	NNS
+coming	VVG
+in	IN
+september	NN
+
+find	VV
+movies	NNS
+for	IN
+twenty	CD
+ten	CD
+
+most	RBS
+recent	JJ
+zombie	NN
+movies	NNS
+
+search	NN
+for	IN
+movies	NNS
+in	IN
+chinese	NN
+
+find	VV
+me	PP
+movies	NNS
+that	WDT
+are	VBP
+in	IN
+chinese	NN
+
+i	NNS
+want	VVP
+to	TO
+see	VV
+a	DT
+list	NN
+of	IN
+all	DT
+movies	NNS
+shown	VVN
+in	IN
+english	NN
+
+find	VV
+movies	NNS
+in	IN
+farsi	NNS
+
+send	VV
+me	PP
+movies	NNS
+that	WDT
+are	VBP
+in	IN
+french	NN
+
+find	VV
+movies	NNS
+in	IN
+french	NNS
+
+i	NP
+would	MD
+like	VV
+a	DT
+list	NN
+of	IN
+movies	NNS
+in	IN
+french	NNS
+
+movies	NNS
+in	IN
+french	NNS
+
+i	NNS
+want	VVP
+to	TO
+find	VV
+movies	NNS
+using	VVG
+the	DT
+french	JJ
+langauage	NN
+
+i	NNS
+want	VVP
+movies	NNS
+in	IN
+french	NNS
+
+find	VV
+movies	NNS
+in	IN
+german	NN
+before	IN
+2000	CD
+
+give	VV
+me	PP
+some	DT
+movies	NNS
+which	WDT
+were	VBD
+filmed	VVN
+in	IN
+polish	NN
+
+find	VV
+movies	NNS
+in	IN
+portugese	NN
+
+show	VV
+all	DT
+movies	NNS
+in	IN
+spanish	NN
+
+list	NN
+of	IN
+movies	NNS
+in	IN
+the	DT
+spanish	JJ
+language	NN
+
+movies	NNS
+in	IN
+spanish	NN
+
+i	NNS
+am	VBP
+searching	VVG
+for	IN
+movies	NNS
+in	IN
+spanish	NN
+
+i	NP
+would	MD
+like	VV
+to	TO
+look	VV
+for	IN
+movies	NNS
+in	IN
+spanish	NN
+
+find	VV
+movies	NNS
+in	IN
+swahili	NNS
+
+show	VV
+me	PP
+a	DT
+list	NN
+of	IN
+all	DT
+movies	NNS
+produced	VVN
+by	IN
+alfred	NNS
+ruddy	JJ
+
+what	WP
+other	JJ
+movies	NNS
+charles	NNS
+vidor	NN
+produce	NN
+
+has	VHZ
+jennifer	NN
+anniston	NN
+produced	VVD
+movies	NNS
+
+show	VV
+me	PP
+the	DT
+movies	NNS
+produced	VVN
+by	IN
+m	NN
+s	NN
+raju	NN
+
+list	VV
+the	DT
+movies	NNS
+created	VVN
+by	IN
+7	CD
+arts	NNS
+
+lionsgate	NN
+=	SYM
+i	FW
+would	MD
+like	VV
+to	TO
+get	VV
+a	DT
+list	NN
+of	IN
+your	PP$
+movies	NNS
+from	IN
+two	CD
+thousand	CD
+and	CC
+nine	CD
+to	TO
+two	CD
+thousand	CD
+and	CC
+twelve	NN
+
+twentieth	JJ
+century	NN
+fox	NN
+movies	NNS
+2012	CD
+
+show	VV
+me	PP
+nc	NN
+minus	CC
+seventeen	CD
+rated	VVN
+movies	NNS
+
+show	VV
+me	PP
+movies	NNS
+with	IN
+not	RB
+rated	VVN
+rating	NN
+
+give	VV
+me	PP
+a	DT
+list	NN
+of	IN
+nr	NN
+movies	NNS
+
+what	WP
+is	VBZ
+a	DT
+list	NN
+of	IN
+pg	NN
+thirteen	CD
+action	NN
+movies	NNS
+
+i	NNS
+want	VVP
+to	TO
+see	VV
+a	DT
+pg	NN
+thirteen	CD
+movie	NN
+
+show	VV
+me	PP
+a	DT
+complete	JJ
+list	NN
+of	IN
+r	NN
+rated	VVN
+movies	NNS
+that	WDT
+came	VVD
+out	RP
+in	IN
+the	DT
+last	JJ
+30	CD
+days	NNS
+
+show	VV
+me	PP
+all	DT
+rated	VVN
+r	NN
+movies	NNS
+by	IN
+paramount	NN
+
+show	VV
+me	PP
+movies	NNS
+that	WDT
+are	VBP
+unrated	JJ
+
+list	NN
+movies	NNS
+from	IN
+1995	CD
+with	IN
+adam	NN
+sandler	NN
+
+i	NNS
+want	VVP
+to	TO
+see	VV
+movies	NNS
+with	IN
+alan	JJ
+rickmman	NN
+
+which	WDT
+movies	NNS
+has	VHZ
+angelina	NN
+jolie	NN
+starred	VVD
+this	DT
+season	NN
+
+what	WP
+movie	NN
+was	VBD
+angelina	VVG
+a	DT
+main	JJ
+actress	NN
+
+look	VV
+up	RP
+movies	NNS
+starring	VVG
+the	DT
+singer	NN
+mario	NN
+
+i	NNS
+want	VVP
+to	TO
+find	VV
+movies	NNS
+starring	VVG
+the	DT
+singer	NN
+mario	NN
+
+look	NN
+for	IN
+movies	NNS
+with	IN
+max	NP
+von	NP
+sudow	NN
+
+show	VV
+me	PP
+movies	NNS
+that	WDT
+have	VHP
+patrick	JJ
+swayze	NNS
+and	CC
+jennifer	NN
+grey	NN
+in	IN
+them	PP
+
+show	VV
+me	PP
+movies	NNS
+that	IN/that
+star	JJ
+patrick	NN
+swayze	NNS
+starred	VVN
+in	IN
+from	IN
+nineteen	CD
+eighty	CD
+seven	CD
+
+what	WP
+is	VBZ
+that	DT
+dancing	VVG
+movie	NN
+with	IN
+patrick	NN
+swayze	NNS
+
+movies	NNS
+of	IN
+sharukh	NN
+khan	NN
+
+movie	NN
+that	IN/that
+tom	NN
+hanks	NNS
+and	CC
+kevin	NN
+becon	NN
+played	VVN
+in	IN
+together	RB
+
+movies	NNS
+about	IN
+animals	NNS
+
+show	VV
+me	PP
+movies	NNS
+about	IN
+bollywood	NN
+
+chess	NN
+movies	NNS
+
+show	VV
+me	PP
+movies	NNS
+on	IN
+chess	NN
+
+what	WP
+are	VBP
+some	DT
+movies	NNS
+about	IN
+disco	NN
+
+what	WP
+movies	NNS
+can	MD
+offer	VV
+tips	NNS
+on	IN
+gardening	NN
+
+i	NNS
+want	VVP
+to	TO
+look	VV
+up	RP
+movies	NNS
+about	IN
+hair	NN
+
+find	VV
+movies	NNS
+about	IN
+libraries	NNS
+
+find	VV
+some	DT
+movies	NNS
+about	IN
+musicians	NNS
+
+can	MD
+you	PP
+find	VV
+movies	NNS
+about	IN
+preschool	JJ
+boys	NNS
+
+look	NN
+for	IN
+movies	NNS
+about	IN
+preschool	JJ
+boys	NNS
+
+what	WP
+films	NNS
+focus	VVP
+on	IN
+rape	NN
+and	CC
+victim	NN
+'s	POS
+rights	NNS
+
+i	NP
+would	MD
+like	VV
+to	TO
+know	VV
+names	NNS
+of	IN
+some	DT
+movies	NNS
+on	IN
+religious	JJ
+issues	NNS
+
+give	VV
+me	PP
+a	DT
+list	NN
+of	IN
+some	DT
+movies	NNS
+on	IN
+religious	JJ
+issues	NNS
+
+look	NN
+for	IN
+movies	NNS
+about	IN
+school	NN
+
+tell	VV
+me	PP
+the	DT
+names	NNS
+of	IN
+some	DT
+soccer	NN
+movies	NNS
+
+what	WP
+are	VBP
+some	DT
+time	NN
+travel	NN
+movies	NNS
+i	NP
+can	MD
+watch	VV
+
+show	VV
+me	PP
+movies	NNS
+involving	VVG
+time	NN
+travel	NN
+
+vampire	NN
+movies	NNS
+please	VVP
+
+list	NN
+movies	NNS
+with	IN
+a	DT
+theme	NN
+of	IN
+war	NN
+in	IN
+them	PP
+
+show	VV
+all	DT
+movies	NNS
+with	IN
+the	DT
+theme	NN
+of	IN
+war	NN
+
+can	MD
+you	PP
+find	VV
+me	PP
+some	DT
+movies	NNS
+about	IN
+war	NN
+
+i	NNS
+want	VVP
+a	DT
+list	NN
+of	IN
+movies	NNS
+about	IN
+war	NN
+
+i	NNS
+want	VVP
+movies	NNS
+about	IN
+war	NN
+
+find	VV
+movies	NNS
+about	IN
+world	NN
+war	NN
+two	CD
+
+what	WP
+are	VBP
+some	DT
+zombie	NN
+apocalypse	NN
+movies	NNS
+
+search	NN
+for	IN
+zombie	NN
+movies	NNS
+
+show	VV
+me	PP
+belle	NN
+in	IN
+spanish	NN
+
+is	VBZ
+dredd	RB
+rated	VVN
+r	NN
+
+take	VV
+me	PP
+to	TO
+the	DT
+french	JJ
+version	NN
+of	IN
+et	FW
+
+find	VV
+et	NP
+in	IN
+french	NN
+
+find	VV
+fast	JJ
+and	CC
+furious	JJ
+in	IN
+japanese	NN
+
+hard	JJ
+day	NN
+'s	POS
+night	NN
+richard	NN
+lester	NN
+
+information	NN
+about	IN
+movie	NN
+life	NN
+is	VBZ
+beautiful	JJ
+
+movie	NN
+information	NN
+for	IN
+life	NN
+is	VBZ
+beautiful	JJ
+
+will	MD
+you	PP
+please	VV
+show	VV
+me	PP
+info	NN
+on	IN
+the	DT
+movie	NN
+life	NN
+is	VBZ
+beautiful	JJ
+
+can	MD
+you	PP
+please	VV
+show	VV
+me	PP
+info	NN
+on	IN
+the	DT
+movie	NN
+life	NN
+is	VBZ
+beautiful	JJ
+
+show	VV
+me	PP
+details	NNS
+to	TO
+the	DT
+movie	NN
+life	NN
+is	VBZ
+beautiful	JJ
+
+show	VV
+me	PP
+info	NN
+on	IN
+the	DT
+movie	NN
+life	NN
+is	VBZ
+beautiful	JJ
+please	RB
+
+open	VV
+a	DT
+page	NN
+about	IN
+the	DT
+movie	NN
+life	NN
+is	VBZ
+beautiful	JJ
+
+is	VBZ
+nine	CD
+fourteen	NN
+the	DT
+premiere	JJ
+date	NN
+for	IN
+resident	JJ
+evil	NN
+
+select	JJ
+rio	NN
+in	IN
+chinese	NN
+
+find	VV
+me	PP
+the	DT
+first	JJ
+star	NN
+wars	NNS
+movie	NN
+info	NN
+
+i	NNS
+need	VVP
+details	NNS
+about	IN
+the	DT
+movie	NN
+star	NN
+wars	NNS
+:	:
+episode	NN
+four	CD
+-	:
+a	DT
+new	JJ
+hope	NN
+
+did	VVD
+ray	NN
+stark	JJ
+produce	NN
+steel	NN
+magnolias	NNS
+
+is	VBZ
+the	DT
+movie	NN
+toy	NN
+story	NN
+4	CD
+being	VBG
+released	VVN
+next	JJ
+summer	NN
+
+i	NNS
+want	VVP
+to	TO
+look	VV
+up	RP
+information	NN
+about	IN
+american	JJ
+movies	NNS
+
+chinese	JJ
+foreign	JJ
+film	NN
+with	IN
+kungfu	NN
+
+french	NN
+movies	NNS
+for	IN
+twenty	CD
+twelve	NN
+
+look	NN
+for	IN
+russian	JJ
+movies	NNS
+by	IN
+mosfilm	NN
+
+show	NN
+production	NN
+company	NN
+lionsgate	NNS
+
+paramount	JJ
+film	NN
+studios	NNS
+
+i	NP
+would	MD
+like	VV
+to	TO
+have	VH
+more	JJR
+information	NN
+about	IN
+the	DT
+producer	NN
+ray	NN
+stark	JJ
+
+show	VV
+me	PP
+details	NNS
+for	IN
+the	DT
+director	NN
+steven	JJ
+spielberg	NN
+
+show	VV
+me	PP
+that	IN/that
+actor	NN
+tom	NN
+cruise	NN
+
+i	NP
+would	MD
+like	VV
+information	NN
+about	IN
+the	DT
+actor	NN
+will	MD
+ferrell	VV
+
+who	WP
+produced	VVD
+the	DT
+movie	NN
+great	JJ
+debaters	NNS
+
+king	NN
+'s	POS
+speech	NN
+production	NN
+company	NN
+
+i	NP
+wonder	NN
+who	WP
+produced	VVD
+star	NN
+wars	NNS
+
+i	NP
+can	MD
+'t	NP
+remember	VV
+who	WP
+produced	VVD
+star	NN
+wars	NNS
+
+who	WP
+produced	VVD
+star	NN
+wars	NNS
+
+movie	NN
+producers	NNS
+
+how	WRB
+much	RB
+did	VVD
+end	NN
+of	IN
+watch	NN
+gross	JJ
+
+how	WRB
+much	RB
+did	VVD
+movie	NN
+earn	VV
+
+show	VV
+me	PP
+the	DT
+earnings	NNS
+for	IN
+hotel	NN
+transylvania	NN
+
+what	WP
+did	VVD
+the	DT
+movie	NN
+the	DT
+house	NN
+at	IN
+the	DT
+end	NN
+of	IN
+the	DT
+steet	NN
+gross	JJ
+
+revenue	NN
+for	IN
+iron	NN
+man	NN
+2	CD
+
+what	WP
+amount	NN
+of	IN
+revenue	NN
+did	VVD
+iron	NN
+man	NN
+make	VV
+
+what	WP
+was	VBD
+the	DT
+gross	JJ
+revenue	NN
+of	IN
+iron	NN
+man	NN
+
+kahani	NP
+'s	POS
+revenue	NN
+
+get	VV
+the	DT
+revenue	NN
+of	IN
+kahani	NNS
+
+revenue	NN
+looper	NN
+
+how	WRB
+much	RB
+did	VVD
+looper	NN
+gross	JJ
+in	IN
+sales	NNS
+
+how	WRB
+much	RB
+did	VVD
+looper	NN
+gross	JJ
+
+ho	NP
+much	RB
+did	VVD
+looper	NN
+make	VV
+
+how	WRB
+much	JJ
+money	NN
+did	VVD
+mr	NN
+and	CC
+mrs	NN
+smith	NN
+make	VV
+
+how	WRB
+much	JJ
+money	NN
+did	VVD
+the	DT
+movie	NN
+mr	NN
+and	CC
+mrs	NN
+smith	NN
+make	VV
+
+in	IN
+the	DT
+movie	NN
+mr	NN
+and	CC
+mrs	NN
+smith	NN
+how	WRB
+much	JJ
+money	NN
+did	VVD
+the	DT
+box	NN
+offfice	NN
+report	NN
+
+how	WRB
+much	JJ
+money	NN
+did	VVD
+philadelphia	NN
+make	VV
+
+i	NNS
+want	VVP
+to	TO
+know	VV
+what	WP
+the	DT
+revenue	NN
+for	IN
+pirates	NNS
+was	VBD
+
+how	WRB
+much	RB
+was	VBD
+made	VVN
+from	IN
+platoon	NN
+
+what	WP
+was	VBD
+the	DT
+gross	JJ
+revenue	NN
+earned	VVD
+by	IN
+star	NN
+wars	NNS
+in	IN
+its	PP$
+original	JJ
+release	NN
+
+what	WP
+was	VBD
+the	DT
+total	JJ
+gross	JJ
+receipts	NNS
+at	IN
+the	DT
+box	NN
+office	NN
+for	IN
+the	DT
+movie	NN
+star	NN
+wars	NNS
+
+what	WP
+were	VBD
+the	DT
+gross	JJ
+receipts	NNS
+for	IN
+hunger	NN
+games	NNS
+
+tell	VV
+me	PP
+how	WRB
+much	JJ
+money	NN
+tommy	NN
+boy	NN
+made	VVD
+
+how	WRB
+much	JJ
+revenue	NN
+did	VVD
+top	JJ
+gun	NN
+make	VV
+
+tell	VV
+me	PP
+the	DT
+revenue	NN
+of	IN
+training	NN
+day	NN
+
+what	WP
+is	VBZ
+life	NN
+is	VBZ
+beautiful	JJ
+about	RB
+
+show	VV
+me	PP
+a	DT
+list	NN
+of	IN
+production	NN
+companies	NNS
+
+show	VV
+me	PP
+the	DT
+viewer	NN
+ratings	NNS
+in	IN
+orange	NN
+
+is	VBZ
+in	RB
+july	RB
+on	IN
+netflix	NN
+
+rate	NN
+movies	NNS
+
+find	VV
+the	DT
+actor	NN
+that	WDT
+sings	VVZ
+let	VV
+me	PP
+love	VV
+you	PP
+
+what	WP
+is	VBZ
+steven	JJ
+spielberg	NN
+up	RB
+to	TO
+
+israel	NP
+are	VBP
+all	PDT
+your	PP$
+movies	NNS
+in	IN
+your	PP$
+native	JJ
+language	NN
+or	CC
+in	IN
+english	NN
+
+what	WP
+'s	VBZ
+playing	VVG
+tonight	RB
+
+where	WRB
+can	MD
+i	NNS
+buy	VV
+this	DT
+movie	NN
+
+i	NP
+would	MD
+like	VV
+to	TO
+know	VV
+if	IN
+this	DT
+is	VBZ
+a	DT
+real	RB
+scary	JJ
+
+how	WRB
+to	TO
+rent	VV
+dirty	JJ
+dancing	NN
+
+can	MD
+i	NP
+rent	NN
+finding	VVG
+nemo	NN
+on	IN
+netflix	NN
+
+hotel	NN
+rwanda	NN
+is	VBZ
+based	VVN
+on	IN
+what	WP
+
+i	NNS
+need	VVP
+to	TO
+know	VV
+where	WRB
+you	PP
+keep	VVP
+resident	JJ
+evil	NN
+
+in	IN
+september	NN
+
+dvd	NNS
+finding	VVG
+nemo	NN
+
+find	VV
+movie	NN
+from	IN
+criteria	NNS
+
+find	VV
+a	DT
+movie	NN
+
+can	MD
+you	PP
+tell	VV
+me	PP
+which	WDT
+movie	NN
+made	VVD
+the	DT
+most	JJS
+at	IN
+the	DT
+box	NN
+office	NN
+in	IN
+the	DT
+weekend	NN
+of	IN
+september	NN
+twenty	CD
+eighth	NN
+
+find	VV
+movies	NNS
+selected	VVN
+on	IN
+all	DT
+criteria	NNS
+
+options	NNS
+available	JJ
+for	IN
+movies	NNS
+today	NN
+
+find	VV
+all	DT
+selected	JJ
+criteria	NNS
+
+search	NN
+highlighted	VVD
+information	NN
+
+bring	VV
+up	RP
+movie	NN
+request	NN
+
+find	VV
+selected	JJ
+information	NN
+
+find	VV
+selected	JJ
+criteria	NNS
+
+where	WRB
+can	MD
+i	NP
+watch	NN
+movie	NN
+
+search	VV
+all	DT
+databases	NNS
+
+search	NN
+databases	NNS
+
+where	WRB
+can	MD
+i	NNS
+see	VV
+movie	NN
+
+what	WP
+is	VBZ
+the	DT
+age	NN
+limit	NN
+for	IN
+the	DT
+pg	NN
+rating	NN
+for	IN
+the	DT
+movie	NN
+hotel	NN
+transylvania	NN
+
+what	WP
+does	VVZ
+the	DT
+rating	NN
+r	SYM
+mean	JJ
+for	IN
+the	DT
+movie	NN
+dred	VVD
+
+show	VV
+me	PP
+the	DT
+sequels	NNS
+or	CC
+prequels	NNS
+to	TO
+this	DT
+movie	NN
+
+how	WRB
+long	RB
+did	VVD
+it	PP
+take	VV
+james	NNS
+cameron	NN
+to	TO
+produce	VV
+avatar	NN
+
+is	VBZ
+this	DT
+film	NN
+dubbed	VVN
+in	IN
+english	NN
+
+apollo	NN
+thirteen	CD
+cast	NN
+was	VBD
+chosen	VVN
+how	WRB
+
+what	WP
+other	JJ
+formats	NNS
+is	VBZ
+finding	VVG
+nemo	NN
+in	IN
+
+in	IN
+how	WRB
+many	JJ
+days	NNS
+did	VVD
+it	PP
+take	VVP
+to	TO
+make	VV
+twenty	CD
+one	CD
+point	NN
+two	CD
+for	IN
+looper	NN
+
+what	WP
+age	NN
+group	NN
+is	VBZ
+for	IN
+rated	VVN
+r	NN
+movies	NNS
+
+show	VV
+me	PP
+the	DT
+behind	IN
+scenes	NNS
+of	IN
+the	DT
+movie	NN
+in	IN
+orange	NN
+
+how	WRB
+long	RB
+do	VVP
+you	PP
+predict	VVP
+that	IN/that
+wb	NN
+will	MD
+continue	VV
+to	TO
+strive	VV
+in	IN
+today	NN
+'s	POS
+market	NN
+
+the	DT
+crap	NN
+
+who	WP
+determines	VVZ
+the	DT
+ratings	NNS
+on	IN
+movies	NNS
+
+house	NN
+at	IN
+the	DT
+end	NN
+of	IN
+the	DT
+street	NN
+should	MD
+of	IN
+made	VVD
+more	JJR
+money	NN
+
+find	VV
+me	PP
+dirty	JJ
+dancing	NN
+news	NN
+
+who	WP
+else	RB
+could	MD
+have	VH
+preformed	VVN
+your	PP$
+job	NN
+
+twenty	CD
+one	CD
+point	NN
+two	CD
+was	VBD
+paid	VVN
+out	RP
+
+find	VV
+some	DT
+notes	NNS
+on	IN
+parental	JJ
+guidance	NN
+please	VV
+
+who	WP
+came	VVD
+up	RP
+for	IN
+the	DT
+main	JJ
+plot	NN
+
+what	WP
+is	VBZ
+the	DT
+standard	NN
+to	TO
+be	VB
+rated	VVN
+g	NN
+
+i	NP
+love	NN
+taye	NN
+diggs	NNS
+
+show	VV
+me	PP
+the	DT
+movie	NN
+reviews	VVZ
+in	IN
+orange	NN
+
+show	VV
+me	PP
+celebrities	NNS
+
+how	WRB
+old	JJ
+do	VVP
+you	PP
+have	VHP
+to	TO
+be	VB
+to	TO
+see	VV
+an	DT
+r-rated	JJ
+movie	NN
+
+does	VVZ
+ireland	NP
+have	VHP
+an	DT
+equivalent	NN
+to	TO
+th	NN
+us	PP
+oscar	NN
+awards	NNS
+
+click	NN
+on	IN
+the	DT
+most	RBS
+popular	JJ
+movie	NN
+in	IN
+orange	NN
+
+brazil	NN
+movie	NN
+locations	NNS
+
+what	WP
+is	VBZ
+the	DT
+history	NN
+behind	IN
+lionsgate	NNS
+
+what	WP
+does	VVZ
+an	DT
+r	NN
+rating	NN
+mean	VVP
+on	IN
+a	DT
+movie	NN
+
+can	MD
+you	PP
+give	VV
+me	PP
+more	JJR
+information	NN
+about	IN
+the	DT
+text	NN
+highlighted	VVN
+in	IN
+orange	NN
+
+what	WP
+are	VBP
+the	DT
+recommended	JJ
+ages	NNS
+for	IN
+a	DT
+pg	NN
+movie	NN
+
+send	VV
+dredd	NN
+movie	NN
+
+jenn	NP
+ann	NP
+lover	NN
+
+did	VVD
+kristen	NP
+stewart	NP
+have	VHP
+an	DT
+affair	NN
+with	IN
+the	DT
+director	NN
+of	IN
+snow	NN
+white	NN
+and	CC
+the	DT
+huntsman	NN
+
+show	VV
+me	PP
+movie	NN
+highlights	NNS
+in	IN
+orange	NN
+
+need	NN
+to	TO
+rate	NN
+movie	NN
+
+how	WRB
+old	JJ
+do	VVP
+you	PP
+have	VHP
+to	TO
+be	VB
+to	TO
+see	VV
+a	DT
+rated	VVN
+r	NN
+movie	NN
+
+what	WP
+does	VVZ
+a	DT
+pg	NN
+thirteen	CD
+rating	NN
+mean	NN
+
+twenty	CD
+one	CD
+point	NN
+two	CD
+is	VBZ
+the	DT
+first	JJ
+week	NN
+gross	JJ
+
+r	SYM
+rating	NN
+what	WP
+does	VVZ
+that	RB
+include	VV
+
+in	IN
+julie	NN
+
+wb	NN
+-	:
+what	WP
+does	VVZ
+it	PP
+take	VV
+to	TO
+become	VV
+a	DT
+movie	NN
+producer	NN
+
+show	VV
+me	PP
+hollywood	NN
+influences	NNS
+
+how	WRB
+does	VVZ
+a	DT
+movie	NN
+receive	VV
+an	DT
+r	NN
+rating	NN
+
+did	VVD
+you	PP
+have	VHP
+fun	NN
+on	IN
+the	DT
+set	NN
+
+what	WP
+are	VBP
+the	DT
+rating	NN
+symbols	NNS
+for	IN
+movies	NNS
+
+sb	NN
+news	NN
+on	IN
+life	NN
+
+i	NNS
+have	VHP
+a	DT
+thirteen	CD
+year	NN
+old	JJ
+
+end	NN
+of	IN
+watch	NN
+shoulde	NN
+of	IN
+made	VVD
+less	JJR
+money	NN
+
+when	WRB
+the	DT
+movie	NN
+comes	VVZ
+out	RB
+do	VV
+you	PP
+think	VVP
+it	PP
+will	MD
+raise	VV
+in	IN
+the	DT
+box	NN
+office	NN
+
+show	VV
+me	PP
+the	DT
+movie	NN
+list	NN
+in	IN
+orange	NN
+
+show	VV
+me	PP
+the	DT
+story	NN
+of	IN
+the	DT
+armstrong	NN
+siddeley	NN
+
+classic	JJ
+cars	NNS
+
+i	NNS
+want	VVP
+to	TO
+learn	VV
+about	IN
+flowers	NNS
+
+out	IN
+camping	NN
+
+happy	JJ
+
+interesting	JJ
+
+sort	NN
+by	IN
+spanish	NN
+
+where	WRB
+is	VBZ
+punjabi	NN
+
+what	WP
+is	VBZ
+robert	NN
+wise	NN
+'s	POS
+middle	JJ
+name	NN
+
+ferret	NN
+
+forty	NN
+three	CD
+million	CD
+what	WP
+
+twenty	CD
+one	CD
+point	NN
+two	CD
+million	CD
+dollars	NNS
+was	VBD
+divided	VVN
+between	IN
+who	WP
+
+do	VV
+movie	NN
+authors	NNS
+use	VVP
+real	JJ
+countries	NNS
+
+on	IN
+lies	NNS
+
+the	DT
+movie	NN
+a	DT
+tanu	NN
+is	VBZ
+from	IN
+hungary	NN
+;	:
+where	WRB
+is	VBZ
+the	DT
+country	NN
+hungary	NN
+
+how	WRB
+fun	NN
+is	VBZ
+it	PP
+to	TO
+produce	VV
+a	DT
+movie	NN
+
+did	VVD
+you	PP
+like	IN
+working	VVG
+with	IN
+who	WP
+you	PP
+did	VVD
+
+can	MD
+i	NNS
+see	VV
+a	DT
+map	NN
+of	IN
+canada	NP
+
+was	VBD
+your	PP$
+journey	NN
+worth	NN
+it	PP
+
+south	JJ
+american	JJ
+country	NN
+flags	NNS
+
+need	VV
+more	JJR
+info	NN
+that	WDT
+relates	VVZ
+to	TO
+china	NN
+
+flags	NNS
+of	IN
+planet	NN
+earth	NN
+
+best	JJS
+writers	NNS
+in	IN
+the	DT
+field	NN
+
+find	VV
+the	DT
+male	JJ
+actor	NN
+from	IN
+grand	JJ
+torino	NN
+
+who	WP
+played	VVD
+the	DT
+female	JJ
+lead	NN
+in	IN
+hitch	NN
+
+find	VV
+the	DT
+female	JJ
+actress	NN
+from	IN
+shallow	JJ
+hal	NNS
+
+who	WP
+is	VBZ
+in	IN
+picture	NN
+three	CD
+
+who	WP
+are	VBP
+the	DT
+lead	JJ
+actors	NNS
+
+how	WRB
+old	NN
+is	VBZ
+jennifer	NN
+aniston	NN
+
+when	WRB
+was	VBD
+will	NN
+ferrell	NN
+born	VVN
+
+where	WRB
+was	VBD
+black	JJ
+swan	NN
+directed	VVD
+
+where	WRB
+was	VBD
+muriel	NP
+'s	POS
+wedding	NN
+shot	NN
+
+show	NN
+release	NN
+date	NN
+in	IN
+the	DT
+usa	NN
+for	IN
+the	DT
+movie	NN
+little	JJ
+women	NNS
+
+show	NN
+movie	NN
+description	NN
+
+i	NP
+'d	MD
+like	VV
+to	TO
+see	VV
+popular	JJ
+film	NN
+directors	NNS
+from	IN
+the	DT
+nineteen	CD
+fifty	CD
+'s	VBZ
+through	IN
+today	NN
+
+best	JJS
+director	NN
+
+best	JJS
+directors	NNS
+of	IN
+all	DT
+time	NN
+
+please	UH
+show	VV
+me	PP
+famous	JJ
+film	NN
+directors	NNS
+
+greatest	JJS
+directors	NNS
+
+who	WP
+produced	VVD
+some	DT
+of	IN
+the	DT
+most	RBS
+popular	JJ
+movies	NNS
+
+show	VV
+me	PP
+successful	JJ
+movie	NN
+directors	NNS
+
+who	WP
+produced	VVD
+hotel	NN
+rwanda	NNS
+cover	VVP
+art	NN
+
+who	WP
+'s	VBZ
+the	DT
+director	NN
+
+director	NN
+'s	POS
+name	NN
+
+what	WP
+is	VBZ
+the	DT
+name	NN
+of	IN
+a	DT
+turkish	JJ
+director	NN
+that	WDT
+produced	VVD
+a	DT
+drama	NN
+film	NN
+
+watch	NN
+dredd	NN
+movie	NN
+
+see	VV
+dredd	NN
+movie	NN
+
+what	WP
+was	VBD
+the	DT
+name	NN
+of	IN
+an	DT
+academy	NN
+award	NN
+winning	VVG
+russian	JJ
+documentary	NN
+
+what	WP
+movie	NN
+titles	NNS
+starring	VVG
+meryl	NN
+streep	NNS
+earned	VVD
+oscar	NN
+nominations	NNS
+
+in	IN
+search	NN
+for	IN
+names	NNS
+of	IN
+crew	NN
+members	NNS
+please	VVP
+
+get	VV
+me	PP
+reviews	NNS
+and	CC
+info	NN
+about	IN
+the	DT
+campaign	NN
+movie	NN
+
+show	VV
+me	PP
+reviews	NNS
+and	CC
+info	NN
+for	IN
+the	DT
+campaign	NN
+
+what	WP
+movies	NNS
+that	DT
+clint	NN
+eastwood	NN
+direct	JJ
+that	IN/that
+he	PP
+won	VVD
+the	DT
+best	JJS
+director	NN
+oscar	NN
+for	IN
+
+what	WP
+'s	VBZ
+hitchcock	NN
+'s	POS
+most	RBS
+famous	JJ
+movie	NN
+
+tell	VV
+me	PP
+some	DT
+of	IN
+walter	NP
+f	SYM
+parkes	VVZ
+best	JJS
+movies	NNS
+
+looking	VVG
+for	IN
+movies	NNS
+directed	VVN
+by	IN
+actor	NN
+number	NN
+one	CD
+
+list	NN
+of	IN
+movies	NNS
+directed	VVN
+by	IN
+director	NN
+three	CD
+
+show	VV
+me	PP
+the	DT
+film	NN
+that	WDT
+grossed	VVD
+seven	CD
+point	NN
+two	CD
+million	CD
+at	IN
+the	DT
+box	NN
+office	NN
+
+show	VV
+me	PP
+movies	NNS
+that	WDT
+made	VVD
+over	IN
+seven	CD
+million	CD
+dollars	NNS
+
+show	VV
+me	PP
+movies	NNS
+that	IN/that
+didn	NN
+'t	NN
+gross	JJ
+much	RB
+
+i	NNS
+want	VVP
+to	TO
+see	VV
+movies	NNS
+from	IN
+early	RB
+two	CD
+thousands	NNS
+
+show	VV
+last	JJ
+years	NNS
+films	NNS
+by	IN
+7	CD
+arts	NNS
+
+show	VV
+all	DT
+movies	NNS
+that	WDT
+came	VVD
+out	RP
+nine	CD
+fourteen	NN
+twenty	CD
+twelve	NN
+
+were	VBD
+there	RB
+any	DT
+movies	NNS
+released	VVD
+nine	CD
+fourteen	NN
+twenty	CD
+twelve	NN
+
+show	VV
+me	PP
+movies	NNS
+from	IN
+the	DT
+nineteen	CD
+seventies	NNS
+
+can	MD
+you	PP
+list	VV
+all	DT
+movies	NNS
+from	IN
+twenty	CD
+twelve	NN
+with	IN
+a	DT
+rating	NN
+of	IN
+three	CD
+stars	NNS
+and	CC
+up	RB
+
+academy	NN
+award	NN
+lionsgate	NN
+movies	NNS
+
+show	NN
+oscar	NN
+winning	VVG
+movies	NNS
+by	IN
+warner	NN
+brothers	NNS
+
+what	WP
+movie	NN
+performance	NN
+did	VVD
+meryl	NN
+streep	NNS
+win	VVP
+her	PP$
+best	JJS
+supporting	JJ
+oscar	NN
+
+have	VHP
+any	DT
+us	PP
+released	VVN
+movies	NNS
+been	VBN
+filmed	VVN
+on	IN
+location	NN
+in	IN
+the	DT
+czech	NN
+republic	NN
+
+what	WP
+us	PP
+release	VVP
+movies	NNS
+have	VHP
+been	VBN
+filmed	VVN
+in	IN
+the	DT
+czech	NN
+republic	NN
+
+list	NN
+movies	NNS
+set	VVN
+in	IN
+ireland	NN
+
+show	VV
+me	PP
+the	DT
+movies	NNS
+released	VVN
+in	IN
+england	NN
+
+what	WP
+movies	NNS
+are	VBP
+coming	VVG
+out	RP
+this	DT
+week	NN
+in	IN
+great	JJ
+britain	NN
+
+show	VV
+me	PP
+the	DT
+movies	NNS
+released	VVN
+in	IN
+nepal	NN
+
+what	WP
+are	VBP
+the	DT
+top	JJ
+five	CD
+french	NN
+movies	NNS
+of	IN
+all	DT
+time	NN
+
+what	WP
+top	JJ
+films	NNS
+have	VHP
+come	VVN
+out	RP
+of	IN
+russia	NN
+
+show	VV
+me	PP
+the	DT
+top	JJ
+movies	NNS
+from	IN
+spain	NN
+
+what	WP
+is	VBZ
+the	DT
+highest	JJS
+rated	VVN
+zombie	NN
+movie	NN
+
+what	WP
+are	VBP
+highly	RB
+rated	VVN
+zombie	NN
+movies	NNS
+i	NP
+can	MD
+watch	VV
+
+look	NN
+for	IN
+popular	JJ
+movies	NNS
+
+search	NN
+for	IN
+foreign	JJ
+language	NN
+films	NNS
+
+what	WP
+is	VBZ
+will	NN
+ferrell	NN
+famous	JJ
+for	IN
+
+is	VBZ
+this	DT
+a	DT
+musical	NN
+
+hope	VVP
+that	IN/that
+the	DT
+movie	NN
+is	VBZ
+in	IN
+english	NN
+
+is	VBZ
+this	DT
+movie	NN
+in	IN
+english	NN
+
+do	VV
+they	PP
+speak	VV
+german	JJ
+in	IN
+the	DT
+movie	NN
+
+is	VBZ
+this	DT
+movie	NN
+filmed	VVN
+in	IN
+india	NN
+
+show	VV
+all	DT
+dawn	NN
+of	IN
+the	DT
+dead	JJ
+movies	NNS
+
+all	DT
+of	IN
+kung	NP
+fu	NP
+panda	NN
+movies	NNS
+
+list	NN
+movies	NNS
+that	WDT
+have	VHP
+time	NN
+travel	NN
+in	IN
+their	PP$
+title	NN
+
+i	NNS
+want	VVP
+to	TO
+see	VV
+nine	CD
+twenty	CD
+eight	CD
+release	NN
+date	NN
+films	NNS
+from	IN
+twenty	CD
+twelve	NN
+
+find	VV
+information	NN
+about	IN
+french	JJ
+movies	NNS
+
+i	NNS
+need	VVP
+to	TO
+know	VV
+more	JJR
+about	IN
+the	DT
+life	NN
+and	CC
+movies	NNS
+of	IN
+indian	JJ
+actor	NN
+dilip	NN
+kumar	NN
+
+what	WP
+does	VVZ
+the	DT
+miramax	NN
+logo	NN
+look	VVP
+like	IN
+
+show	VV
+me	PP
+pictures	NNS
+of	IN
+martin	NN
+scorsese	NN
+
+photos	NNS
+of	IN
+steven	JJ
+spielberg	NN
+
+i	NNS
+want	VVP
+to	TO
+see	VV
+images	NNS
+of	IN
+will	NN
+ferrell	NN
+
+show	VV
+me	PP
+pictures	NNS
+of	IN
+woody	JJ
+allen	NN
+
+what	WP
+are	VBP
+popular	JJ
+movie	NN
+producers	NNS
+
+can	MD
+you	PP
+give	VV
+me	PP
+the	DT
+producer	NN
+
+i	NP
+would	MD
+like	VV
+to	TO
+know	VV
+the	DT
+rating	NN
+of	IN
+the	DT
+movie	NN
+avatar	NN
+
+what	WP
+rating	NN
+is	VBZ
+the	DT
+movie	NN
+barfi	NN
+
+what	WP
+is	VBZ
+finding	VVG
+nemo	NN
+rated	VVN
+
+i	NNS
+need	VVP
+to	TO
+know	VV
+the	DT
+rating	NN
+of	IN
+grease	NN
+
+can	MD
+you	PP
+find	VV
+out	RP
+what	WP
+rating	NN
+the	DT
+movie	NN
+grease	NN
+is	VBZ
+
+what	WP
+is	VBZ
+kids	NNS
+by	IN
+larry	NN
+clark	NN
+rated	VVN
+
+what	WP
+rating	NN
+did	VVD
+marley	NN
+and	CC
+me	PP
+receive	VVP
+
+what	WP
+is	VBZ
+the	DT
+rating	NN
+for	IN
+mr	NN
+and	CC
+mrs	NN
+smith	NN
+
+what	WP
+rating	NN
+did	VVD
+resident	JJ
+evil	NN
+receive	VV
+
+rating	NN
+for	IN
+snow	NN
+white	NN
+and	CC
+the	DT
+huntsman	NN
+
+what	WP
+rating	NN
+is	VBZ
+step	NN
+up	RB
+
+look	VV
+up	RP
+the	DT
+rating	NN
+of	IN
+the	DT
+movie	NN
+step	NN
+up	RB
+
+what	WP
+rating	NN
+did	VVD
+the	DT
+campaign	NN
+movie	NN
+get	VV
+
+show	VV
+me	PP
+the	DT
+rating	NN
+for	IN
+the	DT
+movie	NN
+the	DT
+expendables	NNS
+
+what	WP
+is	VBZ
+the	DT
+rating	NN
+for	IN
+toy	JJ
+story	NN
+
+what	WP
+is	VBZ
+the	DT
+rating	NN
+for	IN
+the	DT
+movie	NN
+toy	NN
+story	NN
+
+rating	NN
+for	IN
+twilight	NN
+breaking	VVG
+dawn	NN
+
+what	WP
+was	VBD
+gross	JJ
+revenue	NN
+for	IN
+batman	NN
+begins	VVZ
+
+how	WRB
+much	RB
+has	VHZ
+black	JJ
+swan	NN
+brought	VVN
+in	IN
+
+find	VV
+the	DT
+revenue	NN
+for	IN
+downton	NN
+abbey	NN
+
+find	VV
+the	DT
+revenue	NN
+of	IN
+edward	NN
+scissor	VVP
+hands	NNS
+
+what	WP
+is	VBZ
+the	DT
+most	JJS
+a	DT
+movie	NN
+made	VVD
+
+reviews	NNS
+for	IN
+dirty	JJ
+dancing	NN
+
+find	VV
+reviews	NNS
+for	IN
+dirty	JJ
+dancing	NN
+
+what	WP
+are	VBP
+reviews	NNS
+for	IN
+finding	VVG
+nemo	NN
+
+what	WP
+are	VBP
+the	DT
+ratings	NNS
+and	CC
+review	NN
+on	IN
+finding	VVG
+nemo	NN
+
+reviews	NNS
+for	IN
+finding	VVG
+nemo	NN
+
+reviews	NNS
+for	IN
+finding	VVG
+nemo	NN
+
+reviews	NNS
+for	IN
+finding	VVG
+nemo	NN
+
+reviews	NNS
+for	IN
+movie	NN
+
+reviews	NNS
+for	IN
+in	IN
+july	NN
+
+what	WP
+are	VBP
+the	DT
+reviewers	NNS
+saying	VVG
+about	IN
+star	NN
+wars	NNS
+episode	NN
+four	CD
+
+how	WRB
+long	RB
+is	VBZ
+life	NN
+is	VBZ
+beautiful	JJ
+
+synopsis	NN
+for	IN
+the	DT
+movie	NN
+house	NN
+at	IN
+the	DT
+end	NN
+of	IN
+the	DT
+street	NN
+
+synopsis	NN
+for	IN
+star	NN
+wars	NNS
+four	CD
+
+summary	NN
+of	IN
+star	NN
+wars	NNS
+four	CD
+
+finding	VVG
+nemo	NN
+movie	NN
+shortcut	NN
+
+show	VV
+me	PP
+the	DT
+trailer	NN
+for	IN
+house	NN
+at	IN
+the	DT
+end	NN
+of	IN
+the	DT
+street	NN
+
+life	NN
+is	VBZ
+beatiful	JJ
+shortcut	NN
+
+trailer	NN
+for	IN
+star	NN
+wars	NNS
+a	DT
+new	JJ
+hope	NN
+
+show	VV
+resident	JJ
+evil	JJ
+movies	NNS
+with	IN
+trailers	NNS
+
+can	MD
+i	NNS
+see	VV
+previews	NNS
+for	IN
+upcoming	JJ
+warner	NN
+brothers	NNS
+movies	NNS
+
+how	WRB
+many	JJ
+woody	JJ
+allen	NN
+movies	NNS
+are	VBP
+set	VVN
+in	IN
+new	JJ
+york	VVP
+city	NN
+
+how	WRB
+many	JJ
+scorsese	JJ
+films	NNS
+were	VBD
+filmed	VVN
+in	IN
+france	NN
+
