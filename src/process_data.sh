@@ -11,7 +11,7 @@ PROC_FOLDER=../proc/
 MODELS_FOLDER=../models/
 TMP_FOLDER=../tmp/
 
-TRAIN_DATA=${DATA_FOLDER}NLSPARQL.train.feats.pos.txt
+TRAIN_DATA=${DATA_FOLDER}NLSPARQL.train.data
 TMP=${TMP_FOLDER}tmp
 LEXICON=${MODELS_FOLDER}'lexicon.lex'
 LEXICON_CUTOFF=${MODELS_FOLDER}'lexicon_cutoff.lex'

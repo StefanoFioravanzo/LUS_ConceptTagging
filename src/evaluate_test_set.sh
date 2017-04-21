@@ -6,14 +6,14 @@ MODELS_FOLDER=../models/
 TMP_FOLDER=../tmp/
 RESULTS_FOLDER=../results/
 
-TRAINING_SET=${DATA_FOLDER}NLSPARQL.train.feats.pos.txt
-TEST_SET=${DATA_FOLDER}NLSPARQL.test.feats.pos.txt
+TRAINING_SET=${DATA_FOLDER}NLSPARQL.train.data
+TEST_SET=${DATA_FOLDER}NLSPARQL.test.data
 
 # NOTE: change these files if we want to use cutoff
 #LEXICON=${MODELS_FOLDER}lexicon.lex
 #POS_TAGGER=pos-tagger.fst
-LEXICON=${MODELS_FOLDER}lexicon_cutoff.lex
-POS_TAGGER=pos-tagger_cutoff.fst
+LEXICON=${MODELS_FOLDER}lexicon.lex
+POS_TAGGER=pos-tagger.fst
 
 # Take as argument the size of the n-gram of the language model
 # and the kind of smoothing applied.
@@ -51,6 +51,10 @@ do
     # remove temporary file created by farextract utility
     rm sentence1.fst
 done < ${TMP_FOLDER}sentence_per_line_test.data
+
+# in case we are evaluating the baseline model (using just the transducer) we have to process
+# a little more the prediction
+#cat prediction.data| sed -e "s/^[[:digit:]]*$/#/g" | tr -d '#' | less > prediction_trs.data
 
 # create a file <word> <original_tag> <predicted_tag>
 cut -f2 ${TMP_FOLDER}prediction.data | paste ${TEST_SET} - > ${TMP_FOLDER}evaluation.data
