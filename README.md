@@ -9,6 +9,8 @@
 
 #### Processing
 
+Before starting any processing, always run the `clean.sh` scripts which clears or creates the necessary folders.
+
 The scripts to process and evaluate the data are under the `/src` folder. The `process_data.sh` script will take the training corpus and produce some files used to build the models:
 
 - a lexicon, which contains all unique words and tags present in the training set
