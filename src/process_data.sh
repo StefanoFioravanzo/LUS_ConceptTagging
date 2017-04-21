@@ -6,11 +6,18 @@
 # - proc/
 # - models/
 
+# commands used to generate additional training data using additional features
+#cat NLSPARQL.train.feats.txt | cut -f1,2 | tr -d '\t' > tmp
+#cat NLSPARQL.train.data| cut -f2 | paste tmp - > {test,train}.pos.feats.data
+
 DATA_FOLDER=../data/
 PROC_FOLDER=../proc/
 MODELS_FOLDER=../models/
 TMP_FOLDER=../tmp/
 
+#NLSPARQL.train.data
+#NLSPARQL.train.feats.pos.txt
+#train.pos.feats.data
 TRAIN_DATA=${DATA_FOLDER}NLSPARQL.train.data
 TMP=${TMP_FOLDER}tmp
 LEXICON=${MODELS_FOLDER}'lexicon.lex'

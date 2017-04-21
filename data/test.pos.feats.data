@@ -1,0 +1,8201 @@
+starNN	O
+ofIN	O
+thorNN	B-movie.name
+	
+whoWP	O
+isVBZ	O
+inIN	O
+theDT	O
+movieNN	O
+theDT	B-movie.name
+campaignNN	I-movie.name
+	
+listVV	O
+theDT	O
+castNN	O
+ofIN	O
+theDT	O
+movieNN	O
+theDT	B-movie.name
+campaignNN	I-movie.name
+	
+whoWP	O
+wasVBD	O
+inIN	O
+twilightNN	B-movie.name
+	
+whoWP	O
+isVBZ	O
+inIN	O
+vulguriaNN	B-movie.name
+	
+actorNN	O
+fromIN	O
+lostVVN	B-movie.name
+	
+whoWP	O
+playedVVD	O
+inIN	O
+theDT	O
+movieNN	O
+rockyJJ	B-movie.name
+	
+whoWP	O
+playedVVD	O
+inIN	O
+theDT	O
+movieNN	O
+captainNN	B-movie.name
+americaNN	I-movie.name
+	
+castNN	O
+andCC	O
+crewNN	O
+forIN	O
+inIN	B-movie.name
+julyNN	I-movie.name
+	
+whoWP	O
+isVBZ	O
+inIN	O
+movieNN	O
+inIN	B-movie.name
+julyRB	I-movie.name
+	
+whoWP	O
+'sVBZ	O
+inIN	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+episodeNN	I-movie.name
+fourCD	I-movie.name
+	
+whoWP	O
+wasVBD	O
+inIN	O
+apolloNN	B-movie.name
+thirteenCD	I-movie.name
+	
+whoWP	O
+wasVBD	O
+apolloNN	B-movie.name
+thirteenCD	I-movie.name
+'sVBZ	O
+castVVN	O
+	
+searchNN	O
+forIN	O
+informationNN	O
+aboutIN	O
+theDT	O
+castNN	O
+andCC	O
+crewNN	O
+ofIN	O
+appoloNP	B-movie.name
+thirteenCD	I-movie.name
+	
+iNP	O
+wouldMD	O
+likeVV	O
+toTO	O
+knowVV	O
+moreJJR	O
+aboutIN	O
+theDT	O
+castNN	O
+andCC	O
+crewNN	O
+ofIN	O
+theDT	O
+movieNN	O
+apolloNN	B-movie.name
+thirteenCD	I-movie.name
+	
+whoWP	O
+starredVVD	O
+inIN	O
+theDT	B-movie.name
+avengersNNS	I-movie.name
+	
+castVVN	O
+forIN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+actorNN	O
+fromIN	O
+lassieNN	B-movie.name
+	
+listNN	O
+actorsNNS	O
+inIN	O
+theDT	O
+movieNN	O
+midnightNN	B-movie.name
+cowboyNN	I-movie.name
+	
+dirtyJJ	B-movie.name
+dancingNN	I-movie.name
+actorsNNS	O
+	
+whoWP	O
+areVBP	O
+castVVN	O
+andCC	O
+crewNN	O
+ofIN	O
+dirtyJJ	B-movie.name
+dancingNN	I-movie.name
+	
+whoWP	O
+wasVBD	O
+inIN	O
+hitchNN	B-movie.name
+	
+whoWP	O
+isVBZ	O
+inIN	O
+theDT	O
+castNN	O
+ofIN	O
+hitchNN	B-movie.name
+	
+starNN	O
+ofIN	O
+factsNNS	B-movie.name
+ofIN	I-movie.name
+lifeNN	I-movie.name
+	
+showVV	O
+mePP	O
+movieNN	O
+creditsNNS	O
+	
+whoWP	O
+doesVVZ	O
+theDT	O
+voicesNNS	O
+forIN	O
+theDT	O
+movieNN	O
+	
+findVV	O
+movieNN	O
+actorsNNS	O
+	
+showNN	O
+creditsNNS	O
+-:	O
+foragerNN	B-movie.name
+	
+starNN	O
+ofIN	O
+modernJJ	B-movie.name
+familyNN	I-movie.name
+	
+lookVV	O
+upRP	O
+informationNN	O
+aboutIN	O
+theDT	O
+castNN	O
+crewNN	O
+ofIN	O
+goNN	B-movie.name
+	
+findVV	O
+informationNN	O
+aboutIN	O
+theDT	O
+castNN	O
+andCC	O
+crewNN	O
+ofIN	O
+goNN	B-movie.name
+	
+whoWP	O
+wasVBD	O
+inIN	O
+theDT	O
+castNN	O
+ofIN	O
+goNN	B-movie.name
+	
+canMD	O
+youPP	O
+findVV	O
+theDT	O
+leadJJ	O
+actorNN	O
+inIN	O
+prettyJJ	B-movie.name
+womenNNS	I-movie.name
+	
+whatWP	O
+areVBP	O
+theDT	O
+actorsNNS	O
+namesNNS	O
+andCC	O
+partsNNS	O
+inIN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+searchingVVG	O
+forIN	O
+namesNNS	O
+ofIN	O
+crewNN	O
+membersNNS	O
+ofIN	O
+appolloNP	B-movie.name
+thirteenCD	I-movie.name
+	
+budgetNN	O
+forIN	O
+darkJJ	B-movie.name
+knightNN	I-movie.name
+	
+whatWP	O
+wasVBD	O
+theDT	O
+budgetNN	O
+forIN	O
+theDT	B-movie.name
+godfatherNN	I-movie.name
+	
+budgetNN	O
+forIN	O
+twilightNN	B-movie.name
+	
+pleaseUH	O
+lookVV	O
+upRP	O
+theDT	O
+budgetNN	O
+ofIN	O
+stepNN	B-movie.name
+upRB	I-movie.name
+	
+budgetNN	O
+forIN	O
+titanicJJ	B-movie.name
+theDT	O
+movieNN	O
+	
+whatWP	O
+wasVBD	O
+theDT	O
+budgetNN	O
+forIN	O
+theDT	O
+movieNN	O
+titanicJJ	B-movie.name
+	
+budgetNN	O
+forIN	O
+ironNN	B-movie.name
+manNN	I-movie.name
+2CD	I-movie.name
+	
+pleaseVV	O
+tellVV	O
+mePP	O
+howWRB	O
+muchJJ	O
+wasVBD	O
+theDT	O
+budgetNN	O
+forIN	O
+avatarNN	B-movie.name
+	
+howWRB	O
+muchJJ	O
+moneyNN	O
+didVVD	O
+theyPP	O
+spendVVP	O
+toTO	O
+makeVV	O
+avatarNN	B-movie.name
+	
+avatarNN	B-movie.name
+'sPOS	O
+budgetNN	O
+	
+howWRB	O
+muchRB	O
+didVVD	O
+avatarNN	B-movie.name
+takeVV	O
+inIN	O
+	
+pleaseUH	O
+showVV	O
+mePP	O
+whatWP	O
+theDT	O
+budgetNN	O
+wasVBD	O
+forIN	O
+avatarNN	B-movie.name
+	
+whatWP	O
+wasVBD	O
+theDT	O
+budgetNN	O
+forIN	O
+theDT	O
+avatarNN	B-movie.name
+movieNN	O
+	
+canMD	O
+youPP	O
+tellVV	O
+mePP	O
+theDT	O
+budgetNN	O
+ofIN	O
+theDT	O
+movieNN	O
+avatarNN	B-movie.name
+	
+totalJJ	O
+budgetNN	O
+forIN	O
+theDT	O
+movieNN	O
+avatarNN	B-movie.name
+	
+whatWP	O
+wasVBD	O
+theDT	O
+budgetNN	O
+forIN	O
+batmanNN	B-movie.name
+beginsVVZ	I-movie.name
+	
+whatWP	O
+wasVBD	O
+theDT	O
+budgetNN	O
+forIN	O
+theDT	B-movie.name
+avengersNNS	I-movie.name
+	
+whatWP	O
+wasVBD	O
+theDT	O
+budgetNN	O
+forIN	O
+goneVVN	B-movie.name
+withIN	I-movie.name
+theDT	I-movie.name
+windNN	I-movie.name
+	
+whatWP	O
+wasVBD	O
+spentVVN	O
+onIN	O
+myPP$	B-movie.name
+bigJJ	I-movie.name
+fatJJ	I-movie.name
+greekNN	I-movie.name
+weddingNN	I-movie.name
+	
+whatWP	O
+wasVBD	O
+prettyRB	B-movie.name
+womanNN	I-movie.name
+'sPOS	O
+budgetNN	O
+	
+whatWP	O
+wasVBD	O
+theDT	O
+budgetNN	O
+forIN	O
+spaceballsNNS	B-movie.name
+	
+howWRB	O
+manyJJ	O
+moviesNNS	O
+hasVHZ	O
+kevinNN	B-actor.name
+baconNN	I-actor.name
+beenVBN	O
+theDT	O
+leadJJ	O
+actorNN	O
+inIN	O
+	
+howWRB	O
+manyJJ	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+moviesNNS	O
+areVBP	O
+thereRB	O
+	
+howWRB	O
+manyJJ	O
+moviesNNS	O
+areVBP	O
+ratedVVN	O
+gNN	B-rating.name
+	
+spainNN	B-country.name
+hasVHZ	O
+howWRB	O
+manyJJ	O
+moviesNNS	O
+	
+howWRB	O
+manyJJ	O
+moviesNNS	O
+hasVHZ	O
+kristenNN	B-actor.name
+stewartNN	I-actor.name
+starredVVN	O
+inIN	O
+	
+howWRB	O
+manyJJ	O
+moviesNNS	O
+hasVHZ	O
+robertJJ	B-director.name
+wiseNN	I-director.name
+directedVVD	O
+	
+howWRB	O
+manyJJ	O
+moviesNNS	O
+didVVD	O
+alfredNN	B-director.name
+hitchcockNN	I-director.name
+directJJ	O
+	
+howWRB	O
+manyJJ	O
+moviesNNS	O
+hasVHZ	O
+paramountJJ	B-producer.name
+doneVVN	O
+	
+iNP	O
+wouldMD	O
+likeVV	O
+toTO	O
+knowVV	O
+theDT	O
+nameNN	O
+ofIN	O
+theDT	O
+countryNN	O
+fromIN	O
+whereWRB	O
+theDT	O
+movieNN	O
+katiNN	B-movie.name
+patangNN	I-movie.name
+comesVVZ	O
+	
+whatWP	O
+countryNN	O
+isVBZ	O
+bullheadNN	B-movie.name
+	
+whatWP	O
+countryNN	O
+madeVVD	O
+blackJJ	B-movie.name
+swanNN	I-movie.name
+	
+whatWP	O
+countryNN	O
+wasVBD	O
+blackJJ	B-movie.name
+swanNN	I-movie.name
+fromIN	O
+	
+whatWP	O
+countryNN	O
+wasVBD	O
+theDT	O
+movieNN	O
+madeVVD	O
+	
+whatWP	O
+countryNN	O
+didVVD	O
+deepJJ	B-movie.name
+blueJJ	I-movie.name
+seaNN	I-movie.name
+comeVVN	O
+fromIN	O
+	
+originNN	O
+ofIN	O
+titanicJJ	B-movie.name
+	
+originNN	O
+ofIN	O
+kingNN	B-movie.name
+learNN	I-movie.name
+	
+whenWRB	O
+willMD	O
+topJJ	B-movie.name
+gunNN	I-movie.name
+beVB	O
+releasedVVN	O
+	
+releaseNN	O
+yearNN	O
+andCC	O
+dateNN	O
+forIN	O
+casinoNN	B-movie.name
+	
+whenWRB	O
+didVVD	O
+willMD	B-actor.name
+ferrellRB	I-actor.name
+beginVV	O
+actingVVG	O
+	
+showVV	O
+mePP	O
+whenWRB	O
+24CD	B-movie.name
+willMD	O
+beVB	O
+releasedVVN	O
+	
+canMD	O
+iNP	O
+haveVHP	O
+releaseNN	O
+dateNN	O
+ofIN	O
+movieNN	O
+	
+movieNN	O
+'sPOS	O
+releaseNN	O
+dateNN	O
+	
+showVV	O
+mePP	O
+whenWRB	O
+theDT	O
+movieNN	O
+wasVBD	O
+madeVVN	O
+	
+whenWRB	O
+theDT	O
+movieNN	O
+titanicJJ	B-movie.name
+wasVBD	O
+releasedVVN	O
+	
+whatWP	O
+yearNN	O
+didVVD	O
+theDT	O
+italianJJ	B-country.name
+movieNN	O
+romanNN	B-movie.name
+holidayNN	I-movie.name
+comeVVN	O
+outRP	O
+	
+canMD	O
+youPP	O
+pleaseVV	O
+searchNN	O
+forIN	O
+releaseNN	O
+dateNN	O
+forIN	O
+karateNN	B-movie.name
+kidNN	I-movie.name
+	
+karateNN	B-movie.name
+kidNN	I-movie.name
+releaseNN	O
+dateNN	O
+pleaseRB	O
+	
+whenWRB	O
+wasVBD	O
+dirtyJJ	B-movie.name
+dancingNN	I-movie.name
+releasedVVN	O
+	
+whenWRB	O
+wasVBD	O
+spaceballsNNS	B-movie.name
+releasedVVN	O
+	
+whenWRB	O
+wasVBD	O
+batmanNN	B-movie.name
+releasedVVN	O
+	
+whenWRB	O
+wasVBD	O
+prettyRB	B-movie.name
+womanNN	I-movie.name
+releasedVVN	O
+	
+whenWRB	O
+wasVBD	O
+menNNS	B-movie.name
+inIN	I-movie.name
+blackJJ	I-movie.name
+releasedVVN	O
+	
+whenWRB	O
+didVVD	O
+kristenNP	B-actor.name
+stewartNP	I-actor.name
+startNN	O
+actingNN	O
+	
+whenWRB	O
+isVBZ	O
+possessedVVN	B-movie.name
+goingVVG	O
+toTO	O
+beVB	O
+releasedVVN	O
+	
+whenWRB	O
+wasVBD	O
+residentJJ	B-movie.name
+evilNN	I-movie.name
+releasedVVN	O
+	
+releaseNN	O
+dateNN	O
+forIN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+whenWRB	O
+wasVBD	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+releasedVVN	O
+	
+releaseNN	O
+dateNN	O
+ofIN	O
+humNN	B-movie.name
+tumNN	I-movie.name
+	
+whenWRB	O
+wasVBD	O
+freedomNN	B-movie.name
+writersNNS	I-movie.name
+releasedVVD	O
+	
+whenWRB	O
+wasVBD	O
+avatarNN	B-movie.name
+releasedVVN	O
+	
+whenWRB	O
+didVVD	O
+avatarNN	B-movie.name
+releasedVVD	O
+	
+iNP	O
+wouldMD	O
+likeVV	O
+toTO	O
+knowVV	O
+theDT	O
+releaseNN	O
+dateNN	O
+ofIN	O
+theDT	O
+movieNN	O
+avatarNN	B-movie.name
+	
+canMD	O
+youPP	O
+tellVV	O
+mePP	O
+whenWRB	O
+wasVBD	O
+theDT	O
+movieNN	O
+avatarNN	B-movie.name
+releasedVVD	O
+	
+whenWRB	O
+wasVBD	O
+dateNN	B-movie.name
+nightNN	I-movie.name
+releasedVVD	O
+	
+whenWRB	O
+didVVD	O
+blackJJ	B-movie.name
+swanNN	I-movie.name
+comeVVN	O
+outRP	O
+	
+whenWRB	O
+didVVD	O
+avergersNNS	B-movie.name
+comeVV	O
+outRP	O
+	
+whatWP	O
+dateNN	O
+didVVD	O
+theDT	B-movie.name
+amazingJJ	I-movie.name
+spidermanNN	I-movie.name
+showNN	O
+forIN	O
+theDT	O
+1stJJ	O
+timeNN	O
+	
+whatWP	O
+isVBZ	O
+theDT	O
+releaseNN	O
+dateNN	O
+ofIN	O
+vulgariaNN	B-movie.name
+	
+whenWRB	O
+theDT	O
+movieNN	O
+theDT	B-movie.name
+godfatherNN	I-movie.name
+wasVBD	O
+releasedVVN	O
+	
+whenWRB	O
+doesVVZ	O
+looperNN	B-movie.name
+comeVV	O
+outRP	O
+	
+canMD	O
+youPP	O
+tellVV	O
+mePP	O
+theDT	O
+releaseNN	O
+dateNN	O
+ofIN	O
+theDT	O
+movieNN	O
+barfiNN	B-movie.name
+	
+whatWP	O
+dateNN	O
+didVVD	O
+theDT	O
+movieNN	O
+heroineNN	B-movie.name
+comeVVN	O
+outRP	O
+	
+whenWRB	O
+didVVD	O
+theDT	O
+houseNN	B-movie.name
+atIN	I-movie.name
+theDT	I-movie.name
+endNN	I-movie.name
+ofIN	I-movie.name
+theDT	I-movie.name
+streetNN	I-movie.name
+hitNN	O
+theatersNNS	O
+	
+whatWP	O
+dayNN	O
+isVBZ	O
+funNN	B-movie.name
+sizeNN	I-movie.name
+comingVVG	O
+outRP	O
+	
+whatWP	O
+dayNN	O
+willNN	O
+djangoNN	B-movie.name
+unchainedVVD	I-movie.name
+comeVV	O
+outRP	O
+	
+whenWRB	O
+willMD	O
+iNP	O
+beVB	O
+ableJJ	O
+toTO	O
+viewVV	O
+ironNN	B-movie.name
+manNN	I-movie.name
+3CD	I-movie.name
+	
+onIN	O
+whatWP	O
+dateNN	O
+willMD	O
+ironVV	B-movie.name
+manNN	I-movie.name
+3LS	I-movie.name
+beVB	O
+releasedVVN	O
+	
+whoWP	O
+directedVVD	O
+goneVVN	B-movie.name
+withIN	I-movie.name
+theDT	I-movie.name
+windNN	I-movie.name
+	
+whoWP	O
+wasVBD	O
+theDT	O
+directorNN	O
+forIN	O
+blackJJ	B-movie.name
+swanNN	I-movie.name
+	
+tellVV	O
+mePP	O
+theDT	O
+directedVVD	O
+ofIN	O
+blackJJ	B-movie.name
+swanNN	I-movie.name
+	
+whoWP	O
+isVBZ	O
+theDT	O
+directorNN	O
+ofIN	O
+sleeplessJJ	B-movie.name
+inIN	I-movie.name
+seattleNN	I-movie.name
+	
+findVV	O
+whoWP	O
+theDT	O
+directorNN	O
+wasVBD	O
+inIN	O
+menNNS	B-movie.name
+inIN	I-movie.name
+blackJJ	I-movie.name
+3CD	I-movie.name
+	
+locateVV	O
+theDT	O
+directorNN	O
+whoWP	O
+createdVVD	O
+theDT	O
+movieNN	O
+menNNS	B-movie.name
+inIN	I-movie.name
+blackJJ	I-movie.name
+3CD	I-movie.name
+	
+directorNN	O
+ofIN	O
+titanicJJ	B-movie.name
+	
+titanicJJ	B-movie.name
+directorNN	O
+	
+avengersNNS	B-movie.name
+movieNN	O
+directorNN	O
+	
+dirctorNN	O
+ofIN	O
+movieNN	O
+avengersNNS	B-movie.name
+	
+whoWP	O
+wasVBD	O
+theDT	O
+directorNN	O
+forIN	O
+nachoNN	B-movie.name
+libreNN	I-movie.name
+	
+directorNN	O
+forIN	O
+bigJJ	B-movie.name
+	
+whoWP	O
+wasVBD	O
+theDT	O
+directorNN	O
+ofIN	O
+welcomeNN	B-movie.name
+toTO	I-movie.name
+theDT	I-movie.name
+dollhouseNN	I-movie.name
+	
+whoWP	O
+directedVVD	O
+theDT	O
+movieNN	O
+houseNN	B-movie.name
+atIN	I-movie.name
+theDT	I-movie.name
+endNN	I-movie.name
+ofIN	I-movie.name
+theDT	I-movie.name
+atIN	I-movie.name
+theDT	I-movie.name
+streetNN	I-movie.name
+	
+whoWP	O
+wasVBD	O
+theDT	O
+directorNN	O
+ofIN	O
+theDT	O
+movieNN	O
+toyNN	B-movie.name
+storyNN	I-movie.name
+	
+listNN	O
+directorNN	O
+gildaNN	B-movie.name
+	
+whoWP	O
+directedVVD	O
+fieldNN	B-movie.name
+ofIN	I-movie.name
+dreamsNNS	I-movie.name
+	
+whoWP	O
+isVBZ	O
+theDT	O
+secondJJ	O
+directorNN	O
+onIN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+findVV	O
+directorNN	O
+ofIN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+whoWP	O
+directedVVD	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+directedVVN	O
+byIN	O
+whoWP	O
+	
+directorNN	O
+ofIN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+whoWP	O
+directedVVD	O
+hitchNN	B-movie.name
+	
+iNNS	O
+wantVVP	O
+toTO	O
+knowVV	O
+whoWP	O
+isVBZ	O
+theDT	O
+directorNN	O
+ofIN	O
+theDT	O
+movieNN	O
+batmanNN	B-movie.name
+	
+whoWP	O
+isVBZ	O
+directorNN	O
+ofIN	O
+theDT	B-movie.name
+wordsNNS	I-movie.name
+	
+whoWP	O
+directedVVD	O
+millionCD	B-movie.name
+dollarNN	I-movie.name
+babyNN	I-movie.name
+	
+whoWP	O
+wasVBD	O
+theDT	O
+guyNN	O
+thatWDT	O
+directedVVD	O
+moneyballNN	B-movie.name
+	
+whoWP	O
+didVVD	O
+twilightNN	B-movie.name
+	
+twilightNN	B-movie.name
+directorNN	O
+	
+whoWP	O
+directedVVD	O
+twilightNN	B-movie.name
+	
+whoWP	O
+directedVVD	O
+twilightNN	B-movie.name
+	
+whoWP	O
+isVBZ	O
+theDT	O
+directorNN	O
+ofIN	O
+humNN	B-movie.name
+tumNN	I-movie.name
+	
+lookVV	O
+forIN	O
+theDT	O
+directorNN	O
+ofIN	O
+stepNN	B-movie.name
+upRB	I-movie.name
+	
+pleaseUH	O
+findVV	O
+theDT	O
+directorNN	O
+ofIN	O
+freedomNN	B-movie.name
+writersNNS	I-movie.name
+	
+findVV	O
+theDT	O
+directorNN	O
+ofIN	O
+freedomNN	B-movie.name
+writersNNS	I-movie.name
+	
+lookVV	O
+upRP	O
+theDT	O
+directorNN	O
+ofIN	O
+freedomNN	B-movie.name
+writersNNS	I-movie.name
+	
+findVV	O
+theDT	O
+directorNN	O
+ofIN	O
+freedomNN	B-movie.name
+writersNNS	I-movie.name
+	
+whoWP	O
+directedVVD	O
+babyNN	B-movie.name
+mamaNN	I-movie.name
+	
+godfatherNN	B-movie.name
+directorNN	O
+	
+showVV	O
+mePP	O
+whoWP	O
+directedVVD	O
+theDT	B-movie.name
+soundNN	I-movie.name
+ofIN	I-movie.name
+musicNN	I-movie.name
+	
+whoWP	O
+directedVVD	O
+theDT	B-movie.name
+soundNN	I-movie.name
+ofIN	I-movie.name
+musicNN	I-movie.name
+	
+whoWP	O
+directedVVD	O
+theDT	B-movie.name
+soundNN	I-movie.name
+ofIN	I-movie.name
+musicNN	I-movie.name
+	
+findVV	O
+theDT	O
+nameNN	O
+ofIN	O
+theDT	O
+directorNN	O
+ofIN	O
+returnNN	B-movie.name
+	
+showNN	O
+movieNN	O
+avengersNNS	B-movie.name
+directorNN	O
+nameNN	O
+	
+nameVV	O
+theDT	O
+directorNN	O
+inIN	O
+sleeplessJJ	B-movie.name
+inIN	I-movie.name
+seattleNN	I-movie.name
+	
+whatWP	O
+'sVBZ	O
+theDT	O
+genreNN	O
+forIN	O
+blackJJ	B-movie.name
+swanNN	I-movie.name
+	
+whatWP	O
+isVBZ	O
+blackJJ	B-movie.name
+swanNN	B-movie.name
+'sPOS	O
+genreNN	O
+	
+whatWP	O
+genreNN	O
+isVBZ	O
+parenthoodNN	B-movie.name
+	
+whatWP	O
+kindNN	O
+ofIN	O
+movieNN	O
+isVBZ	O
+parenthoodNN	B-movie.name
+	
+genreNN	O
+forIN	O
+prideNN	B-movie.name
+andCC	I-movie.name
+prejudiceNN	I-movie.name
+	
+canMD	O
+youPP	O
+tellVV	O
+mePP	O
+theDT	O
+genreNN	O
+ofIN	O
+theDT	O
+movieNN	O
+lawlessJJ	B-movie.name
+	
+showVV	O
+mePP	O
+whatWP	O
+genreNN	O
+doesVVZ	O
+movieNN	O
+lawlessJJ	B-movie.name
+belongsVVZ	O
+toTO	O
+	
+genreNN	O
+forIN	O
+snowNN	B-movie.name
+whiteNN	I-movie.name
+andCC	I-movie.name
+theDT	I-movie.name
+huntsmanNN	I-movie.name
+	
+whatWP	O
+isVBZ	O
+theDT	O
+movieNN	O
+typeNN	O
+	
+whatWP	O
+'sVBZ	O
+theDT	O
+genreNN	O
+ofIN	O
+rushmoreNN	B-movie.name
+	
+getVV	O
+theDT	O
+genreNN	O
+ofIN	O
+welcomeNN	B-movie.name
+toTO	I-movie.name
+theDT	I-movie.name
+dollhouseNN	I-movie.name
+	
+iNNS	O
+wantVVP	O
+toTO	O
+findVV	O
+theDT	O
+genreNN	O
+freedomNN	B-movie.name
+writersNNS	I-movie.name
+isVBZ	O
+inIN	O
+	
+whatWP	O
+genreNN	O
+isVBZ	O
+freedomNN	B-movie.name
+writersNNS	I-movie.name
+inIN	O
+	
+genreNN	O
+forIN	O
+batmanNN	B-movie.name
+	
+giveVV	O
+mePP	O
+theDT	O
+genreNN	O
+ofIN	O
+theDT	O
+movieNN	O
+avatarNN	B-movie.name
+	
+iNP	O
+wouldMD	O
+likeVV	O
+toTO	O
+knowVV	O
+theDT	O
+genreNN	O
+ofIN	O
+theDT	O
+movieNN	O
+avatarNN	B-movie.name
+	
+genreNN	O
+forIN	O
+badJJ	B-movie.name
+teacherNN	I-movie.name
+	
+canMD	O
+youPP	O
+tellVV	O
+mePP	O
+prettyJJ	B-movie.name
+girlNN	I-movie.name
+theDT	O
+movieNN	O
+'sPOS	O
+genreNN	O
+	
+whatWP	O
+genreNN	O
+isVBZ	O
+theDT	O
+movieNN	O
+pitchNN	B-movie.name
+perfectJJ	I-movie.name
+	
+inIN	O
+whatWP	O
+languageNN	O
+isVBZ	O
+thisDT	O
+movieNN	O
+	
+whatWP	O
+languageNN	O
+isVBZ	O
+thisDT	O
+movieNN	O
+	
+whatWP	O
+languageNN	O
+isVBZ	O
+theDT	O
+movieNN	O
+heroNN	B-movie.name
+inIN	O
+	
+languageNN	O
+ofIN	O
+kingNN	B-movie.name
+learNN	I-movie.name
+	
+languageNN	O
+ofIN	O
+casaNN	B-movie.name
+blancaNN	I-movie.name
+	
+whatWP	O
+languageNN	O
+isVBZ	O
+headNN	B-movie.name
+onIN	I-movie.name
+inIN	O
+	
+languageNN	O
+ofIN	O
+spanglishNN	B-movie.name
+	
+findVV	O
+outRP	O
+whatWP	O
+languageNN	O
+theDT	B-movie.name
+fatherNN	I-movie.name
+ofIN	I-movie.name
+myPP$	I-movie.name
+childrenNNS	I-movie.name
+isVBZ	O
+inIN	O
+	
+iNNS	O
+amVBP	O
+interstedVVN	O
+inIN	O
+viewingVVG	O
+belleNN	B-movie.name
+whatWP	O
+foreignJJ	O
+languageNN	O
+isVBZ	O
+theDT	O
+movieNN	O
+availableJJ	O
+inIN	O
+	
+iNNS	O
+needVVP	O
+toTO	O
+findVV	O
+outRP	O
+aboutIN	O
+namesNNS	O
+ofIN	O
+someDT	O
+japaneseJJ	B-movie.language
+moviesNNS	O
+	
+canMD	O
+youPP	O
+tellVV	O
+mePP	O
+namesNNS	O
+ofIN	O
+someDT	O
+japaneseJJ	B-movie.language
+moviesNNS	O
+	
+ronNNS	B-producer.name
+howardRB	I-producer.name
+nameVVP	O
+someDT	O
+ofIN	O
+theDT	O
+moviesNNS	O
+hePP	O
+produceVVP	O
+	
+tellVV	O
+mePP	O
+theDT	O
+namesNNS	O
+ofIN	O
+theDT	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+williamNP	B-producer.name
+packerNN	I-producer.name
+	
+aboutIN	O
+lifeNN	B-movie.name
+isVBZ	I-movie.name
+beautifulJJ	I-movie.name
+	
+showVV	O
+mePP	O
+infoNN	O
+onIN	O
+lifeNN	B-movie.name
+isVBZ	I-movie.name
+beautifulJJ	I-movie.name
+	
+findVV	O
+oldJJ	O
+moviesNNS	O
+	
+findVV	O
+movieNN	O
+ratingsNNS	O
+	
+findVV	O
+newlyRB	O
+releasedVVN	O
+moviesNNS	O
+inIN	O
+spanishNN	B-movie.language
+	
+wasVBD	O
+billNN	B-actor.name
+paxtonNN	I-actor.name
+inIN	O
+theDT	O
+movieNN	O
+apolloNN	B-movie.name
+thirteenCD	I-movie.name
+	
+wasVBD	O
+kevinNN	B-actor.name
+baconNN	I-actor.name
+inIN	O
+theDT	O
+movieNN	O
+apolloNN	B-movie.name
+thirteenCD	I-movie.name
+	
+findVV	O
+moviesNNS	O
+aboutIN	O
+dancingNN	B-movie.subject
+	
+searchNN	O
+forIN	O
+moviesNNS	O
+aboutIN	O
+dancingNN	B-movie.subject
+	
+showNN	O
+willMD	B-actor.name
+ferrellVV	I-actor.name
+filmsNNS	O
+	
+willMD	B-actor.name
+ferrellNP	I-actor.name
+moviesNNS	O
+	
+whatWP	O
+moviesNNS	O
+hasVHZ	O
+willNN	B-actor.name
+ferrellNN	I-actor.name
+appearedVVD	O
+inIN	O
+	
+findVV	O
+russianJJ	B-movie.language
+moviesNNS	O
+	
+showVV	O
+mePP	O
+theDT	O
+movieNN	O
+prettyJJ	B-movie.name
+womenNNS	B-movie.name
+soIN	O
+iNP	O
+canMD	O
+seeVV	O
+whoWP	O
+starredVVD	O
+inIN	O
+theDT	O
+movieNN	O
+	
+feralJJ	B-movie.name
+	
+theDT	O
+movieNN	O
+isVBZ	O
+calledVVN	O
+bigJJ	B-movie.name
+	
+willMD	B-actor.name
+smithNN	I-actor.name
+actingVVG	O
+carrerNN	O
+	
+howWRB	O
+manyJJ	O
+moviesNNS	O
+didVVD	O
+peterNN	B-director.name
+jacksonNNS	I-director.name
+doVVP	O
+	
+moviesNNS	O
+andCC	O
+grossJJ	O
+paymentNN	O
+	
+searchNN	O
+forIN	O
+timNN	B-director.name
+burtonNN	I-director.name
+moviesNNS	O
+inIN	O
+frenchNNS	B-movie.language
+	
+exhibitVV	O
+allDT	O
+detailsNNS	O
+ofIN	O
+originalJJ	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+movieNN	O
+	
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+movieNN	O
+	
+findVV	O
+theDT	O
+movieNN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+iNNS	O
+amVBP	O
+lookingVVG	O
+forIN	O
+informationNN	O
+onIN	O
+theDT	O
+movieNN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+showVV	O
+mePP	O
+detailsNNS	O
+forIN	O
+theDT	O
+movieNN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+whatWP	O
+didVVD	O
+andrewNN	B-director.name
+stantonNN	I-director.name
+directJJ	O
+	
+showVV	O
+mePP	O
+someDT	O
+otherJJ	O
+moviesNNS	O
+directedVVN	O
+byIN	O
+andrewJJ	B-director.name
+stantonNN	I-director.name
+	
+displayNN	O
+albertNN	B-actor.name
+brooksVVZ	I-actor.name
+movieNN	O
+	
+showVV	O
+aDT	O
+movieNN	O
+withIN	O
+albertNN	B-actor.name
+brooksNNS	I-actor.name
+inIN	O
+theDT	O
+castNN	O
+	
+whatWP	O
+otherJJ	O
+filmsNNS	O
+hasVHZ	O
+sergioNN	B-director.name
+leoneNN	I-director.name
+directedVVD	O
+	
+whatWP	O
+moviesNNS	O
+hasVHZ	O
+georgeNN	B-producer.name
+harrisonNN	I-producer.name
+producedVVD	O
+	
+whatWP	O
+hasVHZ	O
+charlieNN	B-actor.name
+sheenNN	I-actor.name
+starredVVN	O
+inIN	O
+	
+pleaseUH	O
+findVV	O
+theDT	O
+moviesNNS	O
+inIN	O
+whichWDT	O
+cliveJJ	B-actor.name
+owenNN	I-actor.name
+hasVHZ	O
+appearedVVN	O
+	
+inIN	O
+whichWDT	O
+moviesNNS	O
+hasVHZ	O
+cliveJJ	B-actor.name
+owenNNS	I-actor.name
+appearVVP	O
+	
+spikeNN	B-director.name
+leeNN	I-director.name
+directedVVD	O
+whatWP	O
+movieNN	O
+	
+searchNN	O
+forIN	O
+moviesNNS	O
+directedVVN	O
+byIN	O
+spikeNN	B-director.name
+leeNN	I-director.name
+	
+movieNN	O
+releaseNN	O
+datesNNS	O
+	
+directorNN	O
+informationNN	O
+forIN	O
+moviesNNS	O
+	
+moviesNNS	O
+byIN	O
+directorNN	O
+	
+pleaseUH	O
+listVV	O
+allDT	O
+moviesNNS	O
+notRB	O
+ratedVVN	O
+pgNN	B-rating.name
+	
+findVV	O
+moviesNNS	O
+	
+iNNS	O
+wantVVP	O
+aDT	O
+listNN	O
+ofIN	O
+englishJJ	B-movie.language
+speakingNN	O
+moviesNNS	O
+	
+aDT	O
+listNN	O
+ofIN	O
+moviesNNS	O
+madeVVN	O
+inIN	O
+americaNN	B-country.name
+	
+areVBP	O
+thereRB	O
+anyDT	O
+moviesNNS	O
+producedVVN	O
+inIN	O
+theDT	B-country.name
+unitedVVN	B-country.name
+statesNNS	I-country.name
+	
+showVV	O
+englishJJ	B-movie.language
+moviesNNS	O
+	
+searchNN	O
+englishNN	B-movie.language
+moviesNNS	O
+	
+comedyNN	B-movie.genre
+	
+findVV	O
+aDT	O
+comedyNN	B-movie.genre
+	
+watchVV	O
+comedyNN	B-movie.genre
+moviesNNS	O
+	
+getVV	O
+horrorNN	B-movie.genre
+filmsNNS	O
+	
+showVV	O
+mePP	O
+horrorNN	B-movie.genre
+moviesNNS	O
+	
+iNNS	O
+wantVVP	O
+toTO	O
+seeVV	O
+aDT	O
+listingNN	O
+ofIN	O
+horrorNN	B-movie.genre
+moviesNNS	O
+	
+showNN	O
+actorNN	O
+bruceNN	B-actor.name
+willisNN	I-actor.name
+moviesNNS	O
+	
+whichWDT	O
+moviesNNS	O
+didVVD	O
+bruceNN	B-actor.name
+willisNNS	I-actor.name
+starJJ	O
+inIN	O
+	
+listNN	O
+moviesNNS	O
+withIN	O
+bruceNN	B-actor.name
+willisNNS	I-actor.name
+	
+showVV	O
+mePP	O
+moviesNNS	O
+madeVVN	O
+inIN	O
+canadaNP	B-country.name
+	
+canMD	O
+iNNS	O
+watchVV	O
+aDT	O
+canadianJJ	B-country.name
+filmNN	O
+	
+seeVV	O
+canadianJJ	B-country.name
+moviesNNS	O
+	
+searchNN	O
+forIN	O
+informationNN	O
+aboutIN	O
+canadianJJ	B-country.name
+moviesNNS	O
+	
+IPP	O
+'dMD	O
+likeVV	O
+toTO	O
+seeVV	O
+someDT	O
+italianJJ	B-country.name
+filmsNNS	O
+	
+showVV	O
+mePP	O
+somethingNN	O
+italianNN	B-country.name
+-:	O
+madeVVN	O
+	
+iNNS	O
+wantVVP	O
+toTO	O
+seeVV	O
+aDT	O
+movieNN	O
+fromIN	O
+spainNN	B-country.name
+	
+findVV	O
+moviesNNS	O
+fromIN	O
+spainNN	B-country.name
+	
+spainNN	B-country.name
+countryNN	O
+moviesNNS	O
+	
+displayVV	O
+aDT	O
+listNN	O
+ofIN	O
+spanishJJ	B-country.name
+filmsNNS	O
+	
+spanishJJ	B-country.name
+movieNN	O
+listingNN	O
+	
+spanishJJ	B-country.name
+moviesNNS	O
+	
+findVV	O
+actorsNNS	O
+inIN	O
+moviesNNS	O
+	
+searchNN	O
+byIN	O
+actorsNNS	O
+	
+findVV	O
+someDT	O
+romanticJJ	B-movie.genre
+moviesNNS	O
+	
+iNNS	O
+wantVVP	O
+toTO	O
+seeVV	O
+aDT	O
+movieNN	O
+inIN	O
+frenchNNS	B-movie.language
+	
+gwynethNP	B-actor.name
+paltrowNP	I-actor.name
+moviesNNS	O
+	
+findVV	O
+moviesNNS	O
+withIN	O
+quentinNN	B-director.name
+tarantinoNN	I-director.name
+asIN	O
+directorNN	O
+	
+englandNN	B-country.name
+moviesNNS	O
+	
+englandNN	B-country.name
+moviesNNS	O
+pleaseVVP	O
+	
+findVV	O
+davidJJ	B-actor.name
+tennantNN	I-actor.name
+moviesNNS	O
+	
+showVV	O
+mePP	O
+whatWP	O
+richardNN	B-director.name
+lesterNN	I-director.name
+directedVVD	O
+	
+getVV	O
+filmsNNS	O
+inIN	O
+hindiNNS	B-movie.language
+	
+showVV	O
+mePP	O
+moviesNNS	O
+fromIN	O
+indiaNN	B-country.name
+	
+whatWP	O
+isVBZ	O
+aDT	O
+britishJJ	B-country.name
+horrorNN	B-movie.genre
+movieNN	O
+	
+iNNS	O
+wantVVP	O
+toTO	O
+watchVV	O
+anDT	O
+rNN	B-rating.name
+ratedVVN	O
+comedyNN	B-movie.genre
+	
+listNN	O
+ofIN	O
+frenchJJ	B-movie.language
+languageNN	I-movie.language
+comediesNNS	B-movie.genre
+	
+lookNN	O
+forIN	O
+dirtyJJ	B-movie.name
+dancingNN	I-movie.name
+movieNN	O
+withIN	O
+jenniferNN	B-actor.name
+greyNN	I-actor.name
+	
+tellVV	O
+mePP	O
+inIN	O
+detailNN	O
+aboutIN	O
+theDT	O
+movieNN	O
+dirtyJJ	B-movie.name
+dancingNN	I-movie.name
+	
+tellVV	O
+aboutIN	O
+movieNN	O
+dirtyJJ	B-movie.name
+dancingNN	I-movie.name
+	
+canMD	O
+iNNS	O
+seeVV	O
+aDT	O
+listNN	O
+ofIN	O
+betteNN	B-actor.name
+midlerNN	I-actor.name
+moviesNNS	O
+	
+listNN	O
+ofIN	O
+moviesNNS	O
+starringVVG	O
+betteNN	B-actor.name
+midlerNN	I-actor.name
+	
+showVV	O
+mePP	O
+allRB	O
+ofIN	O
+anneNN	B-actor.name
+hathawayNN	I-actor.name
+'sPOS	O
+moviesNNS	O
+	
+whatWP	O
+moviesNNS	O
+hasVHZ	O
+sandraNN	B-producer.name
+bullockNN	I-producer.name
+producedVVD	O
+	
+findVV	O
+mePP	O
+moviesNNS	O
+fromIN	O
+portugalNN	B-country.name
+	
+whatWP	O
+moviesNNS	O
+hasVHZ	O
+robertVVN	B-actor.name
+redfordNNS	I-actor.name
+beenVBN	O
+inIN	O
+	
+dirtyJJ	B-movie.name
+dancingNN	I-movie.name
+infoNN	O
+	
+dirtyJJ	B-movie.name
+dancingNN	I-movie.name
+	
+giveVV	O
+aDT	O
+shortJJ	O
+bioNN	O
+forIN	O
+dirtyJJ	B-movie.name
+dancingNN	I-movie.name
+	
+aboutIN	O
+dirtyJJ	B-movie.name
+dancingNN	I-movie.name
+	
+moviesNNS	O
+fromIN	O
+japanNN	B-country.name
+	
+showNN	O
+moviesNNS	O
+fromIN	O
+japanNN	B-country.name
+	
+listNN	O
+japaneseNN	B-movie.language
+moviesNNS	O
+	
+showVV	O
+mePP	O
+japaneseJJ	B-movie.language
+moviesNNS	O
+	
+giveVV	O
+mePP	O
+aDT	O
+listNN	O
+ofIN	O
+someDT	O
+japaneseJJ	B-movie.language
+moviesNNS	O
+	
+giveVV	O
+mePP	O
+aDT	O
+listNN	O
+ofIN	O
+japaneseJJ	B-movie.language
+moviesNNS	O
+	
+japaneseJJ	B-movie.language
+moviesNNS	O
+	
+showVV	O
+mePP	O
+japaneseJJ	B-movie.language
+languageNN	I-movie.language
+moviesNNS	O
+	
+whichWDT	O
+filmsNNS	O
+areVBP	O
+spokenVVN	O
+inIN	O
+japaneseNN	B-movie.language
+	
+miramaxNN	B-producer.name
+filmsNNS	I-producer.name
+onlyRB	O
+	
+showNN	O
+moviesNNS	O
+byIN	O
+miramaxNN	B-producer.name
+	
+searchNN	O
+sandraNN	B-actor.name
+bullockNN	I-actor.name
+moviesNNS	O
+	
+watchNN	O
+sandraNN	B-actor.name
+bullockNN	I-actor.name
+moviesNNS	O
+	
+findVV	O
+moviesNNS	O
+aboutIN	O
+vampiresNNS	B-movie.subject
+	
+findVV	O
+moviesNNS	O
+havingVHG	O
+vampiresNNS	B-movie.subject
+	
+willMD	B-actor.name
+smithNN	I-actor.name
+moviesNNS	O
+	
+carsNNS	B-movie.name
+movieNN	O
+	
+whatWP	O
+moviesNNS	O
+didVVD	O
+darlaNN	B-producer.name
+andersonNN	I-producer.name
+produceNN	O
+	
+whatWP	O
+filmsNNS	O
+areVBP	O
+madeVVN	O
+byIN	O
+paramountNN	B-producer.name
+	
+showVV	O
+mePP	O
+moviesNNS	O
+byIN	O
+paramountNN	B-producer.name
+	
+whatWP	O
+moviesNNS	O
+hasVHZ	O
+paramountJJ	B-producer.name
+releasedVVN	O
+	
+showVV	O
+allDT	O
+moviesNNS	O
+fromIN	O
+turkeyNN	B-country.name
+	
+showVV	O
+mePP	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+bruceNN	B-producer.name
+leeNN	I-producer.name
+	
+isVBZ	O
+parenthoodNN	B-movie.name
+aDT	O
+dramaNN	B-movie.genre
+	
+iNNS	O
+wantVVP	O
+toTO	O
+seeVV	O
+anDT	O
+kevinNN	B-actor.name
+jamesVVZ	I-actor.name
+filmNN	O
+tonightNN	O
+	
+findVV	O
+filmsNNS	O
+fromIN	O
+chinaNN	B-country.name
+	
+getVV	O
+filmsNNS	O
+fromIN	O
+chinaNN	B-country.name
+	
+iNP	O
+'dMD	O
+likeVV	O
+toTO	O
+watchVV	O
+aDT	O
+movieNN	O
+madeVVN	O
+inIN	O
+chinaNN	B-country.name
+	
+listVV	O
+someDT	O
+moviesNNS	O
+fromIN	O
+chinaNN	B-country.name
+	
+chineseJJ	B-movie.language
+filmsNNS	O
+	
+showVV	O
+mePP	O
+otherJJ	O
+chineseJJ	B-movie.language
+moviesNNS	O
+	
+showVV	O
+mePP	O
+chineseJJ	B-movie.language
+moviesNNS	O
+	
+whatWP	O
+moviesNNS	O
+haveVHP	O
+aDT	O
+pg-13JJ	B-rating.name
+ratingNN	O
+	
+pleaseVV	O
+listNN	O
+moviesNNS	O
+thatWDT	O
+areVBP	O
+ratedVVN	O
+pg-13NN	B-rating.name
+	
+iNNS	O
+needVVP	O
+aDT	O
+gNN	B-rating.name
+ratingNN	O
+soIN	O
+iNP	O
+canMD	O
+takeVV	O
+theDT	O
+kidsNNS	O
+	
+findVV	O
+aDT	O
+gNN	B-rating.name
+ratedVVN	O
+movieNN	O
+	
+findVV	O
+gNN	B-rating.name
+moviesNNS	O
+	
+findVV	O
+gNN	B-rating.name
+moviesNNS	O
+	
+iNNS	O
+wantVVP	O
+ratedVVN	O
+gNN	B-rating.name
+moviesNNS	O
+	
+lookVV	O
+upRP	O
+gNN	B-rating.name
+ratedVVN	O
+moviesNNS	O
+	
+iNNS	O
+amVBP	O
+searchingVVG	O
+forIN	O
+anyDT	O
+gNN	B-rating.name
+ratedVVN	O
+moviesNNS	O
+forIN	O
+myPP$	O
+childrenNNS	O
+toTO	O
+viewVV	O
+	
+ratedVVN	O
+gNN	B-rating.name
+moviesNNS	O
+forIN	O
+familyNN	O
+watchingNN	O
+	
+findVV	O
+gNN	B-rating.name
+ratedVVN	O
+moviesNNS	O
+	
+areVBP	O
+thereRB	O
+anyDT	O
+moviesNNS	O
+ratedVVD	O
+gNN	B-rating.name
+playingNN	O
+	
+iNNS	O
+wantVVP	O
+toTO	O
+seeVV	O
+moviesNNS	O
+ratedVVN	O
+gNN	B-rating.name
+	
+findVV	O
+moviesNNS	O
+ratedVVN	O
+gNN	B-rating.name
+	
+showVV	O
+mePP	O
+moviesNNS	O
+withIN	O
+gNN	B-rating.name
+ratingNN	O
+	
+didVVD	O
+robertJJ	B-director.name
+wiseNN	I-director.name
+directVV	O
+anyDT	O
+otherJJ	O
+musicalsNNS	O
+	
+bruceNN	B-producer.name
+leeNN	I-producer.name
+producedVVD	O
+movieNN	O
+listingNN	O
+	
+whatWP	O
+wasVBD	O
+theDT	O
+lastJJ	O
+movieNN	O
+madeVVN	O
+byIN	O
+robertNN	B-director.name
+wiseNN	I-director.name
+	
+findVV	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+mgmNN	B-producer.name
+	
+showVV	O
+mePP	O
+britishRB	B-country.name
+madeVVD	O
+moviesNNS	O
+	
+moviesNNS	O
+fromIN	O
+theDT	B-country.name
+ukNN	I-country.name
+	
+findVV	O
+mePP	O
+moviesNNS	O
+fromIN	O
+theDT	B-country.name
+ukNN	I-country.name
+	
+canMD	O
+youPP	O
+listVV	O
+ronJJ	B-producer.name
+howardJJ	I-producer.name
+movieNN	O
+productionNN	O
+	
+iNNS	O
+needVVP	O
+toTO	O
+knowVV	O
+theDT	O
+moviesNNS	O
+produceVVP	O
+byIN	O
+ronNN	B-producer.name
+howardNN	I-producer.name
+	
+didVVD	O
+clintNN	B-director.name
+eastwoodNN	I-director.name
+directVV	O
+anyDT	O
+otherJJ	O
+moviesNNS	O
+besidesIN	O
+millionCD	B-movie.name
+dollarNN	I-movie.name
+babyNN	I-movie.name
+	
+findVV	O
+moviesNNS	O
+directedVVN	O
+byIN	O
+clintNN	B-director.name
+eastwoodNN	I-director.name
+	
+whatWP	O
+moviesNNS	O
+haveVHP	O
+beenVBN	O
+directedVVN	O
+byIN	O
+clintNN	B-director.name
+eastwoodNN	I-director.name
+	
+listVV	O
+allDT	O
+moviesNNS	O
+thatWDT	O
+wereVBD	O
+directedVVN	O
+byIN	O
+clintNN	B-director.name
+eastwoodNN	I-director.name
+	
+whatWP	O
+moviesNNS	O
+hasVHZ	O
+clintJJ	B-director.name
+eastwoodNN	I-director.name
+directedVVD	O
+	
+showNN	O
+moviesNNS	O
+directedVVN	O
+byIN	O
+clintNN	B-director.name
+eastwoodNN	I-director.name
+	
+findVV	O
+allDT	O
+filmsNNS	O
+byIN	O
+stanleyNN	B-director.name
+kubrickNN	I-director.name
+	
+iNNS	O
+wantVVP	O
+toTO	O
+selectVV	O
+theDT	O
+optionNN	O
+toTO	O
+searchVV	O
+forIN	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+stephenNN	B-producer.name
+spielbergNN	I-producer.name
+	
+iNP	O
+wouldMD	O
+likeVV	O
+toTO	O
+searchVV	O
+forIN	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+stephenNN	B-producer.name
+speilbergNN	I-producer.name
+	
+showVV	O
+mePP	O
+japaneseJJ	B-movie.language
+horrorNN	B-movie.genre
+moviesNNS	O
+	
+iNP	O
+wouldMD	O
+likeVV	O
+toTO	O
+seeVV	O
+moviesNNS	O
+ronNNS	B-director.name
+howardRB	I-director.name
+directedVVN	O
+	
+moviesNNS	O
+byIN	O
+stephenNN	B-producer.name
+spielbergNN	I-director.name
+	
+moviesNNS	O
+byIN	O
+stephenNN	B-producer.name
+spielbergNN	I-director.name
+	
+whatWP	O
+moviesNNS	O
+didVVD	O
+stephenNN	B-producer.name
+spielbergNNS	I-director.name
+directJJ	O
+	
+listNN	O
+stevenJJ	B-director.name
+spielbergNN	I-director.name
+moviesNNS	O
+	
+stevenJJ	B-director.name
+spielbergNN	I-director.name
+movieNN	O
+	
+stevenJJ	B-director.name
+spielbergNN	I-director.name
+moviesNNS	O
+pleaseVVP	O
+	
+directedVVN	O
+byIN	O
+stevenJJ	B-director.name
+spielbergNN	I-director.name
+	
+findVV	O
+theDT	O
+stevenJJ	B-director.name
+spielbergNN	I-director.name
+moviesNNS	O
+	
+findVV	O
+moviesNNS	O
+fromIN	O
+stevenJJ	B-director.name
+spielbergNN	I-director.name
+	
+iNP	O
+wouldMD	O
+likeVV	O
+toTO	O
+watchVV	O
+aDT	O
+movieNN	O
+directedVVN	O
+byIN	O
+eddieNN	B-director.name
+murphyNN	I-director.name
+	
+theDT	B-movie.name
+campNN	I-movie.name
+	
+watchNN	O
+sandraNN	B-actor.name
+bullockNN	I-actor.name
+theDT	B-movie.name
+blindJJ	I-movie.name
+sideNN	I-movie.name
+	
+iNNS	O
+wantVVP	O
+toTO	O
+seeVV	O
+moviesNNS	O
+withIN	O
+hughNN	B-actor.name
+jackmanNN	I-actor.name
+	
+listNN	O
+moviesNNS	O
+withIN	O
+kevinNP	B-actor.name
+spaceyNP	I-actor.name
+	
+lookNN	O
+forIN	O
+moviesNNS	O
+fromIN	O
+franceNN	B-country.name
+	
+canMD	O
+youPP	O
+showVV	O
+mePP	O
+moviesNNS	O
+thatWDT	O
+wereVBD	O
+madeVVN	O
+inIN	O
+franceNN	B-country.name
+	
+findVV	O
+mePP	O
+anyDT	O
+moviesNNS	O
+thatWDT	O
+wereVBD	O
+madeVVN	O
+inIN	O
+franceNN	B-country.name
+	
+frenchNN	B-movie.language
+moviesNNS	O
+pleaseVVP	O
+	
+frenchNN	B-movie.language
+moviesNNS	O
+	
+findVV	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+	
+moviesNNS	O
+byIN	O
+producersNNS	O
+	
+displayNN	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+	
+findVV	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+mosfilmNN	B-producer.name
+	
+whatWP	O
+wasVBD	O
+kristenNP	B-actor.name
+stewartNP	I-actor.name
+'sPOS	O
+firstJJ	O
+movieNN	O
+	
+getVV	O
+mePP	O
+moviesNNS	O
+directedVVN	O
+byIN	O
+mirandaNN	B-director.name
+julyRB	I-director.name
+	
+tomNN	B-actor.name
+hanksNNS	I-actor.name
+moviesNNS	O
+	
+showVV	O
+mePP	O
+moviesNNS	O
+withIN	O
+tomNN	B-actor.name
+hanksNNS	I-actor.name
+	
+iNNS	O
+amVBP	O
+tryingVVG	O
+toTO	O
+findVV	O
+aDT	O
+listNN	O
+ofIN	O
+moviesNNS	O
+withIN	O
+tomNN	B-actor.name
+hanksNNS	I-actor.name
+	
+provideVV	O
+moviesNNS	O
+directedVVN	O
+byIN	O
+oliverJJR	B-director.name
+stoneNN	I-director.name
+pleaseVV	O
+	
+iNNS	O
+wantVVP	O
+toTO	O
+lookVV	O
+forIN	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+albertNN	B-producer.name
+ruddyJJ	I-producer.name
+	
+whatWP	O
+areVBP	O
+allRB	O
+ofIN	O
+theDT	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+albertNN	B-producer.name
+ruddyJJ	I-producer.name
+	
+moviesNNS	O
+producedVVN	O
+byIN	O
+yashNN	B-producer.name
+chopraNN	I-producer.name
+	
+whatWP	O
+didVVD	O
+bradNN	B-producer.name
+pittNN	I-producer.name
+porduceNN	O
+	
+bringVV	O
+upRP	O
+allDT	O
+bradNN	B-producer.name
+pittNN	I-producer.name
+producedVVD	O
+moviesNNS	O
+	
+showVV	O
+allDT	O
+moviesNNS	O
+thatIN/that	O
+pennyNN	B-director.name
+marshallNN	I-director.name
+directedVVD	O
+	
+iNNS	O
+needVVP	O
+aDT	O
+listNN	O
+ofIN	O
+allPDT	O
+theDT	O
+moviesNNS	O
+directedVVN	O
+byIN	O
+jamesNNS	B-director.name
+cameronNN	I-director.name
+	
+giveVV	O
+mePP	O
+aDT	O
+listNN	O
+ofIN	O
+allPDT	O
+theDT	O
+moviesNNS	O
+directedVVN	O
+byIN	O
+jamesNNS	B-director.name
+cameronNN	I-director.name
+	
+jamesNNS	B-producer.name
+cameronNN	I-producer.name
+moviesNNS	O
+producedVVD	O
+	
+moviesNNS	O
+producedVVN	O
+byIN	O
+jamesNNS	B-producer.name
+cameronNN	I-producer.name
+	
+whatWP	O
+filmsNNS	O
+haveVHP	O
+beenVBN	O
+producedVVN	O
+byIN	O
+warnerNN	B-producer.name
+bros.NN	I-producer.name
+	
+findVV	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+warnerNN	B-producer.name
+bros.NN	I-producer.name
+	
+whatWP	O
+moviesNNS	O
+haveVHP	O
+beenVBN	O
+producedVVN	O
+byIN	O
+warnerNN	B-producer.name
+bros.NN	I-producer.name
+	
+showVV	O
+mePP	O
+moviesNNS	O
+byIN	B-producer.name
+wbNN	O
+	
+giveVV	O
+mePP	O
+informationNN	O
+aboutIN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+iNNS	O
+wantVVP	O
+informationNN	O
+aboutIN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+showVV	O
+mePP	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+bingNNS	O
+	
+searchNN	O
+findingNN	B-movie.name
+nemoNN	I-movie.name
+	
+showNN	O
+informationNN	O
+pageNN	O
+forIN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+theDT	B-movie.name
+campaignNN	I-movie.name
+informationNN	O
+	
+moreJJR	O
+informationNN	O
+onIN	O
+apalloNP	B-movie.name
+thirteenCD	I-movie.name
+	
+researchNN	O
+apolloNN	B-movie.name
+thirteenCD	I-movie.name
+	
+hasVHZ	O
+kristenNN	B-actor.name
+stewartNN	I-actor.name
+starredVVN	O
+inIN	O
+moviesNNS	O
+otherJJ	O
+thanIN	O
+twilightNN	B-movie.name
+	
+showVV	O
+mePP	O
+kristenNN	B-actor.name
+stewartNN	I-actor.name
+moviesNNS	O
+	
+whatWP	O
+moviesNNS	O
+hasVHZ	O
+kristenNN	B-actor.name
+stewartedNN	I-actor.name
+starredVVN	O
+inIN	O
+	
+lionsgateNN	B-producer.name
+moviesNNS	O
+	
+showNN	O
+lionsgateNN	B-producer.name
+moviesNNS	O
+	
+showNN	O
+moviesNNS	O
+madeVVN	O
+byIN	O
+productionNN	O
+lionsgateNNS	B-producer.name
+	
+giveVV	O
+mePP	O
+somethingNN	O
+byIN	O
+charlesNNS	B-director.name
+vidorNN	I-director.name
+	
+showNN	O
+charlesNNS	B-director.name
+vidorNN	I-director.name
+movieNN	O
+	
+whatWP	O
+filmNN	O
+didVVD	O
+charlesNNS	B-director.name
+vidorNN	I-director.name
+directJJ	O
+	
+whichWDT	O
+moviesNNS	O
+haveVHP	O
+beenVBN	O
+madeVVN	O
+outsideIN	O
+theDT	B-country.name
+unitedVVN	I-country.name
+statesNNS	I-country.name
+	
+findVV	O
+mePP	O
+nigeriaNN	B-country.name
+moviesNNS	O
+	
+displayNN	O
+7CD	B-producer.name
+artsNNS	I-producer.name
+moviesNNS	O
+	
+koreanJJ	B-movie.language
+movieNN	O
+	
+whatWP	O
+otherJJ	O
+moviesNNS	O
+didVVD	O
+robertoNN	B-actor.name
+benigniNNS	I-actor.name
+starJJ	O
+inIN	O
+	
+iNNS	O
+wantVVP	O
+toTO	O
+seeVV	O
+moviesNNS	O
+starringVVG	O
+denzelNN	B-actor.name
+washingtonNNS	I-actor.name
+pleaseVVP	O
+	
+listVV	O
+theDT	O
+kareenaNN	B-actor.name
+'sPOS	O
+movieNN	O
+	
+iNNS	O
+wantVVP	O
+toTO	O
+watchVV	O
+aDT	O
+dramaNN	B-movie.genre
+madeVVN	O
+inIN	O
+turkeyNN	B-country.name
+	
+jenniferNP	B-actor.name
+lopezNP	I-actor.name
+playedVVD	O
+inIN	O
+whatWP	O
+moviesNNS	O
+	
+showVV	O
+mePP	O
+allRB	O
+ofIN	O
+theDT	O
+moviesNNS	O
+directedVVN	O
+byIN	O
+woodyJJ	B-director.name
+allenNN	I-director.name
+	
+showNN	O
+robertNN	B-director.name
+wiseJJ	I-director.name
+moviesNNS	O
+	
+wantVVP	O
+toTO	O
+seeVV	O
+robertJJ	B-director.name
+wiseJJ	I-director.name
+moviesNNS	O
+	
+whatWP	O
+moviesNNS	O
+hasVHZ	O
+robertJJ	B-director.name
+wiseNN	I-director.name
+directedVVD	O
+	
+whatWP	O
+moviesNNS	O
+haveVHP	O
+robertJJ	B-director.name
+wiseNN	I-director.name
+directedVVD	O
+	
+whereWRB	O
+canMD	O
+iNNS	O
+findVV	O
+aDT	O
+listNN	O
+ofIN	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+chrisNN	B-producer.name
+nolanNN	I-producer.name
+	
+whatWP	O
+moviesNNS	O
+hasVHZ	O
+bradNN	B-actor.name
+pittNN	I-actor.name
+beenVBN	O
+inIN	O
+	
+whatWP	O
+areVBP	O
+theDT	O
+moviesNNS	O
+bradNN	B-actor.name
+pittNN	I-actor.name
+hadVHD	O
+beenVBN	O
+inIN	O
+	
+whatWP	O
+areVBP	O
+someDT	O
+moviesNNS	O
+withIN	O
+bradNN	B-actor.name
+pittNN	I-actor.name
+	
+findVV	O
+anDT	O
+rNN	B-rating.name
+ratedVVN	O
+movieNN	O
+	
+showVV	O
+mePP	O
+rNN	B-rating.name
+ratedVVN	O
+moviesNNS	O
+	
+giveVV	O
+mePP	O
+aDT	O
+listNN	O
+ofIN	O
+rNN	B-rating.name
+ratedVVN	O
+moviesNNS	O
+	
+lookVV	O
+upRB	O
+rSYM	B-rating.name
+ratedVVN	O
+moviesNNS	O
+	
+iNNS	O
+wantVVP	O
+onlyRB	O
+rSYM	B-rating.name
+ratedVVN	O
+moviesNNS	O
+	
+iNNS	O
+wantVVP	O
+toTO	O
+seeVV	O
+aDT	O
+listNN	O
+ofIN	O
+ratedVVN	O
+rNN	B-rating.name
+moviesNNS	O
+	
+showVV	O
+mePP	O
+onlyJJ	O
+moviesNNS	O
+withIN	O
+aDT	O
+ratingNN	O
+ofIN	O
+rNN	B-rating.name
+	
+pleaseUH	O
+lookVV	O
+forIN	O
+moviesNNS	O
+withIN	O
+anDT	O
+rNN	B-rating.name
+ratingNN	O
+	
+showVV	O
+mePP	O
+moviesNNS	O
+ratedVVN	O
+rNN	B-rating.name
+	
+lookNN	O
+forIN	O
+moviesNNS	O
+withIN	O
+anDT	O
+rNN	B-rating.name
+ratingNN	O
+	
+giveVV	O
+mePP	O
+aDT	O
+listNN	O
+ofIN	O
+allDT	O
+moviesNNS	O
+thatWDT	O
+areVBP	O
+ratedVVN	O
+rNN	B-rating.name
+	
+iNNS	O
+wantVVP	O
+toTO	O
+watchVV	O
+moviesNNS	O
+fromIN	O
+norwayNN	B-country.name
+	
+canMD	O
+iNP	O
+haveVHP	O
+aDT	O
+listNN	O
+ofIN	O
+spanishJJ	B-movie.language
+speakingNN	O
+moviesNNS	O
+	
+showVV	O
+mePP	O
+moviesNNS	O
+madeVVN	O
+inIN	O
+mexicoNN	B-country.name
+	
+showVV	O
+mePP	O
+theDT	O
+movieNN	O
+potNN	B-movie.name
+zombiesNNS	I-movie.name
+	
+whatWP	O
+moviesNNS	O
+haveVHP	O
+zombiesNNS	B-movie.subject
+inIN	O
+themPP	O
+	
+showVV	O
+mePP	O
+moviesNNS	O
+aboutIN	O
+zombiesNNS	B-movie.subject
+	
+showVV	O
+mePP	O
+moviesNNS	O
+aboutIN	O
+zombiesNNS	B-movie.subject
+	
+showVV	O
+mePP	O
+onesNNS	O
+byIN	O
+davidJJ	B-director.name
+fincherNN	I-director.name
+	
+showVV	O
+ridleyNP	B-director.name
+scottNP	I-director.name
+'sPOS	O
+filmographyNN	O
+	
+findVV	O
+ridleyNP	B-director.name
+scottNP	I-director.name
+moviesNNS	O
+	
+canMD	O
+youPP	O
+showVV	O
+mePP	O
+moviesNNS	O
+directedVVN	O
+byIN	O
+ridleyNP	B-director.name
+scottNP	I-director.name
+	
+listNN	O
+germanNN	B-movie.language
+moviesNNS	O
+	
+germanJJ	B-movie.language
+moviesNNS	O
+	
+findVV	O
+actionNN	B-movie.genre
+filmsNNS	O
+	
+findVV	O
+someDT	O
+actionNN	B-movie.genre
+moviesNNS	O
+	
+listNN	O
+dreddNN	B-movie.name
+movieNN	O
+	
+showVV	O
+mePP	O
+georgeVV	B-director.name
+lucasNNS	I-director.name
+moviesNNS	O
+	
+findVV	O
+moviesNNS	O
+directedVVN	O
+byIN	O
+georgeNN	B-director.name
+lucasNNS	I-director.name
+	
+producedVVN	O
+byIN	O
+	
+pleaseUH	O
+findVV	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+morganNN	B-producer.name
+freemanNN	I-producer.name
+	
+pleaseUH	O
+lookVV	O
+upRP	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+morganNN	B-producer.name
+freemanNN	I-producer.name
+	
+searchNN	O
+forIN	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+morganNN	B-producer.name
+freemanNN	I-producer.name
+	
+findVV	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+morganNN	B-producer.name
+freemanNN	I-producer.name
+	
+lookVV	O
+upRP	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+morganNN	B-producer.name
+freemanNN	I-producer.name
+	
+whatWP	O
+moviesNNS	O
+hasVHZ	O
+merylNN	B-actor.name
+streepNNS	I-actor.name
+starredVVN	O
+inIN	O
+	
+showVV	O
+mePP	O
+theDT	O
+moviesNNS	O
+directedVVN	O
+byIN	O
+theDT	O
+directorNN	O
+ofIN	O
+thisDT	O
+movieNN	O
+	
+iNNS	O
+wantVVP	O
+toTO	O
+seeVV	O
+moviesNNS	O
+madeVVN	O
+inIN	O
+russiaNN	B-country.name
+	
+lookVVP	O
+upRB	O
+starVV	B-movie.name
+warsNNS	I-movie.name
+fourCD	I-movie.name
+movieNN	O
+	
+displayVV	O
+allDT	O
+detailsNNS	O
+aboutIN	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+-:	I-movie.name
+aDT	I-movie.name
+newJJ	I-movie.name
+hopeNN	I-movie.name
+movieNN	O
+	
+getVV	O
+allDT	O
+detailsNNS	O
+aboutIN	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+-:	I-movie.name
+aDT	I-movie.name
+newJJ	I-movie.name
+hopeNN	I-movie.name
+movieNN	O
+	
+starNN	B-movie.name
+warsNNS	I-movie.name
+episodeNN	I-movie.name
+fourCD	I-movie.name
+	
+iNNS	O
+wantVVP	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+fourCD	I-movie.name
+mainJJ	O
+pageNN	O
+	
+searchNN	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+fourCD	I-movie.name
+	
+findVV	O
+mePP	O
+tonsNNS	O
+ofIN	O
+infoNN	O
+relatedVVN	O
+toTO	O
+starVV	B-movie.name
+warsNNS	I-movie.name
+fourCD	I-movie.name
+	
+getVV	O
+detailsNNS	O
+ofIN	O
+inIN	B-movie.name
+julyJJ	I-movie.name
+movieNN	O
+	
+findVV	O
+detailsNNS	O
+ofIN	O
+inIN	B-movie.name
+julyJJ	I-movie.name
+movieNN	O
+	
+showNN	O
+detailsNNS	O
+ofIN	O
+inIN	B-movie.name
+julyJJ	I-movie.name
+movieNN	O
+	
+tellVV	O
+mePP	O
+aboutRB	O
+inIN	B-movie.name
+julyJJ	I-movie.name
+movieNN	O
+	
+lookVV	O
+upRP	O
+theDT	O
+movieNN	O
+inIN	B-movie.name
+julyRB	I-movie.name
+	
+displayNN	O
+informationNN	O
+forIN	O
+theDT	O
+movieNN	O
+titleNN	O
+inIN	B-movie.name
+julyRB	I-movie.name
+	
+movieNN	O
+inIN	B-movie.name
+julyJJ	I-movie.name
+dataNNS	O
+	
+whereWRB	O
+canMD	O
+iNNS	O
+findVV	O
+theDT	O
+movieNN	O
+aankhenNN	B-movie.name
+inIN	O
+hindiNN	B-movie.language
+	
+displayNN	O
+juliaNN	B-actor.name
+robertsNNS	I-actor.name
+filmsNNS	O
+	
+listVV	O
+theDT	O
+moviesNNS	O
+thatWDT	O
+haveVHP	O
+theDT	O
+actressNN	O
+angelinaNN	B-actor.name
+jolieNN	I-actor.name
+	
+dustinNN	B-actor.name
+hoffmanNN	I-actor.name
+moviesNNS	O
+	
+whatWP	O
+moviesNNS	O
+didVVD	O
+davidJJ	B-director.name
+ayerNN	I-director.name
+directJJ	O
+	
+iNP	O
+wouldMD	O
+likeVV	O
+toTO	O
+viewVV	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+clintNN	B-producer.name
+eastwoodNN	I-producer.name
+	
+listVV	O
+allDT	O
+moviesNNS	O
+aboutIN	O
+horsesNNS	B-movie.subject
+	
+findVV	O
+allDT	O
+johnnyNN	B-actor.name
+deppNN	I-actor.name
+moviesNNS	O
+	
+searchNN	O
+byIN	O
+directorNN	O
+	
+searchNN	O
+byIN	O
+directorNN	O
+	
+isVBZ	O
+thereRB	O
+anyDT	O
+upcomingJJ	O
+moviesNNS	O
+fromIN	O
+warnerNN	B-producer.name
+brothersNNS	I-producer.name
+	
+bringVV	O
+upRP	O
+moviesNNS	O
+withIN	O
+iceNN	B-movie.subject
+skatingVVG	I-movie.subject
+inIN	O
+itPP	O
+	
+findVV	O
+newlyRB	O
+releasedVVN	O
+comediesNNS	B-movie.genre
+fromIN	O
+englandNN	B-country.name
+	
+iNP	O
+needNN	O
+infoNN	O
+onIN	O
+houseNN	B-movie.name
+atIN	I-movie.name
+theDT	I-movie.name
+endNN	I-movie.name
+ofIN	I-movie.name
+theDT	I-movie.name
+streetNN	I-movie.name
+	
+whatWP	O
+isVBZ	O
+theDT	O
+housesNNS	B-movie.name
+atIN	I-movie.name
+theDT	I-movie.name
+endNN	I-movie.name
+ofIN	I-movie.name
+theDT	I-movie.name
+streetNN	I-movie.name
+aboutRB	O
+	
+giveVV	O
+mePP	O
+moreJJR	O
+factsNNS	O
+aboutIN	O
+theDT	O
+movieNN	O
+houseNN	B-movie.name
+atIN	I-movie.name
+theDT	I-movie.name
+endNN	I-movie.name
+ofIN	I-movie.name
+theDT	I-movie.name
+streetNN	I-movie.name
+inIN	O
+detailNN	O
+	
+iNP	O
+wouldMD	O
+likeVV	O
+toTO	O
+knowVV	O
+inIN	O
+detailNN	O
+aboutIN	O
+theDT	O
+movieNN	O
+houseNN	B-movie.name
+atIN	I-movie.name
+theDT	I-movie.name
+endNN	I-movie.name
+ofIN	I-movie.name
+theDT	I-movie.name
+streetNN	I-movie.name
+	
+displayNN	O
+movieNN	O
+informationNN	O
+forIN	O
+theDT	O
+filmNN	O
+houseNN	B-movie.name
+atIN	I-movie.name
+theDT	I-movie.name
+endNN	I-movie.name
+ofIN	I-movie.name
+theDT	I-movie.name
+streetNN	I-movie.name
+	
+filmsNNS	O
+withIN	O
+chineseNN	B-movie.language
+	
+iNNS	O
+wantVVP	O
+toTO	O
+watchVV	O
+aDT	O
+movieNN	O
+inIN	O
+chineseNN	B-movie.language
+	
+findVV	O
+moviesNNS	O
+producedVVN	O
+andCC	O
+directedVVN	O
+byIN	O
+tylerNN	B-producer.name
+perryNN	I-producer.name
+	
+tomNN	B-actor.name
+cruiseNN	I-actor.name
+moviesNNS	O
+pleaseVVP	O
+	
+iNNS	O
+wantVVP	O
+tomNN	B-actor.name
+cruiseNN	I-actor.name
+moviesNNS	O
+pleaseVVP	O
+	
+whichWDT	O
+moviesNNS	O
+starVVP	O
+tomNN	B-actor.name
+cruiseNN	I-actor.name
+	
+whichWDT	O
+moviesNNS	O
+doVVP	O
+tomNN	B-actor.name
+cruiseNN	I-actor.name
+playVVP	O
+inIN	O
+	
+findVV	O
+endNN	B-movie.name
+ofIN	I-movie.name
+watchNN	I-movie.name
+	
+searchNN	O
+byIN	O
+genreNN	O
+	
+lookingVVG	O
+forIN	O
+moviesNNS	O
+ofIN	O
+yashNN	B-director.name
+chopraNN	I-director.name
+	
+findVV	O
+mePP	O
+informationNN	O
+aboutIN	O
+theDT	B-movie.name
+campaignNN	I-movie.name
+movieNN	O
+	
+informationNN	O
+forIN	O
+movieNN	O
+theDT	B-movie.name
+campaignNN	I-movie.name
+	
+showVV	O
+mePP	O
+infoNN	O
+onIN	O
+theDT	O
+movieNN	O
+theDT	B-movie.name
+campaignNN	I-movie.name
+pleaseRB	O
+	
+iNNS	O
+needVVP	O
+toTO	O
+seeVV	O
+allPDT	O
+theDT	O
+detailsNNS	O
+aboutIN	O
+theDT	O
+movieNN	O
+theDT	B-movie.name
+campaignNN	I-movie.name
+	
+sortVV	O
+allDT	O
+pgNN	B-rating.name
+moviesNNS	O
+	
+pgNN	B-rating.name
+ratedVVD	O
+moviesNNS	O
+	
+accessVV	O
+aDT	O
+listNN	O
+ofIN	O
+pgNN	B-rating.name
+moviesNNS	O
+pleaseVVP	O
+	
+giveVV	O
+mePP	O
+aDT	O
+listNN	O
+ofIN	O
+pgNN	B-rating.name
+moviesNNS	O
+	
+canMD	O
+youPP	O
+findVV	O
+mePP	O
+aDT	O
+listNN	O
+ofIN	O
+pgNN	B-rating.name
+ratedVVN	O
+moviesNNS	O
+toTO	O
+watchVV	O
+	
+showVV	O
+mePP	O
+aDT	O
+listNN	O
+ofIN	O
+pgNN	B-rating.name
+ratedVVN	O
+moviesNNS	O
+	
+findVV	O
+moviesNNS	O
+withIN	O
+aDT	O
+pgNN	B-rating.name
+ratingNN	O
+	
+whatWP	O
+moviesNNS	O
+areVBP	O
+pgJJ	B-rating.name
+	
+moviesNNS	O
+byIN	O
+alfredNN	B-director.name
+hitchcockNN	I-director.name
+	
+whatWP	O
+moviesNNS	O
+didVVD	O
+alfredNN	B-director.name
+hitchcockNN	I-director.name
+makeVV	O
+	
+watchVV	O
+hitchcookNN	B-director.name
+moviesNNS	O
+	
+iNNS	O
+wantVVP	O
+toTO	O
+seeVV	O
+anyDT	O
+currentJJ	O
+moviesNNS	O
+starringVVG	O
+tomNN	B-actor.name
+hanksNNS	I-actor.name
+	
+iNNS	O
+wantVVP	O
+aDT	O
+listNN	O
+ofIN	O
+recentJJ	O
+moviesNNS	O
+ratedVVN	O
+pgNN	B-rating.name
+	
+giveVV	O
+mePP	O
+aDT	O
+listNN	O
+ofIN	O
+recentJJ	O
+moviesNNS	O
+ratedVVN	O
+pgNN	B-rating.name
+	
+rayNN	B-producer.name
+starkRB	I-producer.name
+producedVVD	O
+whatWP	O
+otherJJ	O
+moviesNNS	O
+	
+whatWP	O
+isVBZ	O
+spielbergNP	B-producer.name
+'sPOS	O
+latestJJS	O
+movieNN	O
+	
+pleaseUH	O
+findVV	O
+moviesNNS	O
+directedVVN	O
+byIN	O
+tomNN	B-director.name
+hanksNNS	I-director.name
+	
+areVBP	O
+thereRB	O
+anyDT	O
+recentJJ	O
+moviesNNS	O
+thatWDT	O
+areVBP	O
+polishNN	B-movie.language
+speakingNN	O
+	
+whatWP	O
+moviesNNS	O
+hasVHZ	O
+tomNN	B-actor.name
+cruiseNN	I-actor.name
+beenVBN	O
+inIN	O
+recentlyRB	O
+	
+searchNN	O
+forIN	O
+newJJ	O
+moviesNNS	O
+	
+searchNN	O
+forIN	O
+inIN	B-movie.name
+julyNN	I-movie.name
+	
+watchVV	O
+inIN	B-movie.name
+julyRB	I-movie.name
+onlineJJ	O
+	
+searchNN	O
+forIN	O
+informationNN	O
+aboutIN	O
+lionsgateNNS	B-producer.name
+	
+lionsgateJJ	B-producer.name
+infoNN	O
+	
+findVV	O
+informationNN	O
+aboutIN	O
+paramountJJ	B-producer.name
+studiosNNS	I-producer.name
+	
+whoWP	O
+isVBZ	O
+rayNN	B-person.name
+starkJJ	I-person.name
+	
+findVV	O
+informationNN	O
+onIN	O
+charlesNNS	B-person.name
+vidorNN	I-person.name
+	
+iNNS	O
+wantVVP	O
+toTO	O
+lookVV	O
+upRP	O
+informationNN	O
+aboutIN	O
+tomNN	B-person.name
+cruiseNN	I-person.name
+	
+canMD	O
+youPP	O
+pleaseVV	O
+searchNN	O
+detailsNNS	O
+aboutRB	O
+willMD	B-person.name
+ferrellVV	I-person.name
+	
+willMD	B-person.name
+ferrellNP	I-person.name
+biographyNN	O
+	
+showNN	O
+willMD	B-person.name
+ferrellVV	I-person.name
+biographyNN	O
+	
+showVV	O
+mePP	O
+aDT	O
+completeJJ	O
+biographyNN	O
+ofIN	O
+willNN	B-person.name
+ferrellNN	I-person.name
+	
+showVV	O
+mePP	O
+informationNN	O
+onIN	O
+willNN	B-person.name
+ferrellNN	I-person.name
+	
+showVV	O
+mePP	O
+willMD	B-person.name
+ferrellNN	I-person.name
+'sPOS	O
+bioNN	O
+	
+getVV	O
+infoNN	O
+onIN	O
+kristenNP	B-person.name
+stewartNN	I-person.name
+	
+doesVVZ	O
+kristenNP	B-person.name
+stewartNP	I-person.name
+haveVHP	O
+aDT	O
+personalJJ	O
+pageNN	O
+	
+whereWRB	O
+canMD	O
+iNNS	O
+findVV	O
+informationNN	O
+aboutIN	O
+kristenNP	B-person.name
+stewartNN	I-person.name
+	
+jenniferNN	B-person.name
+anistonNN	I-person.name
+bioNN	O
+	
+iNNS	O
+wantVVP	O
+toTO	O
+seeVV	O
+spielbergNP	B-person.name
+'sPOS	O
+mainJJ	O
+pageNN	O
+	
+stevenJJ	B-person.name
+spielbergNN	I-person.name
+summaryNN	O
+	
+aboutIN	O
+stevenJJ	B-person.name
+spielbergNN	I-person.name
+	
+findVV	O
+mePP	O
+bioNN	O
+detailsNNS	O
+forIN	O
+stevenJJ	B-person.name
+spielbergNN	I-person.name
+	
+bioNN	O
+forIN	O
+stevenJJ	B-person.name
+spielbergNN	I-person.name
+	
+showVV	O
+mePP	O
+alfredNN	B-person.name
+hitchcockNN	I-person.name
+	
+iNNS	O
+wantVVP	O
+moreJJR	O
+informationNN	O
+aboutIN	O
+alfredNP	B-person.name
+hitchockNP	I-person.name
+'sPOS	O
+biographyNN	O
+	
+allDT	O
+infoNN	O
+hitchcockNN	B-person.name
+	
+findVV	O
+theDT	O
+nameNN	O
+ofIN	O
+theDT	O
+producerNN	O
+ofIN	O
+avatarNN	B-movie.name
+	
+producerNN	O
+hitchNN	B-movie.name
+	
+whoWP	O
+producesVVZ	O
+hitchNN	B-movie.name
+	
+productionNN	O
+companyNN	O
+forIN	O
+transformersNNS	B-movie.name
+	
+whatWP	O
+companyNN	O
+madeVVD	O
+etFW	B-movie.name
+	
+whatWP	O
+wasVBD	O
+theDT	O
+productionNN	O
+companyNN	O
+forIN	O
+etFW	B-movie.name
+	
+whoWP	O
+producesVVZ	O
+carsNNS	B-movie.name
+	
+canMD	O
+youPP	O
+findVV	O
+whoWP	O
+producedVVD	O
+carsNNS	B-movie.name
+	
+productionNN	O
+companyNN	O
+forIN	O
+devilNN	B-movie.name
+	
+whoWP	O
+producedVVD	O
+theDT	O
+movieNN	O
+steelNN	B-movie.name
+magnoliasNNS	I-movie.name
+	
+whoWP	O
+producedVVD	O
+avatarNN	B-movie.name
+	
+iNNS	O
+wantVVP	O
+toTO	O
+knowVV	O
+theDT	O
+producerNN	O
+ofIN	O
+avatarNN	B-movie.name
+	
+whoWP	O
+producedVVD	O
+avatarNN	B-movie.name
+	
+whoWP	O
+producedVVD	O
+avatarNN	B-movie.name
+	
+avatarNN	B-movie.name
+producerNN	O
+	
+iNP	O
+wouldMD	O
+likeVV	O
+toTO	O
+knowVV	O
+whoWP	O
+producedVVD	O
+theDT	O
+movieNN	O
+avatarNN	B-movie.name
+	
+whoWP	O
+producedVVD	O
+theDT	O
+movieNN	O
+avatarNN	B-movie.name
+	
+whoWP	O
+areVBP	O
+theDT	O
+producersNNS	O
+forIN	O
+theDT	O
+movieNN	O
+avatarNN	B-movie.name
+	
+whatWP	O
+isVBZ	O
+greaseNN	B-movie.name
+'sPOS	O
+producerNN	O
+	
+whoWP	O
+producedVVD	O
+greaseNN	B-movie.name
+	
+whoWP	O
+producedVVD	O
+theDT	O
+movieNN	O
+myPP$	B-movie.name
+bigJJ	I-movie.name
+fatJJ	I-movie.name
+greekNN	I-movie.name
+weddingNN	I-movie.name
+	
+whoWP	O
+producedVVD	O
+prettyJJ	B-movie.name
+womanNN	I-movie.name
+	
+tellVV	O
+mePP	O
+theDT	O
+producerNN	O
+forIN	O
+theDT	B-movie.name
+godfatherNN	I-movie.name
+	
+theDT	B-movie.name
+godfatherNN	I-movie.name
+wasVBD	O
+producedVVN	O
+byIN	O
+	
+whoWP	O
+producedVVD	O
+theDT	O
+movieNN	O
+clueNN	B-movie.name
+	
+whoWP	O
+producedVVD	O
+hotelNN	B-movie.name
+rwandaNN	I-movie.name
+	
+whoWP	O
+producedVVD	O
+marleyNN	B-movie.name
+andCC	I-movie.name
+mePP	I-movie.name
+	
+whoWP	O
+producedVVD	O
+despicableJJ	B-movie.name
+mePP	I-movie.name
+	
+whoWP	O
+isVBZ	O
+theDT	O
+companyNN	O
+thatWDT	O
+producedVVD	O
+theDT	O
+movieNN	O
+inceptionNN	B-movie.name
+	
+whatWP	O
+companyNN	O
+developedVVD	O
+theDT	O
+movieNN	O
+inceptionNN	B-movie.name
+	
+findVV	O
+producerNN	O
+ofIN	O
+theDT	B-movie.name
+greatJJ	I-movie.name
+debatersNNS	I-movie.name
+	
+whoWP	O
+producedVVD	O
+inceptionNN	B-movie.name
+	
+provideVV	O
+theDT	O
+nameNN	O
+ofIN	O
+theDT	O
+companyNN	O
+thatWDT	O
+producedVVD	O
+sparkleNN	B-movie.name
+	
+iNNS	O
+needVVP	O
+toTO	O
+knowVV	O
+theDT	O
+companyNN	O
+thatWDT	O
+producedVVD	O
+sparkleNN	B-movie.name
+	
+findVV	O
+theDT	O
+producerNN	O
+ofIN	O
+lookNN	B-movie.name
+whoWP	I-movie.name
+'sVBZ	I-movie.name
+talkingVVG	I-movie.name
+	
+whoWP	O
+producedVVD	O
+harlemNN	B-movie.name
+nightsNNS	I-movie.name
+	
+findVV	O
+theDT	O
+producerNN	O
+ofIN	O
+stepNN	B-movie.name
+upRB	I-movie.name
+	
+pleaseUH	O
+findVV	O
+theDT	O
+producerNN	O
+ofIN	O
+freedomNN	B-movie.name
+writersNNS	I-movie.name
+	
+lookVV	O
+forIN	O
+theDT	O
+producerNN	O
+ofIN	O
+freedomNN	B-movie.name
+writersNNS	I-movie.name
+	
+showVV	O
+mePP	O
+movieNN	O
+ratingNN	O
+	
+howWRB	O
+muchJJ	O
+revenueNN	O
+didVVD	O
+prettyRB	B-movie.name
+womanNN	I-movie.name
+makeVV	O
+	
+earningsNNS	O
+forIN	O
+prettyJJ	B-movie.name
+womanNN	I-movie.name
+	
+whatWP	O
+wasVBD	O
+theDT	O
+revenueNN	O
+ofIN	O
+prettyJJ	B-movie.name
+womanNN	I-movie.name
+	
+howWRB	O
+muchRB	O
+didVVD	O
+prettyRB	B-movie.name
+womanNN	I-movie.name
+makeVV	O
+	
+whatWP	O
+wasVBD	O
+theDT	O
+grossJJ	O
+revenueNN	O
+forIN	O
+theDT	B-movie.name
+avengersNNS	I-movie.name
+	
+howWRB	O
+muchRB	O
+didVVD	O
+theDT	B-movie.name
+avengersNNS	I-movie.name
+makeVVP	O
+	
+revenueNN	O
+forIN	O
+theDT	B-movie.name
+avengersNNS	I-movie.name
+	
+howWRB	O
+muchRB	O
+didVVD	O
+theDT	B-movie.name
+darkJJ	I-movie.name
+nightNN	I-movie.name
+generateVV	O
+inIN	O
+revenuesNNS	O
+	
+findVV	O
+revenueNN	O
+totalsNNS	O
+forIN	O
+jurassicJJ	B-movie.name
+parkNN	I-movie.name
+	
+revenueNN	O
+forIN	O
+independenceNN	B-movie.name
+dayNN	I-movie.name
+	
+whatWP	O
+isVBZ	O
+theDT	O
+newJJ	O
+willNN	B-actor.name
+ferrellNN	I-actor.name
+movieNN	O
+aboutRB	O
+	
+whoWP	O
+playedVVD	O
+theDT	O
+voiceNN	O
+ofIN	O
+nemoNN	B-character.name
+inIN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+whoWP	O
+playedVVD	O
+richieNN	B-character.name
+cunninghamNN	I-character.name
+inIN	O
+happyJJ	B-movie.name
+daysNNS	I-movie.name
+	
+whoWP	O
+starsVVZ	O
+inIN	O
+houseNN	B-movie.name
+atIN	I-movie.name
+theDT	I-movie.name
+endNN	I-movie.name
+ofIN	I-movie.name
+theDT	I-movie.name
+streetNN	I-movie.name
+	
+showVV	O
+mePP	O
+theDT	O
+castNN	O
+forIN	O
+theDT	O
+houseNN	B-movie.name
+atIN	I-movie.name
+theDT	I-movie.name
+endNN	I-movie.name
+ofIN	I-movie.name
+theDT	I-movie.name
+streetNN	I-movie.name
+	
+castNN	O
+andCC	O
+crewNN	O
+ofIN	O
+houseNN	B-movie.name
+atIN	I-movie.name
+theDT	I-movie.name
+endNN	I-movie.name
+ofIN	I-movie.name
+theDT	I-movie.name
+streetNN	I-movie.name
+	
+ethelNN	B-character.name
+actressNN	O
+fromIN	O
+iNP	B-movie.name
+loveNN	I-movie.name
+lucyNN	I-movie.name
+	
+actressNN	O
+whoWP	O
+playedVVD	O
+ethelNN	B-character.name
+onIN	O
+iNP	B-movie.name
+loveNN	I-movie.name
+lucyNN	I-movie.name
+	
+whoWP	O
+areVBP	O
+theDT	O
+castNN	O
+membersNNS	O
+inIN	O
+lordNN	B-movie.name
+ofIN	I-movie.name
+theDT	I-movie.name
+ringsVVZ	I-movie.name
+theDT	I-movie.name
+twoCD	I-movie.name
+towersNNS	I-movie.name
+	
+whoWP	O
+playedVVD	O
+hawkeyeNN	B-character.name
+inIN	O
+mashNN	B-movie.name
+	
+whoWP	O
+playedVVD	O
+motherNN	B-character.name
+inIN	O
+tarkovskyNP	B-director.name
+'sPOS	O
+mirrorNN	B-movie.name
+	
+showVV	O
+mePP	O
+theDT	O
+actorNN	O
+ofIN	O
+theDT	O
+movieNN	O
+muthyalaNN	B-movie.name
+mugguNN	I-movie.name
+	
+whoWP	O
+areVBP	O
+theDT	O
+droidsNNS	B-character.name
+inIN	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+episodeNN	I-movie.name
+fourCD	I-movie.name
+	
+whoWP	O
+wasVBD	O
+thatDT	O
+guyNN	O
+againRB	O
+whoWP	O
+wasVBD	O
+inIN	O
+theDT	B-movie.name
+avengersNNS	I-movie.name
+	
+whichWDT	O
+actorNN	O
+playedVVD	O
+frodoNN	B-character.name
+inIN	O
+lordNN	B-movie.name
+ofIN	I-movie.name
+theDT	I-movie.name
+ringsNNS	I-movie.name
+	
+findVV	O
+theDT	O
+nameNN	O
+ofIN	O
+theDT	O
+actressNN	O
+whoWP	O
+playedVVD	O
+motherNN	B-character.name
+inIN	O
+mirrorNN	B-movie.name
+byIN	O
+andreyNN	B-director.name
+tarkovskyNN	I-director.name
+	
+whatWP	O
+isVBZ	O
+theDT	O
+nameNN	O
+ofIN	O
+theDT	O
+actressNN	O
+whoWP	O
+playedVVD	O
+motherNN	B-character.name
+inIN	O
+tarkovskyNP	B-director.name
+'sPOS	O
+mirrorNN	B-movie.name
+	
+whatWP	O
+isVBZ	O
+theDT	O
+nameNN	O
+ofIN	O
+theDT	O
+actorNN	O
+whoWP	O
+playedVVD	O
+toddNNS	B-character.name
+inIN	O
+theDT	O
+tvNN	O
+showVVP	O
+oneCD	B-movie.name
+lifeNN	I-movie.name
+toTO	I-movie.name
+liveVV	I-movie.name
+	
+giveVV	O
+mePP	O
+theDT	O
+nameNN	O
+ofIN	O
+theDT	O
+mainJJ	O
+actressNN	O
+inIN	O
+platoonNN	B-movie.name
+	
+whatWP	O
+'sVBZ	O
+theDT	O
+nameNN	O
+ofIN	O
+theDT	O
+momNN	B-character.name
+onIN	O
+seinfeldNP	B-movie.name
+	
+nameVV	O
+theDT	O
+co-starNN	O
+inIN	O
+shootNN	B-movie.name
+toTO	I-movie.name
+killVV	I-movie.name
+	
+whatWP	O
+isVBZ	O
+theDT	O
+nameNN	O
+ofIN	O
+theDT	O
+actorNN	O
+whoWP	O
+playedVVD	O
+atticusNN	B-character.name
+finchNN	I-character.name
+inIN	O
+toTO	B-movie.name
+killVV	I-movie.name
+aDT	I-movie.name
+mockingbirdNN	I-movie.name
+	
+showVV	O
+mePP	O
+theDT	O
+nameNN	O
+ofIN	O
+theDT	O
+guyNN	O
+whoWP	O
+wasVBD	O
+theDT	O
+fatherNN	B-character.name
+andCC	I-character.name
+aDT	I-character.name
+lawyerNN	I-character.name
+inIN	O
+toTO	B-movie.name
+killVV	I-movie.name
+aDT	I-movie.name
+mockingbirdNN	I-movie.name
+	
+pleaseUH	O
+provideVV	O
+theDT	O
+costNN	O
+forIN	O
+producingVVG	O
+theDT	O
+deerNN	B-movie.name
+hunterNN	I-movie.name
+	
+whatWP	O
+isVBZ	O
+theDT	O
+budgetNN	O
+forIN	O
+epicNN	B-movie.name
+	
+searchNN	O
+budgetNN	O
+forIN	O
+theDT	O
+movieNN	O
+epicNN	B-movie.name
+	
+whatWP	O
+wasVBD	O
+theDT	O
+budgetNN	O
+forIN	O
+fireNN	B-movie.name
+proofNN	I-movie.name
+	
+whatWP	O
+wasVBD	O
+theDT	O
+budgetNN	O
+forIN	O
+flyNN	B-movie.name
+wheleNN	I-movie.name
+	
+whatWP	O
+wasVBD	O
+theDT	O
+budgetNN	O
+forIN	O
+1stJJ	O
+harryVVP	B-movie.name
+potterNN	I-movie.name
+movieNN	O
+	
+howWRB	O
+muchRB	O
+wasVBD	O
+spentVVN	O
+onIN	O
+shootingVVG	O
+theDT	O
+lastJJ	O
+harryVV	B-movie.name
+potterNN	I-movie.name
+filmNN	O
+	
+howWRB	O
+muchRB	O
+doesVVZ	O
+itPP	O
+costVVD	O
+toTO	O
+produceVV	O
+looperNN	B-movie.name
+	
+howWRB	O
+muchRB	O
+didVVD	O
+itPP	O
+costVVD	O
+toTO	O
+produceVV	O
+looperNN	B-movie.name
+	
+howWRB	O
+muchJJ	O
+moneyNN	O
+wasVBD	O
+spentVVN	O
+toTO	O
+produceVV	O
+looperNN	B-movie.name
+	
+howWRB	O
+muchRB	O
+didVVD	O
+menNNS	B-movie.name
+inIN	I-movie.name
+blackJJ	I-movie.name
+3CD	I-movie.name
+costNN	O
+	
+howWRB	O
+muchRB	O
+wasVBD	O
+itPP	O
+toTO	O
+makeVV	O
+paranormanNN	B-movie.name
+	
+showVV	O
+mePP	O
+theDT	O
+budgetNN	O
+toTO	O
+rebelJJ	B-movie.name
+movieNN	O
+	
+showVV	O
+mePP	O
+theDT	O
+budgetNN	O
+forIN	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+2CD	I-movie.name
+	
+howWRB	O
+muchRB	O
+didVVD	O
+itPP	O
+costVVD	O
+toTO	O
+createVV	O
+theDT	B-movie.name
+boardwalkNN	I-movie.name
+empireNN	I-movie.name
+	
+showVV	O
+mePP	O
+theDT	O
+budgetNN	O
+forIN	O
+expendablesNNS	B-movie.name
+1CD	I-movie.name
+	
+whatWP	O
+wasVBD	O
+theDT	O
+budgetNN	O
+forIN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+inIN	O
+3dJJ	O
+	
+liongateNNS	B-producer.name
+	
+whichWDT	O
+countryNN	O
+madeVVD	O
+inchochineNN	B-movie.name
+	
+whatWP	O
+countryNN	O
+filedVVD	O
+lesFW	B-movie.name
+mesFW	I-movie.name
+	
+whatWP	O
+countryNN	O
+isVBZ	O
+lesFW	B-movie.name
+mesFW	I-movie.name
+fromIN	O
+	
+whereWRB	O
+wasVBD	O
+theDT	O
+milkNN	B-movie.name
+ofIN	I-movie.name
+sorrowNN	I-movie.name
+madeVVD	O
+	
+whatWP	O
+countryNN	O
+isVBZ	O
+shawshankNN	B-movie.name
+redemptionNN	I-movie.name
+	
+whatWP	O
+countryNN	O
+doesVVZ	O
+theDT	O
+movieNN	O
+thodaNN	B-movie.name
+pyaarNN	I-movie.name
+thodaNN	I-movie.name
+magicNN	I-movie.name
+comesVVZ	O
+fromIN	O
+	
+tellVV	O
+mePP	O
+whereWRB	O
+theDT	O
+whiteJJ	B-movie.name
+ribbonNN	I-movie.name
+cameVVD	O
+fromIN	O
+	
+whenWRB	O
+wasVBD	O
+theDT	O
+movieNN	O
+barfiNN	B-movie.name
+!SENT	I-movie.name
+releasedVVN	O
+	
+whatWP	O
+areVBP	O
+theDT	O
+datesNNS	O
+forIN	O
+theDT	O
+movieNN	O
+barfiNN	B-movie.name
+!SENT	I-movie.name
+	
+releaseNN	O
+dateNN	O
+ofIN	O
+theDT	O
+newJJ	O
+bugsNNS	B-movie.name
+bunnyNN	I-movie.name
+filmNN	O
+	
+whatWP	O
+isVBZ	O
+theDT	O
+releaseNN	O
+dateNN	O
+ofIN	O
+evilNN	B-movie.name
+goesVVZ	I-movie.name
+globalJJ	I-movie.name
+	
+whatWP	O
+isVBZ	O
+theDT	O
+releaseNN	O
+dateNN	O
+forIN	O
+jawsNNS	B-movie.name
+17CD	I-movie.name
+inIN	O
+theDT	O
+theatersNNS	O
+	
+whatWP	O
+isVBZ	O
+theDT	O
+releaseNN	O
+dateNN	O
+forIN	O
+jurassicJJ	B-movie.name
+parkNN	I-movie.name
+4CD	I-movie.name
+	
+listNN	O
+releaseNN	O
+datesNNS	O
+forIN	O
+theDT	O
+jurassicJJ	B-movie.name
+parkNN	I-movie.name
+moviesNNS	O
+	
+whenWRB	O
+willMD	O
+theDT	O
+movieNN	O
+omgJJ	B-movie.name
+ohUH	I-movie.name
+myPP$	I-movie.name
+godNN	I-movie.name
+beVB	O
+releasedVVN	O
+	
+whenWRB	O
+wasVBD	O
+theDT	O
+lordNN	B-movie.name
+ofIN	I-movie.name
+theDT	I-movie.name
+ringsNNS	I-movie.name
+movieNN	O
+releasedVVD	O
+	
+whatsNNS	O
+paranormalJJ	B-movie.name
+activitiesNNS	I-movie.name
+releaseNN	O
+dateNN	O
+	
+whenWRB	O
+willMD	O
+robocopRB	B-movie.name
+comeVV	O
+outRP	O
+	
+whenWRB	O
+wasVBD	O
+suckerpunchNN	B-movie.name
+beVB	O
+releasedVVN	O
+	
+whenWRB	O
+wasVBD	O
+theDT	B-movie.name
+soundNN	I-movie.name
+ofIN	I-movie.name
+musicNN	I-movie.name
+releasedVVN	O
+	
+whenWRB	O
+willMD	O
+twilightNN	B-movie.name
+breakingVVG	I-movie.name
+dawnNN	I-movie.name
+partNN	I-movie.name
+2CD	I-movie.name
+beVB	O
+releasedVVN	O
+	
+whoWP	O
+directedVVD	O
+aiVVP	B-movie.name
+	
+findVV	O
+theDT	O
+directorNN	O
+ofIN	O
+downtonNN	B-movie.name
+abbeyNN	I-movie.name
+	
+whoWP	O
+directedVVD	O
+goodJJ	B-movie.name
+badJJ	I-movie.name
+andCC	I-movie.name
+uglyJJ	I-movie.name
+	
+iNP	O
+canMD	O
+'tNP	O
+rememberVV	O
+whoWP	O
+directedVVD	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+	
+findVV	O
+theDT	O
+directorNN	O
+ofIN	O
+toTO	B-movie.name
+killVV	I-movie.name
+aDT	I-movie.name
+mockingbirdNN	I-movie.name
+	
+isVBZ	O
+amelieNN	B-movie.name
+inIN	O
+aDT	O
+differentJJ	O
+languageNN	O
+	
+whatWP	O
+languageNN	O
+wasVBD	O
+amelieNN	B-movie.name
+filmedVVN	O
+inIN	O
+	
+whatWP	O
+languageNN	O
+isVBZ	O
+theDT	O
+fullJJ	B-movie.name
+montyNN	I-movie.name
+inIN	O
+	
+whatWP	O
+isVBZ	O
+juNN	B-movie.name
+onRB	I-movie.name
+'sPOS	O
+originalJJ	O
+languageNN	O
+	
+whatWP	O
+languageNN	O
+isVBZ	O
+secretsNNS	B-movie.name
+andCC	I-movie.name
+liesVVZ	I-movie.name
+inIN	O
+	
+giveVV	O
+mePP	O
+namesNNS	O
+ofIN	O
+someDT	O
+actionNN	B-movie.genre
+moviesNNS	O
+withIN	O
+aDT	O
+pgNN	B-rating.name
+thirteenCD	I-rating.name
+ratingNN	O
+	
+showVV	O
+allDT	O
+comedyNN	B-movie.genre
+musicalsNNS	B-movie.genre
+forIN	O
+twentyCD	B-movie.release_date
+twelveNN	I-movie.release_date
+	
+areVBP	O
+thereRB	O
+anyDT	O
+documentariesNNS	B-movie.genre
+onIN	O
+classicJJ	B-movie.subject
+carsNNS	I-movie.subject
+	
+showVV	O
+allDT	O
+dramasNN	B-movie.genre
+producedVVN	O
+inIN	O
+2010CD	B-movie.release_date
+	
+findVV	O
+someDT	O
+mysteriesNNS	B-movie.genre
+	
+searchNN	O
+romanticJJ	B-movie.genre
+commediesNNS	I-movie.genre
+	
+sci-fiNN	B-movie.genre
+	
+showVV	O
+mePP	O
+westernsNNS	B-movie.genre
+	
+showNN	O
+carNN	B-movie.subject
+documentariesNNS	B-movie.genre
+	
+showVV	O
+mePP	O
+aDT	O
+katieNP	B-actor.name
+holmesNP	I-actor.name
+flickNN	B-movie.type
+	
+iNNS	O
+wantVVP	O
+toTO	O
+seeVV	O
+videosNNS	B-movie.type
+ofIN	O
+stevenJJ	B-director.name
+spielbergNN	I-director.name
+	
+videosNNS	B-movie.type
+relatedVVN	O
+toTO	O
+stevenJJ	B-director.name
+spielbergNN	I-director.name
+	
+newJJ	O
+releasedVVN	O
+videosNNS	B-movie.type
+	
+iNNS	O
+wantVVP	O
+toTO	O
+seeVV	O
+brazilianNN	B-country.name
+moviesNNS	O
+	
+showVV	O
+allDT	O
+canandianJJ	B-country.name
+moviesNNS	O
+forIN	O
+nineteenCD	B-movie.release_date
+eightyCD	I-movie.release_date
+	
+whatWP	O
+moviesNNS	O
+wereVBD	O
+madeVVN	O
+inIN	O
+irelandNN	B-country.name
+thisDT	B-movie.release_date
+yearNN	I-movie.release_date
+	
+findVV	O
+philipinoNN	B-country.name
+moviesNNS	O
+inIN	O
+englishNN	B-movie.language
+	
+showVV	O
+mePP	O
+theDT	O
+highest-grossingJJ	O
+moviesNNS	O
+fromIN	O
+portugalNN	B-country.name
+	
+findVV	O
+moviesNNS	O
+inIN	O
+americaNN	B-country.name
+aboutIN	O
+obamaNN	B-movie.subject
+	
+iNP	O
+'dMD	O
+loveVV	O
+toTO	O
+watchVV	O
+anDT	O
+albertNN	B-director.name
+ruddyJJ	I-director.name
+movieNN	O
+	
+whatWP	O
+otherJJ	O
+filmsNNS	O
+hasVHZ	O
+arthurNN	B-director.name
+ruddyJJ	I-director.name
+doneVVN	O
+	
+bringVV	O
+upRP	O
+allDT	O
+moviesNNS	O
+bradNN	B-director.name
+pittNN	I-director.name
+directedVVD	O
+	
+whatWP	O
+moviesNNS	O
+hasVHZ	O
+bradNN	B-director.name
+pittNN	I-director.name
+directedVVD	O
+	
+moviesNNS	O
+byIN	O
+davidJJ	B-director.name
+selsnicNN	I-director.name
+	
+didVVD	O
+hollyNN	B-director.name
+hunterNN	I-director.name
+directVV	O
+anyDT	O
+moviesNNS	O
+	
+whatWP	O
+moviesNNS	O
+didVVD	O
+joeNN	B-director.name
+coenNNS	I-director.name
+doVVP	O
+	
+moviesNNS	O
+byIN	O
+johnNN	B-director.name
+paulNNS	I-director.name
+asIN	O
+aDT	O
+directorNN	O
+	
+showVV	O
+mePP	O
+moviesNNS	O
+directedVVN	O
+byIN	O
+johnNN	B-director.name
+paulNNS	I-director.name
+	
+tomNN	B-director.name
+cruiseNN	I-director.name
+hasVHZ	O
+directedVVN	O
+whatWP	O
+moviesNNS	O
+	
+pleaseUH	O
+listVV	O
+allDT	O
+moviesNNS	O
+directedVVN	O
+byIN	O
+tomNN	B-director.name
+cruiseNN	I-director.name
+	
+wesleyNN	B-director.name
+snipesNNS	I-director.name
+directedVVD	O
+whatWP	O
+movieNN	O
+	
+findVV	O
+actionNN	B-movie.genre
+moviesNNS	O
+withIN	O
+johnNN	B-actor.name
+travoltaNN	I-actor.name
+	
+showVV	O
+allDT	O
+animationNN	B-movie.genre
+filmsNNS	O
+forIN	O
+twentyCD	B-movie.release_date
+twelveNN	I-movie.release_date
+	
+animatedJJ	B-movie.genre
+pgNN	B-rating.name
+thirteenCD	I-rating.name
+moviesNNS	O
+	
+physfiNN	B-movie.genre
+moviesNNS	O
+	
+iNP	O
+likeIN	O
+sci-fiNN	B-movie.genre
+moviesNNS	O
+	
+showVV	O
+mePP	O
+filmsNNS	O
+releasedVVN	O
+inIN	O
+septemberNN	B-movie.release_date
+	
+showVV	O
+allDT	O
+moviesNNS	O
+releasedVVN	O
+inIN	O
+septemberNN	B-movie.release_date
+	
+lookVV	O
+upRP	O
+allDT	O
+moviesNNS	O
+comingVVG	O
+inIN	O
+septemberNN	B-movie.release_date
+	
+findVV	O
+moviesNNS	O
+forIN	O
+twentyCD	B-movie.release_date
+tenCD	I-movie.release_date
+	
+mostRBS	O
+recentJJ	O
+zombieNN	B-movie.subject
+moviesNNS	O
+	
+searchNN	O
+forIN	O
+moviesNNS	O
+inIN	O
+chineseNN	B-movie.language
+	
+findVV	O
+mePP	O
+moviesNNS	O
+thatWDT	O
+areVBP	O
+inIN	O
+chineseNN	B-movie.language
+	
+iNNS	O
+wantVVP	O
+toTO	O
+seeVV	O
+aDT	O
+listNN	O
+ofIN	O
+allDT	O
+moviesNNS	O
+shownVVN	O
+inIN	O
+englishNN	B-movie.language
+	
+findVV	O
+moviesNNS	O
+inIN	O
+farsiNNS	B-movie.language
+	
+sendVV	O
+mePP	O
+moviesNNS	O
+thatWDT	O
+areVBP	O
+inIN	O
+frenchNN	B-movie.language
+	
+findVV	O
+moviesNNS	O
+inIN	O
+frenchNNS	B-movie.language
+	
+iNP	O
+wouldMD	O
+likeVV	O
+aDT	O
+listNN	O
+ofIN	O
+moviesNNS	O
+inIN	O
+frenchNNS	B-movie.language
+	
+moviesNNS	O
+inIN	O
+frenchNNS	B-movie.language
+	
+iNNS	O
+wantVVP	O
+toTO	O
+findVV	O
+moviesNNS	O
+usingVVG	O
+theDT	O
+frenchJJ	B-movie.language
+langauageNN	O
+	
+iNNS	O
+wantVVP	O
+moviesNNS	O
+inIN	O
+frenchNNS	B-movie.language
+	
+findVV	O
+moviesNNS	O
+inIN	O
+germanNN	B-movie.language
+beforeIN	O
+2000CD	B-movie.release_date
+	
+giveVV	O
+mePP	O
+someDT	O
+moviesNNS	O
+whichWDT	O
+wereVBD	O
+filmedVVN	O
+inIN	O
+polishNN	B-movie.language
+	
+findVV	O
+moviesNNS	O
+inIN	O
+portugeseNN	B-movie.language
+	
+showVV	O
+allDT	O
+moviesNNS	O
+inIN	O
+spanishNN	B-movie.language
+	
+listNN	O
+ofIN	O
+moviesNNS	O
+inIN	O
+theDT	O
+spanishJJ	B-movie.language
+languageNN	O
+	
+moviesNNS	O
+inIN	O
+spanishNN	B-movie.language
+	
+iNNS	O
+amVBP	O
+searchingVVG	O
+forIN	O
+moviesNNS	O
+inIN	O
+spanishNN	B-movie.language
+	
+iNP	O
+wouldMD	O
+likeVV	O
+toTO	O
+lookVV	O
+forIN	O
+moviesNNS	O
+inIN	O
+spanishNN	B-movie.language
+	
+findVV	O
+moviesNNS	O
+inIN	O
+swahiliNNS	B-movie.language
+	
+showVV	O
+mePP	O
+aDT	O
+listNN	O
+ofIN	O
+allDT	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+alfredNNS	B-producer.name
+ruddyJJ	I-producer.name
+	
+whatWP	O
+otherJJ	O
+moviesNNS	O
+charlesNNS	B-producer.name
+vidorNN	I-producer.name
+produceNN	O
+	
+hasVHZ	O
+jenniferNN	B-producer.name
+annistonNN	I-producer.name
+producedVVD	O
+moviesNNS	O
+	
+showVV	O
+mePP	O
+theDT	O
+moviesNNS	O
+producedVVN	O
+byIN	O
+mNN	B-producer.name
+sNN	I-producer.name
+rajuNN	I-producer.name
+	
+listVV	O
+theDT	O
+moviesNNS	O
+createdVVN	O
+byIN	O
+7CD	B-producer.name
+artsNNS	I-producer.name
+	
+lionsgateNN	B-producer.name
+=SYM	O
+iFW	O
+wouldMD	O
+likeVV	O
+toTO	O
+getVV	O
+aDT	O
+listNN	O
+ofIN	O
+yourPP$	O
+moviesNNS	O
+fromIN	O
+twoCD	B-movie.release_date
+thousandCD	I-movie.release_date
+andCC	I-movie.release_date
+nineCD	I-movie.release_date
+toTO	I-movie.release_date
+twoCD	I-movie.release_date
+thousandCD	I-movie.release_date
+andCC	I-movie.release_date
+twelveNN	I-movie.release_date
+	
+twentiethJJ	B-producer.name
+centuryNN	I-producer.name
+foxNN	I-producer.name
+moviesNNS	O
+2012CD	B-movie.release_date
+	
+showVV	O
+mePP	O
+ncNN	B-rating.name
+minusCC	I-rating.name
+seventeenCD	I-rating.name
+ratedVVN	O
+moviesNNS	O
+	
+showVV	O
+mePP	O
+moviesNNS	O
+withIN	O
+notRB	B-rating.name
+ratedVVN	I-rating.name
+ratingNN	O
+	
+giveVV	O
+mePP	O
+aDT	O
+listNN	O
+ofIN	O
+nrNN	B-rating.name
+moviesNNS	O
+	
+whatWP	O
+isVBZ	O
+aDT	O
+listNN	O
+ofIN	O
+pgNN	B-rating.name
+thirteenCD	I-rating.name
+actionNN	B-movie.genre
+moviesNNS	O
+	
+iNNS	O
+wantVVP	O
+toTO	O
+seeVV	O
+aDT	O
+pgNN	B-rating.name
+thirteenCD	I-rating.name
+movieNN	O
+	
+showVV	O
+mePP	O
+aDT	O
+completeJJ	O
+listNN	O
+ofIN	O
+rNN	B-rating.name
+ratedVVN	O
+moviesNNS	O
+thatWDT	O
+cameVVD	O
+outRP	O
+inIN	O
+theDT	B-movie.release_date
+lastJJ	I-movie.release_date
+30CD	I-movie.release_date
+daysNNS	I-movie.release_date
+	
+showVV	O
+mePP	O
+allDT	O
+ratedVVN	O
+rNN	B-rating.name
+moviesNNS	O
+byIN	O
+paramountNN	B-producer.name
+	
+showVV	O
+mePP	O
+moviesNNS	O
+thatWDT	O
+areVBP	O
+unratedJJ	B-rating.name
+	
+listNN	O
+moviesNNS	O
+fromIN	O
+1995CD	B-movie.release_date
+withIN	O
+adamNN	B-actor.name
+sandlerNN	I-actor.name
+	
+iNNS	O
+wantVVP	O
+toTO	O
+seeVV	O
+moviesNNS	O
+withIN	O
+alanJJ	B-actor.name
+rickmmanNN	I-actor.name
+	
+whichWDT	O
+moviesNNS	O
+hasVHZ	O
+angelinaNN	B-actor.name
+jolieNN	I-actor.name
+starredVVD	O
+thisDT	B-movie.release_date
+seasonNN	I-movie.release_date
+	
+whatWP	O
+movieNN	O
+wasVBD	O
+angelinaVVG	B-actor.name
+aDT	O
+mainJJ	B-character.name
+actressNN	I-character.name
+	
+lookVV	O
+upRP	O
+moviesNNS	O
+starringVVG	O
+theDT	O
+singerNN	B-actor.type
+marioNN	B-actor.name
+	
+iNNS	O
+wantVVP	O
+toTO	O
+findVV	O
+moviesNNS	O
+starringVVG	O
+theDT	O
+singerNN	B-actor.type
+marioNN	B-actor.name
+	
+lookNN	O
+forIN	O
+moviesNNS	O
+withIN	O
+maxNP	B-actor.name
+vonNP	I-actor.name
+sudowNN	I-actor.name
+	
+showVV	O
+mePP	O
+moviesNNS	O
+thatWDT	O
+haveVHP	O
+patrickJJ	B-actor.name
+swayzeNNS	I-actor.name
+andCC	O
+jenniferNN	B-actor.name
+greyNN	I-actor.name
+inIN	O
+themPP	O
+	
+showVV	O
+mePP	O
+moviesNNS	O
+thatIN/that	O
+starJJ	O
+patrickNN	B-actor.name
+swayzeNNS	I-actor.name
+starredVVN	O
+inIN	O
+fromIN	O
+nineteenCD	B-movie.release_date
+eightyCD	I-movie.release_date
+sevenCD	I-movie.release_date
+	
+whatWP	O
+isVBZ	O
+thatDT	O
+dancingVVG	B-movie.subject
+movieNN	O
+withIN	O
+patrickNN	B-actor.name
+swayzeNNS	I-actor.name
+	
+moviesNNS	O
+ofIN	O
+sharukhNN	B-actor.name
+khanNN	I-actor.name
+	
+movieNN	O
+thatIN/that	O
+tomNN	B-actor.name
+hanksNNS	I-actor.name
+andCC	O
+kevinNN	B-actor.name
+beconNN	I-actor.name
+playedVVN	O
+inIN	O
+togetherRB	O
+	
+moviesNNS	O
+aboutIN	O
+animalsNNS	B-movie.subject
+	
+showVV	O
+mePP	O
+moviesNNS	O
+aboutIN	O
+bollywoodNN	B-movie.subject
+	
+chessNN	B-movie.subject
+moviesNNS	O
+	
+showVV	O
+mePP	O
+moviesNNS	O
+onIN	O
+chessNN	B-movie.subject
+	
+whatWP	O
+areVBP	O
+someDT	O
+moviesNNS	O
+aboutIN	O
+discoNN	B-movie.subject
+	
+whatWP	O
+moviesNNS	O
+canMD	O
+offerVV	O
+tipsNNS	O
+onIN	O
+gardeningNN	B-movie.subject
+	
+iNNS	O
+wantVVP	O
+toTO	O
+lookVV	O
+upRP	O
+moviesNNS	O
+aboutIN	O
+hairNN	B-movie.subject
+	
+findVV	O
+moviesNNS	O
+aboutIN	O
+librariesNNS	B-movie.subject
+	
+findVV	O
+someDT	O
+moviesNNS	O
+aboutIN	O
+musiciansNNS	B-movie.subject
+	
+canMD	O
+youPP	O
+findVV	O
+moviesNNS	O
+aboutIN	O
+preschoolJJ	B-movie.subject
+boysNNS	I-movie.subject
+	
+lookNN	O
+forIN	O
+moviesNNS	O
+aboutIN	O
+preschoolJJ	B-movie.subject
+boysNNS	I-movie.subject
+	
+whatWP	O
+filmsNNS	O
+focusVVP	O
+onIN	O
+rapeNN	B-movie.subject
+andCC	I-movie.subject
+victimNN	I-movie.subject
+'sPOS	I-movie.subject
+rightsNNS	I-movie.subject
+	
+iNP	O
+wouldMD	O
+likeVV	O
+toTO	O
+knowVV	O
+namesNNS	O
+ofIN	O
+someDT	O
+moviesNNS	O
+onIN	O
+religiousJJ	B-movie.subject
+issuesNNS	I-movie.subject
+	
+giveVV	O
+mePP	O
+aDT	O
+listNN	O
+ofIN	O
+someDT	O
+moviesNNS	O
+onIN	O
+religiousJJ	B-movie.subject
+issuesNNS	I-movie.subject
+	
+lookNN	O
+forIN	O
+moviesNNS	O
+aboutIN	O
+schoolNN	B-movie.subject
+	
+tellVV	O
+mePP	O
+theDT	O
+namesNNS	O
+ofIN	O
+someDT	O
+soccerNN	B-movie.subject
+moviesNNS	O
+	
+whatWP	O
+areVBP	O
+someDT	O
+timeNN	B-movie.subject
+travelNN	I-movie.subject
+moviesNNS	O
+iNP	O
+canMD	O
+watchVV	O
+	
+showVV	O
+mePP	O
+moviesNNS	O
+involvingVVG	O
+timeNN	B-movie.subject
+travelNN	I-movie.subject
+	
+vampireNN	B-movie.subject
+moviesNNS	O
+pleaseVVP	O
+	
+listNN	O
+moviesNNS	O
+withIN	O
+aDT	O
+themeNN	O
+ofIN	O
+warNN	B-movie.subject
+inIN	O
+themPP	O
+	
+showVV	O
+allDT	O
+moviesNNS	O
+withIN	O
+theDT	O
+themeNN	O
+ofIN	O
+warNN	B-movie.subject
+	
+canMD	O
+youPP	O
+findVV	O
+mePP	O
+someDT	O
+moviesNNS	O
+aboutIN	O
+warNN	B-movie.subject
+	
+iNNS	O
+wantVVP	O
+aDT	O
+listNN	O
+ofIN	O
+moviesNNS	O
+aboutIN	O
+warNN	B-movie.subject
+	
+iNNS	O
+wantVVP	O
+moviesNNS	O
+aboutIN	O
+warNN	B-movie.subject
+	
+findVV	O
+moviesNNS	O
+aboutIN	O
+worldNN	B-movie.subject
+warNN	I-movie.subject
+twoCD	I-movie.subject
+	
+whatWP	O
+areVBP	O
+someDT	O
+zombieNN	B-movie.subject
+apocalypseNN	I-movie.subject
+moviesNNS	O
+	
+searchNN	O
+forIN	O
+zombieNN	B-movie.subject
+moviesNNS	O
+	
+showVV	O
+mePP	O
+belleNN	B-movie.name
+inIN	O
+spanishNN	B-movie.language
+	
+isVBZ	O
+dreddRB	B-movie.name
+ratedVVN	O
+rNN	B-rating.name
+	
+takeVV	O
+mePP	O
+toTO	O
+theDT	O
+frenchJJ	B-movie.language
+versionNN	O
+ofIN	O
+etFW	B-movie.name
+	
+findVV	O
+etNP	B-movie.name
+inIN	O
+frenchNN	B-movie.language
+	
+findVV	O
+fastJJ	B-movie.name
+andCC	I-movie.name
+furiousJJ	I-movie.name
+inIN	O
+japaneseNN	B-movie.language
+	
+hardJJ	B-movie.name
+dayNN	I-movie.name
+'sPOS	I-movie.name
+nightNN	I-movie.name
+richardNN	B-director.name
+lesterNN	I-director.name
+	
+informationNN	O
+aboutIN	O
+movieNN	O
+lifeNN	B-movie.name
+isVBZ	I-movie.name
+beautifulJJ	I-movie.name
+	
+movieNN	O
+informationNN	O
+forIN	O
+lifeNN	B-movie.name
+isVBZ	I-movie.name
+beautifulJJ	I-movie.name
+	
+willMD	O
+youPP	O
+pleaseVV	O
+showVV	O
+mePP	O
+infoNN	O
+onIN	O
+theDT	O
+movieNN	O
+lifeNN	B-movie.name
+isVBZ	I-movie.name
+beautifulJJ	I-movie.name
+	
+canMD	O
+youPP	O
+pleaseVV	O
+showVV	O
+mePP	O
+infoNN	O
+onIN	O
+theDT	O
+movieNN	O
+lifeNN	B-movie.name
+isVBZ	I-movie.name
+beautifulJJ	I-movie.name
+	
+showVV	O
+mePP	O
+detailsNNS	O
+toTO	O
+theDT	O
+movieNN	O
+lifeNN	B-movie.name
+isVBZ	I-movie.name
+beautifulJJ	I-movie.name
+	
+showVV	O
+mePP	O
+infoNN	O
+onIN	O
+theDT	O
+movieNN	O
+lifeNN	B-movie.name
+isVBZ	I-movie.name
+beautifulJJ	I-movie.name
+pleaseRB	O
+	
+openVV	O
+aDT	O
+pageNN	O
+aboutIN	O
+theDT	O
+movieNN	O
+lifeNN	B-movie.name
+isVBZ	I-movie.name
+beautifulJJ	I-movie.name
+	
+isVBZ	O
+nineCD	B-movie.release_date
+fourteenNN	I-movie.release_date
+theDT	O
+premiereJJ	O
+dateNN	O
+forIN	O
+residentJJ	B-movie.name
+evilNN	I-movie.name
+	
+selectJJ	O
+rioNN	B-movie.name
+inIN	O
+chineseNN	B-movie.language
+	
+findVV	O
+mePP	O
+theDT	O
+firstJJ	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+movieNN	O
+infoNN	O
+	
+iNNS	O
+needVVP	O
+detailsNNS	O
+aboutIN	O
+theDT	O
+movieNN	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+::	I-movie.name
+episodeNN	I-movie.name
+fourCD	I-movie.name
+-:	I-movie.name
+aDT	I-movie.name
+newJJ	I-movie.name
+hopeNN	I-movie.name
+	
+didVVD	O
+rayNN	B-director.name
+starkJJ	I-director.name
+produceNN	O
+steelNN	B-movie.name
+magnoliasNNS	I-movie.name
+	
+isVBZ	O
+theDT	O
+movieNN	O
+toyNN	B-movie.name
+storyNN	I-movie.name
+4CD	I-movie.name
+beingVBG	O
+releasedVVN	O
+nextJJ	B-movie.release_date
+summerNN	I-movie.release_date
+	
+iNNS	O
+wantVVP	O
+toTO	O
+lookVV	O
+upRP	O
+informationNN	O
+aboutIN	O
+americanJJ	B-country.name
+moviesNNS	O
+	
+chineseJJ	B-movie.language
+foreignJJ	O
+filmNN	O
+withIN	O
+kungfuNN	B-movie.subject
+	
+frenchNN	B-movie.language
+moviesNNS	O
+forIN	O
+twentyCD	B-movie.release_date
+twelveNN	I-movie.release_date
+	
+lookNN	O
+forIN	O
+russianJJ	B-movie.language
+moviesNNS	O
+byIN	O
+mosfilmNN	B-producer.name
+	
+showNN	O
+productionNN	O
+companyNN	O
+lionsgateNNS	B-producer.name
+	
+paramountJJ	B-producer.name
+filmNN	I-producer.name
+studiosNNS	I-producer.name
+	
+iNP	O
+wouldMD	O
+likeVV	O
+toTO	O
+haveVH	O
+moreJJR	O
+informationNN	O
+aboutIN	O
+theDT	O
+producerNN	O
+rayNN	B-person.name
+starkJJ	I-person.name
+	
+showVV	O
+mePP	O
+detailsNNS	O
+forIN	O
+theDT	O
+directorNN	O
+stevenJJ	B-director.name
+spielbergNN	I-director.name
+	
+showVV	O
+mePP	O
+thatIN/that	O
+actorNN	O
+tomNN	B-actor.name
+cruiseNN	I-actor.name
+	
+iNP	O
+wouldMD	O
+likeVV	O
+informationNN	O
+aboutIN	O
+theDT	O
+actorNN	O
+willMD	B-actor.name
+ferrellVV	I-actor.name
+	
+whoWP	O
+producedVVD	O
+theDT	O
+movieNN	O
+greatJJ	B-movie.name
+debatersNNS	I-movie.name
+	
+kingNN	B-movie.name
+'sPOS	I-movie.name
+speechNN	I-movie.name
+productionNN	O
+companyNN	O
+	
+iNP	O
+wonderNN	O
+whoWP	O
+producedVVD	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+	
+iNP	O
+canMD	O
+'tNP	O
+rememberVV	O
+whoWP	O
+producedVVD	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+	
+whoWP	O
+producedVVD	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+	
+movieNN	O
+producersNNS	O
+	
+howWRB	O
+muchRB	O
+didVVD	O
+endNN	B-movie.name
+ofIN	I-movie.name
+watchNN	I-movie.name
+grossJJ	O
+	
+howWRB	O
+muchRB	O
+didVVD	O
+movieNN	O
+earnVV	O
+	
+showVV	O
+mePP	O
+theDT	O
+earningsNNS	O
+forIN	O
+hotelNN	B-movie.name
+transylvaniaNN	I-movie.name
+	
+whatWP	O
+didVVD	O
+theDT	O
+movieNN	O
+theDT	O
+houseNN	B-movie.name
+atIN	I-movie.name
+theDT	I-movie.name
+endNN	I-movie.name
+ofIN	I-movie.name
+theDT	I-movie.name
+steetNN	I-movie.name
+grossJJ	O
+	
+revenueNN	O
+forIN	O
+ironNN	B-movie.name
+manNN	I-movie.name
+2CD	I-movie.name
+	
+whatWP	O
+amountNN	O
+ofIN	O
+revenueNN	O
+didVVD	O
+ironNN	B-movie.name
+manNN	I-movie.name
+makeVV	O
+	
+whatWP	O
+wasVBD	O
+theDT	O
+grossJJ	O
+revenueNN	O
+ofIN	O
+ironNN	B-movie.name
+manNN	I-movie.name
+	
+kahaniNP	B-movie.name
+'sPOS	O
+revenueNN	O
+	
+getVV	O
+theDT	O
+revenueNN	O
+ofIN	O
+kahaniNNS	B-movie.name
+	
+revenueNN	O
+looperNN	B-movie.name
+	
+howWRB	O
+muchRB	O
+didVVD	O
+looperNN	B-movie.name
+grossJJ	O
+inIN	O
+salesNNS	O
+	
+howWRB	O
+muchRB	O
+didVVD	O
+looperNN	B-movie.name
+grossJJ	O
+	
+hoNP	O
+muchRB	O
+didVVD	O
+looperNN	B-movie.name
+makeVV	O
+	
+howWRB	O
+muchJJ	O
+moneyNN	O
+didVVD	O
+mrNN	B-movie.name
+andCC	I-movie.name
+mrsNN	I-movie.name
+smithNN	I-movie.name
+makeVV	O
+	
+howWRB	O
+muchJJ	O
+moneyNN	O
+didVVD	O
+theDT	O
+movieNN	O
+mrNN	B-movie.name
+andCC	I-movie.name
+mrsNN	I-movie.name
+smithNN	I-movie.name
+makeVV	O
+	
+inIN	O
+theDT	O
+movieNN	O
+mrNN	B-movie.name
+andCC	I-movie.name
+mrsNN	I-movie.name
+smithNN	I-movie.name
+howWRB	O
+muchJJ	O
+moneyNN	O
+didVVD	O
+theDT	O
+boxNN	O
+offficeNN	O
+reportNN	O
+	
+howWRB	O
+muchJJ	O
+moneyNN	O
+didVVD	O
+philadelphiaNN	B-movie.name
+makeVV	O
+	
+iNNS	O
+wantVVP	O
+toTO	O
+knowVV	O
+whatWP	O
+theDT	O
+revenueNN	O
+forIN	O
+piratesNNS	B-movie.name
+wasVBD	O
+	
+howWRB	O
+muchRB	O
+wasVBD	O
+madeVVN	O
+fromIN	O
+platoonNN	B-movie.name
+	
+whatWP	O
+wasVBD	O
+theDT	O
+grossJJ	O
+revenueNN	O
+earnedVVD	O
+byIN	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+inIN	O
+itsPP$	O
+originalJJ	O
+releaseNN	O
+	
+whatWP	O
+wasVBD	O
+theDT	O
+totalJJ	O
+grossJJ	O
+receiptsNNS	O
+atIN	O
+theDT	O
+boxNN	O
+officeNN	O
+forIN	O
+theDT	O
+movieNN	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+	
+whatWP	O
+wereVBD	O
+theDT	O
+grossJJ	O
+receiptsNNS	O
+forIN	O
+hungerNN	B-movie.name
+gamesNNS	I-movie.name
+	
+tellVV	O
+mePP	O
+howWRB	O
+muchJJ	O
+moneyNN	O
+tommyNN	B-movie.name
+boyNN	I-movie.name
+madeVVD	O
+	
+howWRB	O
+muchJJ	O
+revenueNN	O
+didVVD	O
+topJJ	B-movie.name
+gunNN	I-movie.name
+makeVV	O
+	
+tellVV	O
+mePP	O
+theDT	O
+revenueNN	O
+ofIN	O
+trainingNN	B-movie.name
+dayNN	I-movie.name
+	
+whatWP	O
+isVBZ	O
+lifeNN	B-movie.name
+isVBZ	I-movie.name
+beautifulJJ	I-movie.name
+aboutRB	O
+	
+showVV	O
+mePP	O
+aDT	O
+listNN	O
+ofIN	O
+productionNN	O
+companiesNNS	O
+	
+showVV	O
+mePP	O
+theDT	O
+viewerNN	O
+ratingsNNS	O
+inIN	B-movie.name
+orangeNN	I-movie.name
+	
+isVBZ	O
+inRB	B-movie.name
+julyRB	I-movie.name
+onIN	O
+netflixNN	O
+	
+rateNN	O
+moviesNNS	O
+	
+findVV	O
+theDT	O
+actorNN	O
+thatWDT	O
+singsVVZ	O
+letVV	O
+mePP	O
+loveVV	O
+youPP	O
+	
+whatWP	O
+isVBZ	O
+stevenJJ	B-person.name
+spielbergNN	I-person.name
+upRB	O
+toTO	O
+	
+israelNP	B-country.name
+areVBP	O
+allPDT	O
+yourPP$	O
+moviesNNS	O
+inIN	O
+yourPP$	O
+nativeJJ	O
+languageNN	O
+orCC	O
+inIN	O
+englishNN	B-movie.language
+	
+whatWP	O
+'sVBZ	O
+playingVVG	O
+tonightRB	O
+	
+whereWRB	O
+canMD	O
+iNNS	O
+buyVV	O
+thisDT	O
+movieNN	O
+	
+iNP	O
+wouldMD	O
+likeVV	O
+toTO	O
+knowVV	O
+ifIN	O
+thisDT	O
+isVBZ	O
+aDT	O
+realRB	O
+scaryJJ	B-movie.genre
+	
+howWRB	O
+toTO	O
+rentVV	O
+dirtyJJ	B-movie.name
+dancingNN	I-movie.name
+	
+canMD	O
+iNP	O
+rentNN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+onIN	O
+netflixNN	O
+	
+hotelNN	B-movie.name
+rwandaNN	I-movie.name
+isVBZ	O
+basedVVN	O
+onIN	O
+whatWP	O
+	
+iNNS	O
+needVVP	O
+toTO	O
+knowVV	O
+whereWRB	O
+youPP	O
+keepVVP	O
+residentJJ	B-movie.name
+evilNN	I-movie.name
+	
+inIN	O
+septemberNN	O
+	
+dvdNNS	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+findVV	O
+movieNN	O
+fromIN	O
+criteriaNNS	O
+	
+findVV	O
+aDT	O
+movieNN	O
+	
+canMD	O
+youPP	O
+tellVV	O
+mePP	O
+whichWDT	O
+movieNN	O
+madeVVD	O
+theDT	O
+mostJJS	O
+atIN	O
+theDT	O
+boxNN	O
+officeNN	O
+inIN	O
+theDT	O
+weekendNN	O
+ofIN	O
+septemberNN	O
+twentyCD	O
+eighthNN	O
+	
+findVV	O
+moviesNNS	O
+selectedVVN	O
+onIN	O
+allDT	O
+criteriaNNS	O
+	
+optionsNNS	O
+availableJJ	O
+forIN	O
+moviesNNS	O
+todayNN	O
+	
+findVV	O
+allDT	O
+selectedJJ	O
+criteriaNNS	O
+	
+searchNN	O
+highlightedVVD	O
+informationNN	O
+	
+bringVV	O
+upRP	O
+movieNN	O
+requestNN	O
+	
+findVV	O
+selectedJJ	O
+informationNN	O
+	
+findVV	O
+selectedJJ	O
+criteriaNNS	O
+	
+whereWRB	O
+canMD	O
+iNP	O
+watchNN	O
+movieNN	O
+	
+searchVV	O
+allDT	O
+databasesNNS	O
+	
+searchNN	O
+databasesNNS	O
+	
+whereWRB	O
+canMD	O
+iNNS	O
+seeVV	O
+movieNN	O
+	
+whatWP	O
+isVBZ	O
+theDT	O
+ageNN	O
+limitNN	O
+forIN	O
+theDT	O
+pgNN	B-rating.name
+ratingNN	O
+forIN	O
+theDT	O
+movieNN	O
+hotelNN	B-movie.name
+transylvaniaNN	B-movie.name
+	
+whatWP	O
+doesVVZ	O
+theDT	O
+ratingNN	O
+rSYM	B-rating.name
+meanJJ	O
+forIN	O
+theDT	O
+movieNN	O
+dredVVD	O
+	
+showVV	O
+mePP	O
+theDT	O
+sequelsNNS	O
+orCC	O
+prequelsNNS	O
+toTO	O
+thisDT	O
+movieNN	O
+	
+howWRB	O
+longRB	O
+didVVD	O
+itPP	O
+takeVV	O
+jamesNNS	B-producer.name
+cameronNN	I-producer.name
+toTO	O
+produceVV	O
+avatarNN	B-movie.name
+	
+isVBZ	O
+thisDT	O
+filmNN	O
+dubbedVVN	O
+inIN	O
+englishNN	B-movie.language
+	
+apolloNN	B-movie.name
+thirteenCD	I-movie.name
+castNN	O
+wasVBD	O
+chosenVVN	O
+howWRB	O
+	
+whatWP	O
+otherJJ	O
+formatsNNS	O
+isVBZ	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+inIN	O
+	
+inIN	O
+howWRB	O
+manyJJ	O
+daysNNS	O
+didVVD	O
+itPP	O
+takeVVP	O
+toTO	O
+makeVV	O
+twentyCD	B-movie.gross_revenue
+oneCD	I-movie.gross_revenue
+pointNN	I-movie.gross_revenue
+twoCD	I-movie.gross_revenue
+forIN	O
+looperNN	B-movie.name
+	
+whatWP	O
+ageNN	O
+groupNN	O
+isVBZ	O
+forIN	O
+ratedVVN	O
+rNN	B-rating.name
+moviesNNS	O
+	
+showVV	O
+mePP	O
+theDT	O
+behindIN	O
+scenesNNS	O
+ofIN	O
+theDT	O
+movieNN	O
+inIN	B-movie.name
+orangeNN	I-movie.name
+	
+howWRB	O
+longRB	O
+doVVP	O
+youPP	O
+predictVVP	O
+thatIN/that	O
+wbNN	B-producer.name
+willMD	O
+continueVV	O
+toTO	O
+striveVV	O
+inIN	O
+todayNN	O
+'sPOS	O
+marketNN	O
+	
+theDT	O
+crapNN	O
+	
+whoWP	O
+determinesVVZ	O
+theDT	O
+ratingsNNS	O
+onIN	O
+moviesNNS	O
+	
+houseNN	B-movie.name
+atIN	I-movie.name
+theDT	I-movie.name
+endNN	I-movie.name
+ofIN	I-movie.name
+theDT	I-movie.name
+streetNN	I-movie.name
+shouldMD	O
+ofIN	O
+madeVVD	O
+moreJJR	O
+moneyNN	O
+	
+findVV	O
+mePP	O
+dirtyJJ	B-movie.name
+dancingNN	I-movie.name
+newsNN	O
+	
+whoWP	O
+elseRB	O
+couldMD	O
+haveVH	O
+preformedVVN	O
+yourPP$	O
+jobNN	O
+	
+twentyCD	B-movie.gross_revenue
+oneCD	I-movie.gross_revenue
+pointNN	I-movie.gross_revenue
+twoCD	I-movie.gross_revenue
+wasVBD	O
+paidVVN	O
+outRP	O
+	
+findVV	O
+someDT	O
+notesNNS	O
+onIN	O
+parentalJJ	O
+guidanceNN	O
+pleaseVV	O
+	
+whoWP	O
+cameVVD	O
+upRP	O
+forIN	O
+theDT	O
+mainJJ	O
+plotNN	O
+	
+whatWP	O
+isVBZ	O
+theDT	O
+standardNN	O
+toTO	O
+beVB	O
+ratedVVN	O
+gNN	B-rating.name
+	
+iNP	O
+loveNN	O
+tayeNN	B-person.name
+diggsNNS	I-person.name
+	
+showVV	O
+mePP	O
+theDT	O
+movieNN	O
+reviewsVVZ	O
+inIN	O
+orangeNN	O
+	
+showVV	O
+mePP	O
+celebritiesNNS	O
+	
+howWRB	O
+oldJJ	O
+doVVP	O
+youPP	O
+haveVHP	O
+toTO	O
+beVB	O
+toTO	O
+seeVV	O
+anDT	O
+r-ratedJJ	B-rating.name
+movieNN	O
+	
+doesVVZ	O
+irelandNP	B-country.name
+haveVHP	O
+anDT	O
+equivalentNN	O
+toTO	O
+thNN	O
+usPP	B-country.name
+oscarNN	B-award.ceremony
+awardsNNS	O
+	
+clickNN	O
+onIN	O
+theDT	O
+mostRBS	O
+popularJJ	O
+movieNN	O
+inIN	O
+orangeNN	O
+	
+brazilNN	B-movie.location
+movieNN	O
+locationsNNS	O
+	
+whatWP	O
+isVBZ	O
+theDT	O
+historyNN	O
+behindIN	O
+lionsgateNNS	B-producer.name
+	
+whatWP	O
+doesVVZ	O
+anDT	O
+rNN	B-rating.name
+ratingNN	O
+meanVVP	O
+onIN	O
+aDT	O
+movieNN	O
+	
+canMD	O
+youPP	O
+giveVV	O
+mePP	O
+moreJJR	O
+informationNN	O
+aboutIN	O
+theDT	O
+textNN	O
+highlightedVVN	O
+inIN	O
+orangeNN	O
+	
+whatWP	O
+areVBP	O
+theDT	O
+recommendedJJ	O
+agesNNS	O
+forIN	O
+aDT	O
+pgNN	B-rating.name
+movieNN	O
+	
+sendVV	O
+dreddNN	B-movie.name
+movieNN	O
+	
+jennNP	B-person.name
+annNP	I-person.name
+loverNN	O
+	
+didVVD	O
+kristenNP	B-person.name
+stewartNP	I-person.name
+haveVHP	O
+anDT	O
+affairNN	O
+withIN	O
+theDT	O
+directorNN	O
+ofIN	O
+snowNN	B-movie.name
+whiteNN	I-movie.name
+andCC	I-movie.name
+theDT	I-movie.name
+huntsmanNN	I-movie.name
+	
+showVV	O
+mePP	O
+movieNN	O
+highlightsNNS	O
+inIN	O
+orangeNN	O
+	
+needNN	O
+toTO	O
+rateNN	O
+movieNN	O
+	
+howWRB	O
+oldJJ	O
+doVVP	O
+youPP	O
+haveVHP	O
+toTO	O
+beVB	O
+toTO	O
+seeVV	O
+aDT	O
+ratedVVN	O
+rNN	B-rating.name
+movieNN	O
+	
+whatWP	O
+doesVVZ	O
+aDT	O
+pgNN	B-rating.name
+thirteenCD	I-rating.name
+ratingNN	O
+meanNN	O
+	
+twentyCD	B-movie.gross_revenue
+oneCD	I-movie.gross_revenue
+pointNN	I-movie.gross_revenue
+twoCD	I-movie.gross_revenue
+isVBZ	O
+theDT	O
+firstJJ	O
+weekNN	O
+grossJJ	O
+	
+rSYM	B-rating.name
+ratingNN	O
+whatWP	O
+doesVVZ	O
+thatRB	O
+includeVV	O
+	
+inIN	B-movie.name
+julieNN	I-movie.name
+	
+wbNN	B-producer.name
+-:	O
+whatWP	O
+doesVVZ	O
+itPP	O
+takeVV	O
+toTO	O
+becomeVV	O
+aDT	O
+movieNN	O
+producerNN	O
+	
+showVV	O
+mePP	O
+hollywoodNN	O
+influencesNNS	O
+	
+howWRB	O
+doesVVZ	O
+aDT	O
+movieNN	O
+receiveVV	O
+anDT	O
+rNN	B-rating.name
+ratingNN	O
+	
+didVVD	O
+youPP	O
+haveVHP	O
+funNN	O
+onIN	O
+theDT	O
+setNN	O
+	
+whatWP	O
+areVBP	O
+theDT	O
+ratingNN	O
+symbolsNNS	O
+forIN	O
+moviesNNS	O
+	
+sbNN	O
+newsNN	O
+onIN	O
+lifeNN	O
+	
+iNNS	O
+haveVHP	O
+aDT	O
+thirteenCD	O
+yearNN	O
+oldJJ	O
+	
+endNN	B-movie.name
+ofIN	I-movie.name
+watchNN	I-movie.name
+shouldeNN	O
+ofIN	O
+madeVVD	O
+lessJJR	O
+moneyNN	O
+	
+whenWRB	O
+theDT	O
+movieNN	O
+comesVVZ	O
+outRB	O
+doVV	O
+youPP	O
+thinkVVP	O
+itPP	O
+willMD	O
+raiseVV	O
+inIN	O
+theDT	O
+boxNN	O
+officeNN	O
+	
+showVV	O
+mePP	O
+theDT	O
+movieNN	O
+listNN	O
+inIN	O
+orangeNN	O
+	
+showVV	O
+mePP	O
+theDT	O
+storyNN	O
+ofIN	O
+theDT	O
+armstrongNN	B-person.name
+siddeleyNN	I-person.name
+	
+classicJJ	O
+carsNNS	O
+	
+iNNS	O
+wantVVP	O
+toTO	O
+learnVV	O
+aboutIN	O
+flowersNNS	O
+	
+outIN	O
+campingNN	O
+	
+happyJJ	O
+	
+interestingJJ	O
+	
+sortNN	O
+byIN	O
+spanishNN	B-movie.language
+	
+whereWRB	O
+isVBZ	O
+punjabiNN	B-movie.language
+	
+whatWP	O
+isVBZ	O
+robertNN	B-person.name
+wiseNN	I-person.name
+'sPOS	O
+middleJJ	O
+nameNN	O
+	
+ferretNN	O
+	
+fortyNN	O
+threeCD	O
+millionCD	O
+whatWP	O
+	
+twentyCD	O
+oneCD	O
+pointNN	O
+twoCD	O
+millionCD	O
+dollarsNNS	O
+wasVBD	O
+dividedVVN	O
+betweenIN	O
+whoWP	O
+	
+doVV	O
+movieNN	O
+authorsNNS	O
+useVVP	O
+realJJ	O
+countriesNNS	O
+	
+onIN	O
+liesNNS	O
+	
+theDT	O
+movieNN	O
+aDT	B-movie.name
+tanuNN	I-movie.name
+isVBZ	O
+fromIN	O
+hungaryNN	B-country.name
+;:	O
+whereWRB	O
+isVBZ	O
+theDT	O
+countryNN	O
+hungaryNN	B-country.name
+	
+howWRB	O
+funNN	O
+isVBZ	O
+itPP	O
+toTO	O
+produceVV	O
+aDT	O
+movieNN	O
+	
+didVVD	O
+youPP	O
+likeIN	O
+workingVVG	O
+withIN	O
+whoWP	O
+youPP	O
+didVVD	O
+	
+canMD	O
+iNNS	O
+seeVV	O
+aDT	O
+mapNN	O
+ofIN	O
+canadaNP	B-country.name
+	
+wasVBD	O
+yourPP$	O
+journeyNN	O
+worthNN	O
+itPP	O
+	
+southJJ	O
+americanJJ	O
+countryNN	O
+flagsNNS	O
+	
+needVV	O
+moreJJR	O
+infoNN	O
+thatWDT	O
+relatesVVZ	O
+toTO	O
+chinaNN	B-country.name
+	
+flagsNNS	O
+ofIN	O
+planetNN	O
+earthNN	O
+	
+bestJJS	O
+writersNNS	O
+inIN	O
+theDT	O
+fieldNN	O
+	
+findVV	O
+theDT	O
+maleJJ	O
+actorNN	O
+fromIN	O
+grandJJ	B-movie.name
+torinoNN	I-movie.name
+	
+whoWP	O
+playedVVD	O
+theDT	O
+femaleJJ	O
+leadNN	O
+inIN	O
+hitchNN	B-movie.name
+	
+findVV	O
+theDT	O
+femaleJJ	O
+actressNN	O
+fromIN	O
+shallowJJ	B-movie.name
+halNNS	I-movie.name
+	
+whoWP	O
+isVBZ	O
+inIN	O
+pictureNN	O
+threeCD	O
+	
+whoWP	O
+areVBP	O
+theDT	O
+leadJJ	O
+actorsNNS	O
+	
+howWRB	O
+oldNN	O
+isVBZ	O
+jenniferNN	B-person.name
+anistonNN	I-person.name
+	
+whenWRB	O
+wasVBD	O
+willNN	B-person.name
+ferrellNN	I-person.name
+bornVVN	O
+	
+whereWRB	O
+wasVBD	O
+blackJJ	B-movie.name
+swanNN	I-movie.name
+directedVVD	O
+	
+whereWRB	O
+wasVBD	O
+murielNP	B-movie.name
+'sPOS	I-movie.name
+weddingNN	I-movie.name
+shotNN	O
+	
+showNN	O
+releaseNN	O
+dateNN	O
+inIN	O
+theDT	B-movie.release_region
+usaNN	I-movie.release_region
+forIN	O
+theDT	O
+movieNN	O
+littleJJ	B-movie.name
+womenNNS	I-movie.name
+	
+showNN	O
+movieNN	O
+descriptionNN	O
+	
+iNP	O
+'dMD	O
+likeVV	O
+toTO	O
+seeVV	O
+popularJJ	O
+filmNN	O
+directorsNNS	O
+fromIN	O
+theDT	O
+nineteenCD	B-movie.release_date
+fiftyCD	I-movie.release_date
+'sVBZ	I-movie.release_date
+throughIN	I-movie.release_date
+todayNN	I-movie.release_date
+	
+bestJJS	O
+directorNN	O
+	
+bestJJS	O
+directorsNNS	O
+ofIN	O
+allDT	O
+timeNN	O
+	
+pleaseUH	O
+showVV	O
+mePP	O
+famousJJ	O
+filmNN	O
+directorsNNS	O
+	
+greatestJJS	O
+directorsNNS	O
+	
+whoWP	O
+producedVVD	O
+someDT	O
+ofIN	O
+theDT	O
+mostRBS	O
+popularJJ	O
+moviesNNS	O
+	
+showVV	O
+mePP	O
+successfulJJ	O
+movieNN	O
+directorsNNS	O
+	
+whoWP	O
+producedVVD	O
+hotelNN	B-movie.name
+rwandaNNS	I-movie.name
+coverVVP	O
+artNN	O
+	
+whoWP	O
+'sVBZ	O
+theDT	O
+directorNN	O
+	
+directorNN	O
+'sPOS	O
+nameNN	O
+	
+whatWP	O
+isVBZ	O
+theDT	O
+nameNN	O
+ofIN	O
+aDT	O
+turkishJJ	B-director.nationality
+directorNN	O
+thatWDT	O
+producedVVD	O
+aDT	O
+dramaNN	B-movie.genre
+filmNN	O
+	
+watchNN	O
+dreddNN	B-movie.name
+movieNN	O
+	
+seeVV	O
+dreddNN	B-movie.name
+movieNN	O
+	
+whatWP	O
+wasVBD	O
+theDT	O
+nameNN	O
+ofIN	O
+anDT	O
+academyNN	B-award.ceremony
+awardNN	O
+winningVVG	O
+russianJJ	B-country.name
+documentaryNN	B-movie.genre
+	
+whatWP	O
+movieNN	O
+titlesNNS	O
+starringVVG	O
+merylNN	B-actor.name
+streepNNS	I-actor.name
+earnedVVD	O
+oscarNN	B-award.ceremony
+nominationsNNS	O
+	
+inIN	O
+searchNN	O
+forIN	O
+namesNNS	O
+ofIN	O
+crewNN	O
+membersNNS	O
+pleaseVVP	O
+	
+getVV	O
+mePP	O
+reviewsNNS	O
+andCC	O
+infoNN	O
+aboutIN	O
+theDT	B-movie.name
+campaignNN	I-movie.name
+movieNN	O
+	
+showVV	O
+mePP	O
+reviewsNNS	O
+andCC	O
+infoNN	O
+forIN	O
+theDT	B-movie.name
+campaignNN	I-movie.name
+	
+whatWP	O
+moviesNNS	O
+thatDT	O
+clintNN	B-director.name
+eastwoodNN	I-director.name
+directJJ	O
+thatIN/that	O
+hePP	O
+wonVVD	O
+theDT	O
+bestJJS	B-award.category
+directorNN	I-award.category
+oscarNN	B-award.ceremony
+forIN	O
+	
+whatWP	O
+'sVBZ	O
+hitchcockNN	B-director.name
+'sPOS	O
+mostRBS	O
+famousJJ	O
+movieNN	O
+	
+tellVV	O
+mePP	O
+someDT	O
+ofIN	O
+walterNP	B-director.name
+fSYM	I-director.name
+parkesVVZ	I-director.name
+bestJJS	O
+moviesNNS	O
+	
+lookingVVG	O
+forIN	O
+moviesNNS	O
+directedVVN	O
+byIN	O
+actorNN	O
+numberNN	O
+oneCD	O
+	
+listNN	O
+ofIN	O
+moviesNNS	O
+directedVVN	O
+byIN	O
+directorNN	O
+threeCD	O
+	
+showVV	O
+mePP	O
+theDT	O
+filmNN	O
+thatWDT	O
+grossedVVD	O
+sevenCD	B-movie.gross_revenue
+pointNN	I-movie.gross_revenue
+twoCD	I-movie.gross_revenue
+millionCD	I-movie.gross_revenue
+atIN	O
+theDT	O
+boxNN	O
+officeNN	O
+	
+showVV	O
+mePP	O
+moviesNNS	O
+thatWDT	O
+madeVVD	O
+overIN	B-movie.gross_revenue
+sevenCD	I-movie.gross_revenue
+millionCD	I-movie.gross_revenue
+dollarsNNS	I-movie.gross_revenue
+	
+showVV	O
+mePP	O
+moviesNNS	O
+thatIN/that	O
+didnNN	O
+'tNN	O
+grossJJ	O
+muchRB	O
+	
+iNNS	O
+wantVVP	O
+toTO	O
+seeVV	O
+moviesNNS	O
+fromIN	O
+earlyRB	B-movie.release_date
+twoCD	I-movie.release_date
+thousandsNNS	I-movie.release_date
+	
+showVV	O
+lastJJ	B-movie.release_date
+yearsNNS	I-movie.release_date
+filmsNNS	O
+byIN	O
+7CD	B-producer.name
+artsNNS	I-producer.name
+	
+showVV	O
+allDT	O
+moviesNNS	O
+thatWDT	O
+cameVVD	O
+outRP	O
+nineCD	B-movie.release_date
+fourteenNN	I-movie.release_date
+twentyCD	I-movie.release_date
+twelveNN	I-movie.release_date
+	
+wereVBD	O
+thereRB	O
+anyDT	O
+moviesNNS	O
+releasedVVD	O
+nineCD	B-movie.release_date
+fourteenNN	I-movie.release_date
+twentyCD	I-movie.release_date
+twelveNN	I-movie.release_date
+	
+showVV	O
+mePP	O
+moviesNNS	O
+fromIN	O
+theDT	O
+nineteenCD	B-movie.release_date
+seventiesNNS	I-movie.release_date
+	
+canMD	O
+youPP	O
+listVV	O
+allDT	O
+moviesNNS	O
+fromIN	O
+twentyCD	B-movie.release_date
+twelveNN	I-movie.release_date
+withIN	O
+aDT	O
+ratingNN	O
+ofIN	O
+threeCD	B-movie.star_rating
+starsNNS	O
+andCC	O
+upRB	O
+	
+academyNN	B-award.ceremony
+awardNN	O
+lionsgateNN	B-producer.name
+moviesNNS	O
+	
+showNN	O
+oscarNN	B-award.ceremony
+winningVVG	O
+moviesNNS	O
+byIN	O
+warnerNN	B-producer.name
+brothersNNS	I-producer.name
+	
+whatWP	O
+movieNN	O
+performanceNN	O
+didVVD	O
+merylNN	B-actor.name
+streepNNS	I-actor.name
+winVVP	O
+herPP$	O
+bestJJS	B-award.category
+supportingJJ	I-award.category
+oscarNN	B-award.ceremony
+	
+haveVHP	O
+anyDT	O
+usPP	B-country.name
+releasedVVN	O
+moviesNNS	O
+beenVBN	O
+filmedVVN	O
+onIN	O
+locationNN	O
+inIN	O
+theDT	O
+czechNN	B-movie.location
+republicNN	I-movie.location
+	
+whatWP	O
+usPP	B-country.name
+releaseVVP	O
+moviesNNS	O
+haveVHP	O
+beenVBN	O
+filmedVVN	O
+inIN	O
+theDT	O
+czechNN	B-movie.location
+republicNN	I-movie.location
+	
+listNN	O
+moviesNNS	O
+setVVN	O
+inIN	O
+irelandNN	B-movie.location
+	
+showVV	O
+mePP	O
+theDT	O
+moviesNNS	O
+releasedVVN	O
+inIN	O
+englandNN	B-movie.release_region
+	
+whatWP	O
+moviesNNS	O
+areVBP	O
+comingVVG	O
+outRP	O
+thisDT	B-movie.release_date
+weekNN	I-movie.release_date
+inIN	O
+greatJJ	B-movie.release_region
+britainNN	I-movie.release_region
+	
+showVV	O
+mePP	O
+theDT	O
+moviesNNS	O
+releasedVVN	O
+inIN	O
+nepalNN	B-movie.release_region
+	
+whatWP	O
+areVBP	O
+theDT	O
+topJJ	O
+fiveCD	O
+frenchNN	B-country.name
+moviesNNS	O
+ofIN	O
+allDT	O
+timeNN	O
+	
+whatWP	O
+topJJ	O
+filmsNNS	O
+haveVHP	O
+comeVVN	O
+outRP	O
+ofIN	O
+russiaNN	B-country.name
+	
+showVV	O
+mePP	O
+theDT	O
+topJJ	O
+moviesNNS	O
+fromIN	O
+spainNN	B-country.name
+	
+whatWP	O
+isVBZ	O
+theDT	O
+highestJJS	O
+ratedVVN	O
+zombieNN	B-movie.subject
+movieNN	O
+	
+whatWP	O
+areVBP	O
+highlyRB	O
+ratedVVN	O
+zombieNN	B-movie.subject
+moviesNNS	O
+iNP	O
+canMD	O
+watchVV	O
+	
+lookNN	O
+forIN	O
+popularJJ	O
+moviesNNS	O
+	
+searchNN	O
+forIN	O
+foreignJJ	B-movie.language
+languageNN	I-movie.language
+filmsNNS	O
+	
+whatWP	O
+isVBZ	O
+willNN	B-actor.name
+ferrellNN	I-actor.name
+famousJJ	O
+forIN	O
+	
+isVBZ	O
+thisDT	O
+aDT	O
+musicalNN	B-movie.genre
+	
+hopeVVP	O
+thatIN/that	O
+theDT	O
+movieNN	O
+isVBZ	O
+inIN	O
+englishNN	B-movie.language
+	
+isVBZ	O
+thisDT	O
+movieNN	O
+inIN	O
+englishNN	B-movie.language
+	
+doVV	O
+theyPP	O
+speakVV	O
+germanJJ	B-movie.language
+inIN	O
+theDT	O
+movieNN	O
+	
+isVBZ	O
+thisDT	O
+movieNN	O
+filmedVVN	O
+inIN	O
+indiaNN	B-movie.location
+	
+showVV	O
+allDT	O
+dawnNN	B-movie.name
+ofIN	I-movie.name
+theDT	I-movie.name
+deadJJ	I-movie.name
+moviesNNS	O
+	
+allDT	O
+ofIN	O
+kungNP	B-movie.name
+fuNP	I-movie.name
+pandaNN	I-movie.name
+moviesNNS	O
+	
+listNN	O
+moviesNNS	O
+thatWDT	O
+haveVHP	O
+timeNN	O
+travelNN	O
+inIN	O
+theirPP$	O
+titleNN	O
+	
+iNNS	O
+wantVVP	O
+toTO	O
+seeVV	O
+nineCD	B-movie.release_date
+twentyCD	I-movie.release_date
+eightCD	I-movie.release_date
+releaseNN	O
+dateNN	O
+filmsNNS	O
+fromIN	O
+twentyCD	I-movie.release_date
+twelveNN	I-movie.release_date
+	
+findVV	O
+informationNN	O
+aboutIN	O
+frenchJJ	B-movie.language
+moviesNNS	O
+	
+iNNS	O
+needVVP	O
+toTO	O
+knowVV	O
+moreJJR	O
+aboutIN	O
+theDT	O
+lifeNN	O
+andCC	O
+moviesNNS	O
+ofIN	O
+indianJJ	B-actor.nationality
+actorNN	O
+dilipNN	B-actor.name
+kumarNN	I-actor.name
+	
+whatWP	O
+doesVVZ	O
+theDT	O
+miramaxNN	B-producer.name
+logoNN	O
+lookVVP	O
+likeIN	O
+	
+showVV	O
+mePP	O
+picturesNNS	O
+ofIN	O
+martinNN	B-person.name
+scorseseNN	I-person.name
+	
+photosNNS	O
+ofIN	O
+stevenJJ	B-person.name
+spielbergNN	I-person.name
+	
+iNNS	O
+wantVVP	O
+toTO	O
+seeVV	O
+imagesNNS	O
+ofIN	O
+willNN	B-person.name
+ferrellNN	I-person.name
+	
+showVV	O
+mePP	O
+picturesNNS	O
+ofIN	O
+woodyJJ	B-person.name
+allenNN	I-person.name
+	
+whatWP	O
+areVBP	O
+popularJJ	O
+movieNN	O
+producersNNS	O
+	
+canMD	O
+youPP	O
+giveVV	O
+mePP	O
+theDT	O
+producerNN	O
+	
+iNP	O
+wouldMD	O
+likeVV	O
+toTO	O
+knowVV	O
+theDT	O
+ratingNN	O
+ofIN	O
+theDT	O
+movieNN	O
+avatarNN	B-movie.name
+	
+whatWP	O
+ratingNN	O
+isVBZ	O
+theDT	O
+movieNN	O
+barfiNN	B-movie.name
+	
+whatWP	O
+isVBZ	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+ratedVVN	O
+	
+iNNS	O
+needVVP	O
+toTO	O
+knowVV	O
+theDT	O
+ratingNN	O
+ofIN	O
+greaseNN	B-movie.name
+	
+canMD	O
+youPP	O
+findVV	O
+outRP	O
+whatWP	O
+ratingNN	O
+theDT	O
+movieNN	O
+greaseNN	B-movie.name
+isVBZ	O
+	
+whatWP	O
+isVBZ	O
+kidsNNS	B-movie.name
+byIN	O
+larryNN	B-director.name
+clarkNN	I-director.name
+ratedVVN	O
+	
+whatWP	O
+ratingNN	O
+didVVD	O
+marleyNN	B-movie.name
+andCC	I-movie.name
+mePP	I-movie.name
+receiveVVP	O
+	
+whatWP	O
+isVBZ	O
+theDT	O
+ratingNN	O
+forIN	O
+mrNN	B-movie.name
+andCC	I-movie.name
+mrsNN	I-movie.name
+smithNN	I-movie.name
+	
+whatWP	O
+ratingNN	O
+didVVD	O
+residentJJ	B-movie.name
+evilNN	I-movie.name
+receiveVV	O
+	
+ratingNN	O
+forIN	O
+snowNN	B-movie.name
+whiteNN	I-movie.name
+andCC	I-movie.name
+theDT	I-movie.name
+huntsmanNN	I-movie.name
+	
+whatWP	O
+ratingNN	O
+isVBZ	O
+stepNN	B-movie.name
+upRB	I-movie.name
+	
+lookVV	O
+upRP	O
+theDT	O
+ratingNN	O
+ofIN	O
+theDT	O
+movieNN	O
+stepNN	B-movie.name
+upRB	I-movie.name
+	
+whatWP	O
+ratingNN	O
+didVVD	O
+theDT	B-movie.name
+campaignNN	I-movie.name
+movieNN	O
+getVV	O
+	
+showVV	O
+mePP	O
+theDT	O
+ratingNN	O
+forIN	O
+theDT	O
+movieNN	O
+theDT	B-movie.name
+expendablesNNS	I-movie.name
+	
+whatWP	O
+isVBZ	O
+theDT	O
+ratingNN	O
+forIN	O
+toyJJ	B-movie.name
+storyNN	I-movie.name
+	
+whatWP	O
+isVBZ	O
+theDT	O
+ratingNN	O
+forIN	O
+theDT	O
+movieNN	O
+toyNN	B-movie.name
+storyNN	I-movie.name
+	
+ratingNN	O
+forIN	O
+twilightNN	B-movie.name
+breakingVVG	I-movie.name
+dawnNN	I-movie.name
+	
+whatWP	O
+wasVBD	O
+grossJJ	O
+revenueNN	O
+forIN	O
+batmanNN	B-movie.name
+beginsVVZ	I-movie.name
+	
+howWRB	O
+muchRB	O
+hasVHZ	O
+blackJJ	B-movie.name
+swanNN	I-movie.name
+broughtVVN	O
+inIN	O
+	
+findVV	O
+theDT	O
+revenueNN	O
+forIN	O
+downtonNN	B-movie.name
+abbeyNN	I-movie.name
+	
+findVV	O
+theDT	O
+revenueNN	O
+ofIN	O
+edwardNN	B-movie.name
+scissorVVP	I-movie.name
+handsNNS	I-movie.name
+	
+whatWP	O
+isVBZ	O
+theDT	O
+mostJJS	O
+aDT	O
+movieNN	O
+madeVVD	O
+	
+reviewsNNS	O
+forIN	O
+dirtyJJ	B-movie.name
+dancingNN	I-movie.name
+	
+findVV	O
+reviewsNNS	O
+forIN	O
+dirtyJJ	B-movie.name
+dancingNN	I-movie.name
+	
+whatWP	O
+areVBP	O
+reviewsNNS	O
+forIN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+whatWP	O
+areVBP	O
+theDT	O
+ratingsNNS	O
+andCC	O
+reviewNN	O
+onIN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+reviewsNNS	O
+forIN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+reviewsNNS	O
+forIN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+reviewsNNS	O
+forIN	O
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+	
+reviewsNNS	O
+forIN	O
+movieNN	O
+	
+reviewsNNS	O
+forIN	O
+inIN	B-movie.name
+julyNN	I-movie.name
+	
+whatWP	O
+areVBP	O
+theDT	O
+reviewersNNS	O
+sayingVVG	O
+aboutIN	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+episodeNN	I-movie.name
+fourCD	I-movie.name
+	
+howWRB	O
+longRB	O
+isVBZ	O
+lifeNN	B-movie.name
+isVBZ	I-movie.name
+beautifulJJ	I-movie.name
+	
+synopsisNN	O
+forIN	O
+theDT	O
+movieNN	O
+houseNN	B-movie.name
+atIN	I-movie.name
+theDT	I-movie.name
+endNN	I-movie.name
+ofIN	I-movie.name
+theDT	I-movie.name
+streetNN	I-movie.name
+	
+synopsisNN	O
+forIN	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+fourCD	I-movie.name
+	
+summaryNN	O
+ofIN	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+fourCD	I-movie.name
+	
+findingVVG	B-movie.name
+nemoNN	I-movie.name
+movieNN	O
+shortcutNN	O
+	
+showVV	O
+mePP	O
+theDT	O
+trailerNN	O
+forIN	O
+houseNN	B-movie.name
+atIN	I-movie.name
+theDT	I-movie.name
+endNN	I-movie.name
+ofIN	I-movie.name
+theDT	I-movie.name
+streetNN	I-movie.name
+	
+lifeNN	B-movie.name
+isVBZ	I-movie.name
+beatifulJJ	I-movie.name
+shortcutNN	O
+	
+trailerNN	O
+forIN	O
+starNN	B-movie.name
+warsNNS	I-movie.name
+aDT	I-movie.name
+newJJ	I-movie.name
+hopeNN	I-movie.name
+	
+showVV	O
+residentJJ	B-movie.name
+evilJJ	I-movie.name
+moviesNNS	O
+withIN	O
+trailersNNS	O
+	
+canMD	O
+iNNS	O
+seeVV	O
+previewsNNS	O
+forIN	O
+upcomingJJ	O
+warnerNN	B-producer.name
+brothersNNS	I-producer.name
+moviesNNS	O
+	
+howWRB	O
+manyJJ	O
+woodyJJ	B-director.name
+allenNN	I-director.name
+moviesNNS	O
+areVBP	O
+setVVN	O
+inIN	O
+newJJ	B-movie.location
+yorkVVP	I-movie.location
+cityNN	I-movie.location
+	
+howWRB	O
+manyJJ	O
+scorseseJJ	B-producer.name
+filmsNNS	O
+wereVBD	O
+filmedVVN	O
+inIN	O
+franceNN	B-movie.location
+	
